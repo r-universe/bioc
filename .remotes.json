@@ -10,5 +10,11 @@
     "url": "https://github.com/coolbutuseless/ggpattern",
     "via": ["ALDEx2"],
     "from": "ALDEx2"
+  },
+  {
+    "package": "tidydr",
+    "url": "https://github.com/YuLab-SMU/tidydr",
+    "via": ["enrichplot"],
+    "from": "enrichplot"
   }
 ]
