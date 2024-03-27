@@ -1580,9 +1580,6 @@
 [submodule "IntEREst"]
 	path = IntEREst
 	url = https://github.com/bioc/IntEREst
-[submodule "IntOMICS"]
-	path = IntOMICS
-	url = https://github.com/bioc/IntOMICS
 [submodule "InterCellar"]
 	path = InterCellar
 	url = https://github.com/bioc/InterCellar
