@@ -3043,7 +3043,7 @@
 	url = https://github.com/bioc/SurfR
 [submodule "SwathXtend"]
 	path = SwathXtend
-	url = https://github.com/bioc/SwathXtend
+	url = https://git.bioconductor.org/packages/SwathXtend
 [submodule "SynExtend"]
 	path = SynExtend
 	url = https://github.com/bioc/SynExtend
@@ -4685,7 +4685,7 @@
 	url = https://github.com/bioc/gypsum
 [submodule "h5vc"]
 	path = h5vc
-	url = https://github.com/bioc/h5vc
+	url = https://git.bioconductor.org/packages/h5vc
 [submodule "hapFabia"]
 	path = hapFabia
 	url = https://github.com/bioc/hapFabia
