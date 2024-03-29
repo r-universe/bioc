@@ -563,6 +563,9 @@
 [submodule "CaDrA"]
 	path = CaDrA
 	url = https://github.com/bioc/CaDrA
+[submodule "CaMutQC"]
+	path = CaMutQC
+	url = https://github.com/bioc/CaMutQC
 [submodule "CancerSubtypes"]
 	path = CancerSubtypes
 	url = https://github.com/bioc/CancerSubtypes
@@ -740,6 +743,9 @@
 [submodule "CytoGLMM"]
 	path = CytoGLMM
 	url = https://github.com/bioc/CytoGLMM
+[submodule "CytoMDS"]
+	path = CytoMDS
+	url = https://github.com/bioc/CytoMDS
 [submodule "CytoML"]
 	path = CytoML
 	url = https://github.com/bioc/CytoML
@@ -1352,6 +1358,9 @@
 [submodule "GmicR"]
 	path = GmicR
 	url = https://github.com/bioc/GmicR
+[submodule "GrafGen"]
+	path = GrafGen
+	url = https://github.com/bioc/GrafGen
 [submodule "GraphAT"]
 	path = GraphAT
 	url = https://github.com/bioc/GraphAT
@@ -1475,6 +1484,9 @@
 [submodule "HumanTranscriptomeCompendium"]
 	path = HumanTranscriptomeCompendium
 	url = https://github.com/bioc/HumanTranscriptomeCompendium
+[submodule "HybridExpress"]
+	path = HybridExpress
+	url = https://github.com/bioc/HybridExpress
 [submodule "HybridMTest"]
 	path = HybridMTest
 	url = https://github.com/bioc/HybridMTest
@@ -4055,6 +4067,9 @@
 [submodule "diggit"]
 	path = diggit
 	url = https://github.com/bioc/diggit
+[submodule "dinoR"]
+	path = dinoR
+	url = https://github.com/bioc/dinoR
 [submodule "dir.expiry"]
 	path = dir.expiry
 	url = https://github.com/bioc/dir.expiry
@@ -5200,6 +5215,9 @@
 [submodule "motifStack"]
 	path = motifStack
 	url = https://github.com/bioc/motifStack
+[submodule "motifTestR"]
+	path = motifTestR
+	url = https://github.com/bioc/motifTestR
 [submodule "motifbreakR"]
 	path = motifbreakR
 	url = https://github.com/bioc/motifbreakR
