@@ -1742,6 +1742,9 @@
 [submodule "MGFR"]
 	path = MGFR
 	url = https://github.com/bioc/MGFR
+[submodule "MGnifyR"]
+	path = MGnifyR
+	url = https://github.com/bioc/MGnifyR
 [submodule "MICSQTL"]
 	path = MICSQTL
 	url = https://github.com/bioc/MICSQTL
