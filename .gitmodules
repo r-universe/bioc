@@ -494,6 +494,9 @@
 [submodule "CNVMetrics"]
 	path = CNVMetrics
 	url = https://github.com/bioc/CNVMetrics
+[submodule "CNVPanelizer"]
+	path = CNVPanelizer
+	url = https://github.com/bioc/CNVPanelizer
 [submodule "CNVRanger"]
 	path = CNVRanger
 	url = https://github.com/bioc/CNVRanger
@@ -1481,9 +1484,6 @@
 [submodule "HubPub"]
 	path = HubPub
 	url = https://github.com/bioc/HubPub
-[submodule "HumanTranscriptomeCompendium"]
-	path = HumanTranscriptomeCompendium
-	url = https://github.com/bioc/HumanTranscriptomeCompendium
 [submodule "HybridExpress"]
 	path = HybridExpress
 	url = https://github.com/bioc/HybridExpress
@@ -3947,6 +3947,9 @@
 [submodule "cydar"]
 	path = cydar
 	url = https://github.com/bioc/cydar
+[submodule "cypress"]
+	path = cypress
+	url = https://github.com/bioc/cypress
 [submodule "cytoKernel"]
 	path = cytoKernel
 	url = https://github.com/bioc/cytoKernel
@@ -4839,6 +4842,9 @@
 [submodule "kissDE"]
 	path = kissDE
 	url = https://github.com/bioc/kissDE
+[submodule "knowYourCG"]
+	path = knowYourCG
+	url = https://github.com/bioc/knowYourCG
 [submodule "lapmix"]
 	path = lapmix
 	url = https://github.com/bioc/lapmix
@@ -6268,6 +6274,12 @@
 [submodule "slingshot"]
 	path = slingshot
 	url = https://github.com/bioc/slingshot
+[submodule "smartid"]
+	path = smartid
+	url = https://github.com/bioc/smartid
+[submodule "smoothclust"]
+	path = smoothclust
+	url = https://github.com/bioc/smoothclust
 [submodule "snapcount"]
 	path = snapcount
 	url = https://github.com/bioc/snapcount
