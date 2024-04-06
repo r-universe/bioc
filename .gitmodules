@@ -680,6 +680,9 @@
 [submodule "CluMSID"]
 	path = CluMSID
 	url = https://github.com/bioc/CluMSID
+[submodule "ClustAll"]
+	path = ClustAll
+	url = https://github.com/bioc/ClustAll
 [submodule "ClustIRR"]
 	path = ClustIRR
 	url = https://github.com/bioc/ClustIRR
@@ -1736,6 +1739,9 @@
 [submodule "MEDME"]
 	path = MEDME
 	url = https://github.com/bioc/MEDME
+[submodule "MEIGOR"]
+	path = MEIGOR
+	url = https://github.com/bioc/MEIGOR
 [submodule "MGFM"]
 	path = MGFM
 	url = https://github.com/bioc/MGFM
@@ -2921,6 +2927,9 @@
 [submodule "SomaticSignatures"]
 	path = SomaticSignatures
 	url = https://github.com/bioc/SomaticSignatures
+[submodule "SpaceMarkers"]
+	path = SpaceMarkers
+	url = https://github.com/bioc/SpaceMarkers
 [submodule "SpacePAC"]
 	path = SpacePAC
 	url = https://github.com/bioc/SpacePAC
@@ -3152,6 +3161,9 @@
 [submodule "TypeInfo"]
 	path = TypeInfo
 	url = https://github.com/bioc/TypeInfo
+[submodule "UCSC.utils"]
+	path = UCSC.utils
+	url = https://github.com/bioc/UCSC.utils
 [submodule "UCell"]
 	path = UCell
 	url = https://github.com/bioc/UCell
@@ -4728,6 +4740,9 @@
 [submodule "iSEEde"]
 	path = iSEEde
 	url = https://github.com/bioc/iSEEde
+[submodule "iSEEfier"]
+	path = iSEEfier
+	url = https://github.com/bioc/iSEEfier
 [submodule "iSEEhex"]
 	path = iSEEhex
 	url = https://github.com/bioc/iSEEhex
