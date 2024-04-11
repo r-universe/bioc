@@ -22,11 +22,5 @@
     "url": "https://github.com/YuLab-SMU/tidydr",
     "via": ["enrichplot"],
     "from": "enrichplot"
-  },
-  {
-    "package": "treeio",
-    "url": "https://github.com/YuLab-SMU/treeio",
-    "via": ["ggtree"],
-    "from": "ggtree"
   }
 ]
