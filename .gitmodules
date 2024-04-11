@@ -3479,6 +3479,9 @@
 [submodule "bayNorm"]
 	path = bayNorm
 	url = https://github.com/bioc/bayNorm
+[submodule "baySeq"]
+	path = baySeq
+	url = https://github.com/bioc/baySeq
 [submodule "bcSeq"]
 	path = bcSeq
 	url = https://github.com/bioc/bcSeq
