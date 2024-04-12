@@ -2042,6 +2042,9 @@
 [submodule "MungeSumstats"]
 	path = MungeSumstats
 	url = https://github.com/bioc/MungeSumstats
+[submodule "MutationalPatterns"]
+	path = MutationalPatterns
+	url = https://github.com/bioc/MutationalPatterns
 [submodule "NADfinder"]
 	path = NADfinder
 	url = https://github.com/bioc/NADfinder
@@ -2885,6 +2888,9 @@
 [submodule "SeqGate"]
 	path = SeqGate
 	url = https://github.com/bioc/SeqGate
+[submodule "SeqSQC"]
+	path = SeqSQC
+	url = https://github.com/bioc/SeqSQC
 [submodule "SeqVarTools"]
 	path = SeqVarTools
 	url = https://github.com/bioc/SeqVarTools
