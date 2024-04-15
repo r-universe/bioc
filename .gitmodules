@@ -3788,6 +3788,9 @@
 [submodule "clusterProfiler"]
 	path = clusterProfiler
 	url = https://github.com/bioc/clusterProfiler
+[submodule "clusterSeq"]
+	path = clusterSeq
+	url = https://github.com/bioc/clusterSeq
 [submodule "clusterStab"]
 	path = clusterStab
 	url = https://github.com/bioc/clusterStab
@@ -5929,6 +5932,9 @@
 [submodule "rhdf5filters"]
 	path = rhdf5filters
 	url = https://github.com/bioc/rhdf5filters
+[submodule "riboSeqR"]
+	path = riboSeqR
+	url = https://github.com/bioc/riboSeqR
 [submodule "ribor"]
 	path = ribor
 	url = https://github.com/bioc/ribor
@@ -6175,6 +6181,9 @@
 [submodule "sechm"]
 	path = sechm
 	url = https://github.com/bioc/sechm
+[submodule "segmentSeq"]
+	path = segmentSeq
+	url = https://github.com/bioc/segmentSeq
 [submodule "segmenter"]
 	path = segmenter
 	url = https://github.com/bioc/segmenter
