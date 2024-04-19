@@ -209,6 +209,9 @@
 [submodule "BRAIN"]
 	path = BRAIN
 	url = https://github.com/bioc/BRAIN
+[submodule "BREW3R.r"]
+	path = BREW3R.r
+	url = https://github.com/bioc/BREW3R.r
 [submodule "BRGenomics"]
 	path = BRGenomics
 	url = https://github.com/bioc/BRGenomics
@@ -2213,6 +2216,9 @@
 [submodule "PIPETS"]
 	path = PIPETS
 	url = https://github.com/bioc/PIPETS
+[submodule "PIUMA"]
+	path = PIUMA
+	url = https://github.com/bioc/PIUMA
 [submodule "PLPE"]
 	path = PLPE
 	url = https://github.com/bioc/PLPE
@@ -3179,6 +3185,9 @@
 [submodule "UNDO"]
 	path = UNDO
 	url = https://github.com/bioc/UNDO
+[submodule "UPDhmm"]
+	path = UPDhmm
+	url = https://github.com/bioc/UPDhmm
 [submodule "Ularcirc"]
 	path = Ularcirc
 	url = https://github.com/bioc/Ularcirc
@@ -4659,6 +4668,9 @@
 [submodule "hca"]
 	path = hca
 	url = https://github.com/bioc/hca
+[submodule "hdxmsqc"]
+	path = hdxmsqc
+	url = https://github.com/bioc/hdxmsqc
 [submodule "heatmaps"]
 	path = heatmaps
 	url = https://github.com/bioc/heatmaps
@@ -5752,6 +5764,9 @@
 [submodule "pvca"]
 	path = pvca
 	url = https://github.com/bioc/pvca
+[submodule "pwalign"]
+	path = pwalign
+	url = https://github.com/bioc/pwalign
 [submodule "qPLEXanalyzer"]
 	path = qPLEXanalyzer
 	url = https://github.com/bioc/qPLEXanalyzer
@@ -6082,6 +6097,9 @@
 [submodule "scMitoMut"]
 	path = scMitoMut
 	url = https://github.com/bioc/scMitoMut
+[submodule "scMultiSim"]
+	path = scMultiSim
+	url = https://github.com/bioc/scMultiSim
 [submodule "scPCA"]
 	path = scPCA
 	url = https://github.com/bioc/scPCA
