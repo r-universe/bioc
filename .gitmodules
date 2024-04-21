@@ -851,6 +851,9 @@
 [submodule "DaMiRseq"]
 	path = DaMiRseq
 	url = https://github.com/bioc/DaMiRseq
+[submodule "Damsel"]
+	path = Damsel
+	url = https://github.com/bioc/Damsel
 [submodule "DeMAND"]
 	path = DeMAND
 	url = https://github.com/bioc/DeMAND
