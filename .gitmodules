@@ -1223,6 +1223,9 @@
 [submodule "GateFinder"]
 	path = GateFinder
 	url = https://github.com/bioc/GateFinder
+[submodule "GeDi"]
+	path = GeDi
+	url = https://github.com/bioc/GeDi
 [submodule "GenProSeq"]
 	path = GenProSeq
 	url = https://github.com/bioc/GenProSeq
@@ -2924,6 +2927,9 @@
 [submodule "SpotClean"]
 	path = SpotClean
 	url = https://github.com/bioc/SpotClean
+[submodule "SpotSweeper"]
+	path = SpotSweeper
+	url = https://github.com/bioc/SpotSweeper
 [submodule "Statial"]
 	path = Statial
 	url = https://github.com/bioc/Statial
@@ -4479,6 +4485,9 @@
 [submodule "ggtreeExtra"]
 	path = ggtreeExtra
 	url = https://github.com/bioc/ggtreeExtra
+[submodule "ggtreeSpace"]
+	path = ggtreeSpace
+	url = https://github.com/bioc/ggtreeSpace
 [submodule "ginmappeR"]
 	path = ginmappeR
 	url = https://github.com/bioc/ginmappeR
@@ -5209,6 +5218,9 @@
 [submodule "multiscan"]
 	path = multiscan
 	url = https://github.com/bioc/multiscan
+[submodule "multistateQTL"]
+	path = multistateQTL
+	url = https://github.com/bioc/multistateQTL
 [submodule "multtest"]
 	path = multtest
 	url = https://github.com/bioc/multtest
@@ -6172,6 +6184,9 @@
 [submodule "single"]
 	path = single
 	url = https://github.com/bioc/single
+[submodule "singleCellTK"]
+	path = singleCellTK
+	url = https://github.com/bioc/singleCellTK
 [submodule "singscore"]
 	path = singscore
 	url = https://github.com/bioc/singscore
