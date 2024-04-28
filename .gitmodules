@@ -1448,6 +1448,9 @@
 [submodule "HiTC"]
 	path = HiTC
 	url = https://github.com/bioc/HiTC
+[submodule "HicAggR"]
+	path = HicAggR
+	url = https://github.com/bioc/HicAggR
 [submodule "HilbertCurve"]
 	path = HilbertCurve
 	url = https://github.com/bioc/HilbertCurve
@@ -1664,6 +1667,9 @@
 [submodule "MANOR"]
 	path = MANOR
 	url = https://github.com/bioc/MANOR
+[submodule "MAPFX"]
+	path = MAPFX
+	url = https://github.com/bioc/MAPFX
 [submodule "MAST"]
 	path = MAST
 	url = https://github.com/bioc/MAST
@@ -2861,6 +2867,9 @@
 [submodule "SimFFPE"]
 	path = SimFFPE
 	url = https://github.com/bioc/SimFFPE
+[submodule "SingleCellAlleleExperiment"]
+	path = SingleCellAlleleExperiment
+	url = https://github.com/bioc/SingleCellAlleleExperiment
 [submodule "SingleCellExperiment"]
 	path = SingleCellExperiment
 	url = https://github.com/bioc/SingleCellExperiment
@@ -4130,6 +4139,12 @@
 [submodule "epimutacions"]
 	path = epimutacions
 	url = https://github.com/bioc/epimutacions
+[submodule "epiregulon"]
+	path = epiregulon
+	url = https://github.com/bioc/epiregulon
+[submodule "epiregulon.extra"]
+	path = epiregulon.extra
+	url = https://github.com/bioc/epiregulon.extra
 [submodule "epistack"]
 	path = epistack
 	url = https://github.com/bioc/epistack
@@ -4229,6 +4244,9 @@
 [submodule "fgsea"]
 	path = fgsea
 	url = https://github.com/bioc/fgsea
+[submodule "findIPs"]
+	path = findIPs
+	url = https://github.com/bioc/findIPs
 [submodule "fishpond"]
 	path = fishpond
 	url = https://github.com/bioc/fishpond
@@ -4358,6 +4376,9 @@
 [submodule "gDRutils"]
 	path = gDRutils
 	url = https://github.com/bioc/gDRutils
+[submodule "gINTomics"]
+	path = gINTomics
+	url = https://github.com/bioc/gINTomics
 [submodule "gaga"]
 	path = gaga
 	url = https://github.com/bioc/gaga
@@ -4815,6 +4836,9 @@
 [submodule "limmaGUI"]
 	path = limmaGUI
 	url = https://github.com/bioc/limmaGUI
+[submodule "limpca"]
+	path = limpca
+	url = https://github.com/bioc/limpca
 [submodule "lineagespot"]
 	path = lineagespot
 	url = https://github.com/bioc/lineagespot
@@ -5155,6 +5179,9 @@
 [submodule "mosbi"]
 	path = mosbi
 	url = https://github.com/bioc/mosbi
+[submodule "mosdef"]
+	path = mosdef
+	url = https://github.com/bioc/mosdef
 [submodule "motifStack"]
 	path = motifStack
 	url = https://github.com/bioc/motifStack
@@ -5698,6 +5725,9 @@
 [submodule "r3Cseq"]
 	path = r3Cseq
 	url = https://github.com/bioc/r3Cseq
+[submodule "rBLAST"]
+	path = rBLAST
+	url = https://github.com/bioc/rBLAST
 [submodule "rBiopaxParser"]
 	path = rBiopaxParser
 	url = https://github.com/bioc/rBiopaxParser
