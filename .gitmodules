@@ -2264,6 +2264,9 @@
 [submodule "Pigengene"]
 	path = Pigengene
 	url = https://github.com/bioc/Pigengene
+[submodule "Pirat"]
+	path = Pirat
+	url = https://github.com/bioc/Pirat
 [submodule "PoDCall"]
 	path = PoDCall
 	url = https://github.com/bioc/PoDCall
@@ -6380,6 +6383,9 @@
 [submodule "surfaltr"]
 	path = surfaltr
 	url = https://github.com/bioc/surfaltr
+[submodule "survClust"]
+	path = survClust
+	url = https://github.com/bioc/survClust
 [submodule "survcomp"]
 	path = survcomp
 	url = https://github.com/bioc/survcomp
@@ -6464,6 +6470,9 @@
 [submodule "tidyCoverage"]
 	path = tidyCoverage
 	url = https://github.com/bioc/tidyCoverage
+[submodule "tidyFlowCore"]
+	path = tidyFlowCore
+	url = https://github.com/bioc/tidyFlowCore
 [submodule "tidySingleCellExperiment"]
 	path = tidySingleCellExperiment
 	url = https://github.com/bioc/tidySingleCellExperiment
