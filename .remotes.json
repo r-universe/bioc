@@ -30,6 +30,12 @@
     "from": "timeOmics"
   },
   {
+    "package": "miaTime",
+    "url": "https://github.com/microbiome/miaTime",
+    "via": ["miaViz"],
+    "from": "miaViz"
+  },
+  {
     "package": "tidydr",
     "url": "https://github.com/YuLab-SMU/tidydr",
     "via": ["enrichplot"],
