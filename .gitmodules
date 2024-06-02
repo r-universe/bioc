@@ -209,6 +209,9 @@
 [submodule "BREW3R.r"]
 	path = BREW3R.r
 	url = https://github.com/bioc/BREW3R.r
+[submodule "BRGenomics"]
+	path = BRGenomics
+	url = https://github.com/bioc/BRGenomics
 [submodule "BSgenome"]
 	path = BSgenome
 	url = https://github.com/bioc/BSgenome
@@ -341,6 +344,9 @@
 [submodule "BiocNeighbors"]
 	path = BiocNeighbors
 	url = https://github.com/bioc/BiocNeighbors
+[submodule "BiocOncoTK"]
+	path = BiocOncoTK
+	url = https://github.com/bioc/BiocOncoTK
 [submodule "BiocParallel"]
 	path = BiocParallel
 	url = https://github.com/bioc/BiocParallel
@@ -353,6 +359,9 @@
 [submodule "BiocSingular"]
 	path = BiocSingular
 	url = https://github.com/bioc/BiocSingular
+[submodule "BiocSklearn"]
+	path = BiocSklearn
+	url = https://github.com/bioc/BiocSklearn
 [submodule "BiocStyle"]
 	path = BiocStyle
 	url = https://github.com/bioc/BiocStyle
@@ -587,12 +596,21 @@
 [submodule "CellTrails"]
 	path = CellTrails
 	url = https://github.com/bioc/CellTrails
+[submodule "CellaRepertorium"]
+	path = CellaRepertorium
+	url = https://github.com/bioc/CellaRepertorium
 [submodule "CelliD"]
 	path = CelliD
 	url = https://github.com/bioc/CelliD
+[submodule "Cepo"]
+	path = Cepo
+	url = https://github.com/bioc/Cepo
 [submodule "CexoR"]
 	path = CexoR
 	url = https://github.com/bioc/CexoR
+[submodule "ChAMP"]
+	path = ChAMP
+	url = https://github.com/bioc/ChAMP
 [submodule "ChIPComp"]
 	path = ChIPComp
 	url = https://github.com/bioc/ChIPComp
@@ -773,6 +791,9 @@
 [submodule "DEXSeq"]
 	path = DEXSeq
 	url = https://github.com/bioc/DEXSeq
+[submodule "DEqMS"]
+	path = DEqMS
+	url = https://github.com/bioc/DEqMS
 [submodule "DEsingle"]
 	path = DEsingle
 	url = https://github.com/bioc/DEsingle
@@ -803,6 +824,9 @@
 [submodule "DMRcate"]
 	path = DMRcate
 	url = https://github.com/bioc/DMRcate
+[submodule "DNABarcodeCompatibility"]
+	path = DNABarcodeCompatibility
+	url = https://github.com/bioc/DNABarcodeCompatibility
 [submodule "DNAcopy"]
 	path = DNAcopy
 	url = https://github.com/bioc/DNAcopy
@@ -827,6 +851,9 @@
 [submodule "DaMiRseq"]
 	path = DaMiRseq
 	url = https://github.com/bioc/DaMiRseq
+[submodule "Damsel"]
+	path = Damsel
+	url = https://github.com/bioc/Damsel
 [submodule "DeMAND"]
 	path = DeMAND
 	url = https://github.com/bioc/DeMAND
@@ -971,6 +998,9 @@
 [submodule "EnrichmentBrowser"]
 	path = EnrichmentBrowser
 	url = https://github.com/bioc/EnrichmentBrowser
+[submodule "EpiCompare"]
+	path = EpiCompare
+	url = https://github.com/bioc/EpiCompare
 [submodule "EpiDISH"]
 	path = EpiDISH
 	url = https://github.com/bioc/EpiDISH
@@ -1370,6 +1400,9 @@
 [submodule "HTSeqGenie"]
 	path = HTSeqGenie
 	url = https://github.com/bioc/HTSeqGenie
+[submodule "HTqPCR"]
+	path = HTqPCR
+	url = https://github.com/bioc/HTqPCR
 [submodule "Harman"]
 	path = Harman
 	url = https://github.com/bioc/Harman
@@ -1736,6 +1769,9 @@
 [submodule "MPRAnalyze"]
 	path = MPRAnalyze
 	url = https://github.com/bioc/MPRAnalyze
+[submodule "MQmetrics"]
+	path = MQmetrics
+	url = https://github.com/bioc/MQmetrics
 [submodule "MSA2dist"]
 	path = MSA2dist
 	url = https://github.com/bioc/MSA2dist
@@ -2078,6 +2114,9 @@
 [submodule "Omixer"]
 	path = Omixer
 	url = https://github.com/bioc/Omixer
+[submodule "OmnipathR"]
+	path = OmnipathR
+	url = https://github.com/bioc/OmnipathR
 [submodule "OncoScore"]
 	path = OncoScore
 	url = https://github.com/bioc/OncoScore
@@ -2219,6 +2258,9 @@
 [submodule "PhyloProfile"]
 	path = PhyloProfile
 	url = https://github.com/bioc/PhyloProfile
+[submodule "Pi"]
+	path = Pi
+	url = https://github.com/bioc/Pi
 [submodule "Pigengene"]
 	path = Pigengene
 	url = https://github.com/bioc/Pigengene
@@ -2378,6 +2420,9 @@
 [submodule "RNAdecay"]
 	path = RNAdecay
 	url = https://github.com/bioc/RNAdecay
+[submodule "RNAinteract"]
+	path = RNAinteract
+	url = https://github.com/bioc/RNAinteract
 [submodule "RNAmodR"]
 	path = RNAmodR
 	url = https://github.com/bioc/RNAmodR
@@ -2465,6 +2510,9 @@
 [submodule "RaggedExperiment"]
 	path = RaggedExperiment
 	url = https://github.com/bioc/RaggedExperiment
+[submodule "RandomWalkRestartMH"]
+	path = RandomWalkRestartMH
+	url = https://github.com/bioc/RandomWalkRestartMH
 [submodule "RankProd"]
 	path = RankProd
 	url = https://github.com/bioc/RankProd
@@ -2576,6 +2624,9 @@
 [submodule "RiboProfiling"]
 	path = RiboProfiling
 	url = https://github.com/bioc/RiboProfiling
+[submodule "Risa"]
+	path = Risa
+	url = https://github.com/bioc/Risa
 [submodule "Rmagpie"]
 	path = Rmagpie
 	url = https://github.com/bioc/Rmagpie
@@ -2621,6 +2672,9 @@
 [submodule "SAIGEgds"]
 	path = SAIGEgds
 	url = https://github.com/bioc/SAIGEgds
+[submodule "SANTA"]
+	path = SANTA
+	url = https://github.com/bioc/SANTA
 [submodule "SARC"]
 	path = SARC
 	url = https://github.com/bioc/SARC
@@ -2666,6 +2720,9 @@
 [submodule "SEtools"]
 	path = SEtools
 	url = https://github.com/bioc/SEtools
+[submodule "SGCP"]
+	path = SGCP
+	url = https://github.com/bioc/SGCP
 [submodule "SGSeq"]
 	path = SGSeq
 	url = https://github.com/bioc/SGSeq
@@ -2693,6 +2750,9 @@
 [submodule "SMAD"]
 	path = SMAD
 	url = https://github.com/bioc/SMAD
+[submodule "SMITE"]
+	path = SMITE
+	url = https://github.com/bioc/SMITE
 [submodule "SNAGEE"]
 	path = SNAGEE
 	url = https://github.com/bioc/SNAGEE
@@ -2897,6 +2957,9 @@
 [submodule "SubCellBarCode"]
 	path = SubCellBarCode
 	url = https://github.com/bioc/SubCellBarCode
+[submodule "SummarizedBenchmark"]
+	path = SummarizedBenchmark
+	url = https://github.com/bioc/SummarizedBenchmark
 [submodule "SummarizedExperiment"]
 	path = SummarizedExperiment
 	url = https://github.com/bioc/SummarizedExperiment
@@ -3002,6 +3065,9 @@
 [submodule "TTMap"]
 	path = TTMap
 	url = https://github.com/bioc/TTMap
+[submodule "TVTB"]
+	path = TVTB
+	url = https://github.com/bioc/TVTB
 [submodule "TargetDecoy"]
 	path = TargetDecoy
 	url = https://github.com/bioc/TargetDecoy
@@ -4019,6 +4085,9 @@
 [submodule "easier"]
 	path = easier
 	url = https://github.com/bioc/easier
+[submodule "easyRNASeq"]
+	path = easyRNASeq
+	url = https://github.com/bioc/easyRNASeq
 [submodule "easylift"]
 	path = easylift
 	url = https://github.com/bioc/easylift
@@ -4310,6 +4379,9 @@
 [submodule "gDRutils"]
 	path = gDRutils
 	url = https://github.com/bioc/gDRutils
+[submodule "gINTomics"]
+	path = gINTomics
+	url = https://github.com/bioc/gINTomics
 [submodule "gaga"]
 	path = gaga
 	url = https://github.com/bioc/gaga
@@ -4391,6 +4463,9 @@
 [submodule "gep2pep"]
 	path = gep2pep
 	url = https://github.com/bioc/gep2pep
+[submodule "gespeR"]
+	path = gespeR
+	url = https://github.com/bioc/gespeR
 [submodule "getDEE2"]
 	path = getDEE2
 	url = https://github.com/bioc/getDEE2
@@ -4473,6 +4548,9 @@
 [submodule "goTools"]
 	path = goTools
 	url = https://github.com/bioc/goTools
+[submodule "goseq"]
+	path = goseq
+	url = https://github.com/bioc/goseq
 [submodule "gpls"]
 	path = gpls
 	url = https://github.com/bioc/gpls
@@ -4525,6 +4603,9 @@
 [submodule "hca"]
 	path = hca
 	url = https://github.com/bioc/hca
+[submodule "hdxmsqc"]
+	path = hdxmsqc
+	url = https://github.com/bioc/hdxmsqc
 [submodule "heatmaps"]
 	path = heatmaps
 	url = https://github.com/bioc/heatmaps
@@ -4648,6 +4729,9 @@
 [submodule "icetea"]
 	path = icetea
 	url = https://github.com/bioc/icetea
+[submodule "ideal"]
+	path = ideal
+	url = https://github.com/bioc/ideal
 [submodule "idiogram"]
 	path = idiogram
 	url = https://github.com/bioc/idiogram
@@ -5102,6 +5186,9 @@
 [submodule "mosbi"]
 	path = mosbi
 	url = https://github.com/bioc/mosbi
+[submodule "mosdef"]
+	path = mosdef
+	url = https://github.com/bioc/mosdef
 [submodule "motifStack"]
 	path = motifStack
 	url = https://github.com/bioc/motifStack
@@ -5129,6 +5216,9 @@
 [submodule "msa"]
 	path = msa
 	url = https://github.com/bioc/msa
+[submodule "msgbsR"]
+	path = msgbsR
+	url = https://github.com/bioc/msgbsR
 [submodule "mslp"]
 	path = mslp
 	url = https://github.com/bioc/mslp
@@ -5192,6 +5282,9 @@
 [submodule "mzR"]
 	path = mzR
 	url = https://github.com/bioc/mzR
+[submodule "nanotatoR"]
+	path = nanotatoR
+	url = https://github.com/bioc/nanotatoR
 [submodule "ncGTW"]
 	path = ncGTW
 	url = https://github.com/bioc/ncGTW
@@ -5213,6 +5306,9 @@
 [submodule "netDx"]
 	path = netDx
 	url = https://github.com/bioc/netDx
+[submodule "netOmics"]
+	path = netOmics
+	url = https://github.com/bioc/netOmics
 [submodule "netSmooth"]
 	path = netSmooth
 	url = https://github.com/bioc/netSmooth
@@ -5243,6 +5339,9 @@
 [submodule "nnSVG"]
 	path = nnSVG
 	url = https://github.com/bioc/nnSVG
+[submodule "nondetects"]
+	path = nondetects
+	url = https://github.com/bioc/nondetects
 [submodule "normalize450K"]
 	path = normalize450K
 	url = https://github.com/bioc/normalize450K
@@ -5396,6 +5495,9 @@
 [submodule "pathwayPCA"]
 	path = pathwayPCA
 	url = https://github.com/bioc/pathwayPCA
+[submodule "paxtoolsr"]
+	path = paxtoolsr
+	url = https://github.com/bioc/paxtoolsr
 [submodule "pcaExplorer"]
 	path = pcaExplorer
 	url = https://github.com/bioc/pcaExplorer
@@ -5507,6 +5609,9 @@
 [submodule "pogos"]
 	path = pogos
 	url = https://github.com/bioc/pogos
+[submodule "polyester"]
+	path = polyester
+	url = https://github.com/bioc/polyester
 [submodule "powerTCR"]
 	path = powerTCR
 	url = https://github.com/bioc/powerTCR
@@ -5750,6 +5855,9 @@
 [submodule "rgoslin"]
 	path = rgoslin
 	url = https://github.com/bioc/rgoslin
+[submodule "rgsepd"]
+	path = rgsepd
+	url = https://github.com/bioc/rgsepd
 [submodule "rhdf5"]
 	path = rhdf5
 	url = https://github.com/bioc/rhdf5
@@ -5804,6 +5912,9 @@
 [submodule "rpx"]
 	path = rpx
 	url = https://github.com/bioc/rpx
+[submodule "rqt"]
+	path = rqt
+	url = https://github.com/bioc/rqt
 [submodule "rqubic"]
 	path = rqubic
 	url = https://github.com/bioc/rqubic
@@ -5867,6 +5978,9 @@
 [submodule "scCB2"]
 	path = scCB2
 	url = https://github.com/bioc/scCB2
+[submodule "scClassify"]
+	path = scClassify
+	url = https://github.com/bioc/scClassify
 [submodule "scDD"]
 	path = scDD
 	url = https://github.com/bioc/scDD
@@ -6080,6 +6194,9 @@
 [submodule "signeR"]
 	path = signeR
 	url = https://github.com/bioc/signeR
+[submodule "signifinder"]
+	path = signifinder
+	url = https://github.com/bioc/signifinder
 [submodule "sigsquared"]
 	path = sigsquared
 	url = https://github.com/bioc/sigsquared
@@ -6155,6 +6272,9 @@
 [submodule "spaSim"]
 	path = spaSim
 	url = https://github.com/bioc/spaSim
+[submodule "sparrow"]
+	path = sparrow
+	url = https://github.com/bioc/sparrow
 [submodule "sparseMatrixStats"]
 	path = sparseMatrixStats
 	url = https://github.com/bioc/sparseMatrixStats
@@ -6227,6 +6347,9 @@
 [submodule "stJoincount"]
 	path = stJoincount
 	url = https://github.com/bioc/stJoincount
+[submodule "staRank"]
+	path = staRank
+	url = https://github.com/bioc/staRank
 [submodule "stageR"]
 	path = stageR
 	url = https://github.com/bioc/stageR
@@ -6335,6 +6458,9 @@
 [submodule "target"]
 	path = target
 	url = https://github.com/bioc/target
+[submodule "tenXplore"]
+	path = tenXplore
+	url = https://github.com/bioc/tenXplore
 [submodule "ternarynet"]
 	path = ternarynet
 	url = https://github.com/bioc/ternarynet
@@ -6493,9 +6619,15 @@
 [submodule "uncoverappLib"]
 	path = uncoverappLib
 	url = https://github.com/bioc/uncoverappLib
+[submodule "unifiedWMWqPCR"]
+	path = unifiedWMWqPCR
+	url = https://github.com/bioc/unifiedWMWqPCR
 [submodule "universalmotif"]
 	path = universalmotif
 	url = https://github.com/bioc/universalmotif
+[submodule "updateObject"]
+	path = updateObject
+	url = https://github.com/bioc/updateObject
 [submodule "variancePartition"]
 	path = variancePartition
 	url = https://github.com/bioc/variancePartition
@@ -6556,6 +6688,9 @@
 [submodule "wpm"]
 	path = wpm
 	url = https://github.com/bioc/wpm
+[submodule "wppi"]
+	path = wppi
+	url = https://github.com/bioc/wppi
 [submodule "xcms"]
 	path = xcms
 	url = https://github.com/bioc/xcms
