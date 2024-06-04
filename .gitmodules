@@ -344,9 +344,6 @@
 [submodule "BiocNeighbors"]
 	path = BiocNeighbors
 	url = https://github.com/bioc/BiocNeighbors
-[submodule "BiocOncoTK"]
-	path = BiocOncoTK
-	url = https://github.com/bioc/BiocOncoTK
 [submodule "BiocParallel"]
 	path = BiocParallel
 	url = https://github.com/bioc/BiocParallel
