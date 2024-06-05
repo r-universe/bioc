@@ -866,9 +866,6 @@
 [submodule "DeepPINCS"]
 	path = DeepPINCS
 	url = https://github.com/bioc/DeepPINCS
-[submodule "DeepTarget"]
-	path = DeepTarget
-	url = https://github.com/bioc/DeepTarget
 [submodule "DegCre"]
 	path = DegCre
 	url = https://github.com/bioc/DegCre
@@ -1763,9 +1760,6 @@
 [submodule "MOSim"]
 	path = MOSim
 	url = https://github.com/bioc/MOSim
-[submodule "MPAC"]
-	path = MPAC
-	url = https://github.com/bioc/MPAC
 [submodule "MPFE"]
 	path = MPFE
 	url = https://github.com/bioc/MPFE
@@ -3572,9 +3566,6 @@
 [submodule "brendaDb"]
 	path = brendaDb
 	url = https://github.com/bioc/brendaDb
-[submodule "broadSeq"]
-	path = broadSeq
-	url = https://github.com/bioc/broadSeq
 [submodule "bsseq"]
 	path = bsseq
 	url = https://github.com/bioc/bsseq
@@ -4361,9 +4352,6 @@
 [submodule "frmaTools"]
 	path = frmaTools
 	url = https://github.com/bioc/frmaTools
-[submodule "funOmics"]
-	path = funOmics
-	url = https://github.com/bioc/funOmics
 [submodule "funtooNorm"]
 	path = funtooNorm
 	url = https://github.com/bioc/funtooNorm
@@ -4506,9 +4494,6 @@
 [submodule "ggsc"]
 	path = ggsc
 	url = https://github.com/bioc/ggsc
-[submodule "ggseqalign"]
-	path = ggseqalign
-	url = https://github.com/bioc/ggseqalign
 [submodule "ggspavis"]
 	path = ggspavis
 	url = https://github.com/bioc/ggspavis
@@ -6730,6 +6715,3 @@
 [submodule "zinbwave"]
 	path = zinbwave
 	url = https://github.com/bioc/zinbwave
-[submodule "zitools"]
-	path = zitools
-	url = https://github.com/bioc/zitools
