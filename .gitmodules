@@ -6715,6 +6715,3 @@
 [submodule "zinbwave"]
 	path = zinbwave
 	url = https://github.com/bioc/zinbwave
-[submodule "zlibbioc"]
-	path = zlibbioc
-	url = https://github.com/bioc/zlibbioc
