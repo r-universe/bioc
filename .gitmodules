@@ -293,6 +293,9 @@
 [submodule "BioCor"]
 	path = BioCor
 	url = https://github.com/bioc/BioCor
+[submodule "BioGA"]
+	path = BioGA
+	url = https://github.com/bioc/BioGA
 [submodule "BioMVCClass"]
 	path = BioMVCClass
 	url = https://github.com/bioc/BioMVCClass
@@ -6008,6 +6011,9 @@
 [submodule "scDesign3"]
 	path = scDesign3
 	url = https://github.com/bioc/scDesign3
+[submodule "scDotPlot"]
+	path = scDotPlot
+	url = https://github.com/bioc/scDotPlot
 [submodule "scFeatureFilter"]
 	path = scFeatureFilter
 	url = https://github.com/bioc/scFeatureFilter
@@ -6338,6 +6344,9 @@
 [submodule "spqn"]
 	path = spqn
 	url = https://github.com/bioc/spqn
+[submodule "squallms"]
+	path = squallms
+	url = https://github.com/bioc/squallms
 [submodule "srnadiff"]
 	path = srnadiff
 	url = https://github.com/bioc/srnadiff
