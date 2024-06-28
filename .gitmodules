@@ -1463,6 +1463,9 @@
 [submodule "HilbertVisGUI"]
 	path = HilbertVisGUI
 	url = https://github.com/bioc/HilbertVisGUI
+[submodule "HoloFoodR"]
+	path = HoloFoodR
+	url = https://github.com/bioc/HoloFoodR
 [submodule "HubPub"]
 	path = HubPub
 	url = https://github.com/bioc/HubPub
