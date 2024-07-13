@@ -6517,10 +6517,6 @@
 	path = tidydr
 	url = https://github.com/YuLab-SMU/tidydr
 	registered = false
-[submodule "tidygate"]
-	path = tidygate
-	url = https://github.com/stemangiola/tidygate
-	registered = false
 [submodule "tidyomics"]
 	path = tidyomics
 	url = https://github.com/bioc/tidyomics

@@ -40,11 +40,5 @@
     "url": "https://github.com/YuLab-SMU/tidydr",
     "via": ["enrichplot"],
     "from": "enrichplot"
-  },
-  {
-    "package": "tidygate",
-    "url": "https://github.com/stemangiola/tidygate",
-    "via": ["tidySpatialExperiment"],
-    "from": "tidySpatialExperiment"
   }
 ]
