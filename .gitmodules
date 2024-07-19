@@ -122,9 +122,18 @@
 [submodule "AnVIL"]
 	path = AnVIL
 	url = https://github.com/bioc/AnVIL
+[submodule "AnVILAz"]
+	path = AnVILAz
+	url = https://github.com/bioc/AnVILAz
+[submodule "AnVILBase"]
+	path = AnVILBase
+	url = https://github.com/bioc/AnVILBase
 [submodule "AnVILBilling"]
 	path = AnVILBilling
 	url = https://github.com/bioc/AnVILBilling
+[submodule "AnVILGCP"]
+	path = AnVILGCP
+	url = https://github.com/bioc/AnVILGCP
 [submodule "AnVILPublish"]
 	path = AnVILPublish
 	url = https://github.com/bioc/AnVILPublish
@@ -2246,6 +2255,9 @@
 [submodule "Pedixplorer"]
 	path = Pedixplorer
 	url = https://github.com/bioc/Pedixplorer
+[submodule "PepSetTest"]
+	path = PepSetTest
+	url = https://github.com/bioc/PepSetTest
 [submodule "PepsNMR"]
 	path = PepsNMR
 	url = https://github.com/bioc/PepsNMR
@@ -2279,6 +2291,9 @@
 [submodule "PoDCall"]
 	path = PoDCall
 	url = https://github.com/bioc/PoDCall
+[submodule "PolySTest"]
+	path = PolySTest
+	url = https://github.com/bioc/PolySTest
 [submodule "PrInCE"]
 	path = PrInCE
 	url = https://github.com/bioc/PrInCE
