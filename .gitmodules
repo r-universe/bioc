@@ -1412,9 +1412,6 @@
 [submodule "HTSeqGenie"]
 	path = HTSeqGenie
 	url = https://github.com/bioc/HTSeqGenie
-[submodule "HTqPCR"]
-	path = HTqPCR
-	url = https://github.com/bioc/HTqPCR
 [submodule "Harman"]
 	path = Harman
 	url = https://github.com/bioc/Harman
