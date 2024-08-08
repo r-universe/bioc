@@ -671,6 +671,9 @@
 [submodule "ClassifyR"]
 	path = ClassifyR
 	url = https://github.com/bioc/ClassifyR
+[submodule "CleanUpRNAseq"]
+	path = CleanUpRNAseq
+	url = https://github.com/bioc/CleanUpRNAseq
 [submodule "Clomial"]
 	path = Clomial
 	url = https://github.com/bioc/Clomial
@@ -2963,6 +2966,9 @@
 [submodule "SpotSweeper"]
 	path = SpotSweeper
 	url = https://github.com/bioc/SpotSweeper
+[submodule "StabMap"]
+	path = StabMap
+	url = https://github.com/bioc/StabMap
 [submodule "Statial"]
 	path = Statial
 	url = https://github.com/bioc/Statial
@@ -4744,6 +4750,9 @@
 [submodule "iSEEpathways"]
 	path = iSEEpathways
 	url = https://github.com/bioc/iSEEpathways
+[submodule "iSEEtree"]
+	path = iSEEtree
+	url = https://github.com/bioc/iSEEtree
 [submodule "iSEEu"]
 	path = iSEEu
 	url = https://github.com/bioc/iSEEu
@@ -4786,6 +4795,9 @@
 [submodule "immunoClust"]
 	path = immunoClust
 	url = https://github.com/bioc/immunoClust
+[submodule "immunogenViewer"]
+	path = immunogenViewer
+	url = https://github.com/bioc/immunogenViewer
 [submodule "immunotation"]
 	path = immunotation
 	url = https://github.com/bioc/immunotation
@@ -4843,6 +4855,9 @@
 [submodule "kissDE"]
 	path = kissDE
 	url = https://github.com/bioc/kissDE
+[submodule "kmcut"]
+	path = kmcut
+	url = https://github.com/bioc/kmcut
 [submodule "knowYourCG"]
 	path = knowYourCG
 	url = https://github.com/bioc/knowYourCG
@@ -6153,6 +6168,9 @@
 [submodule "scviR"]
 	path = scviR
 	url = https://github.com/bioc/scviR
+[submodule "seahtrue"]
+	path = seahtrue
+	url = https://github.com/bioc/seahtrue
 [submodule "sechm"]
 	path = sechm
 	url = https://github.com/bioc/sechm
