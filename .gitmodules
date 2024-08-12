@@ -3746,6 +3746,9 @@
 [submodule "clipper"]
 	path = clipper
 	url = https://github.com/bioc/clipper
+[submodule "cliqueMS"]
+	path = cliqueMS
+	url = https://github.com/bioc/cliqueMS
 [submodule "clst"]
 	path = clst
 	url = https://github.com/bioc/clst
