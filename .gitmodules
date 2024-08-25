@@ -605,9 +605,6 @@
 [submodule "CellTrails"]
 	path = CellTrails
 	url = https://github.com/bioc/CellTrails
-[submodule "CellaRepertorium"]
-	path = CellaRepertorium
-	url = https://github.com/bioc/CellaRepertorium
 [submodule "CelliD"]
 	path = CelliD
 	url = https://github.com/bioc/CelliD
@@ -836,9 +833,6 @@
 [submodule "DMRcate"]
 	path = DMRcate
 	url = https://github.com/bioc/DMRcate
-[submodule "DNABarcodeCompatibility"]
-	path = DNABarcodeCompatibility
-	url = https://github.com/bioc/DNABarcodeCompatibility
 [submodule "DNAcopy"]
 	path = DNAcopy
 	url = https://github.com/bioc/DNAcopy
@@ -1787,9 +1781,6 @@
 [submodule "MPRAnalyze"]
 	path = MPRAnalyze
 	url = https://github.com/bioc/MPRAnalyze
-[submodule "MQmetrics"]
-	path = MQmetrics
-	url = https://github.com/bioc/MQmetrics
 [submodule "MSA2dist"]
 	path = MSA2dist
 	url = https://github.com/bioc/MSA2dist
@@ -2279,9 +2270,6 @@
 [submodule "PhyloProfile"]
 	path = PhyloProfile
 	url = https://github.com/bioc/PhyloProfile
-[submodule "Pi"]
-	path = Pi
-	url = https://github.com/bioc/Pi
 [submodule "Pigengene"]
 	path = Pigengene
 	url = https://github.com/bioc/Pigengene
@@ -2534,9 +2522,6 @@
 [submodule "RaggedExperiment"]
 	path = RaggedExperiment
 	url = https://github.com/bioc/RaggedExperiment
-[submodule "RandomWalkRestartMH"]
-	path = RandomWalkRestartMH
-	url = https://github.com/bioc/RandomWalkRestartMH
 [submodule "RankProd"]
 	path = RankProd
 	url = https://github.com/bioc/RankProd
@@ -2648,9 +2633,6 @@
 [submodule "RiboProfiling"]
 	path = RiboProfiling
 	url = https://github.com/bioc/RiboProfiling
-[submodule "Risa"]
-	path = Risa
-	url = https://github.com/bioc/Risa
 [submodule "Rmagpie"]
 	path = Rmagpie
 	url = https://github.com/bioc/Rmagpie
@@ -2984,9 +2966,6 @@
 [submodule "SubCellBarCode"]
 	path = SubCellBarCode
 	url = https://github.com/bioc/SubCellBarCode
-[submodule "SummarizedBenchmark"]
-	path = SummarizedBenchmark
-	url = https://github.com/bioc/SummarizedBenchmark
 [submodule "SummarizedExperiment"]
 	path = SummarizedExperiment
 	url = https://github.com/bioc/SummarizedExperiment
@@ -3584,9 +3563,6 @@
 [submodule "borealis"]
 	path = borealis
 	url = https://github.com/bioc/borealis
-[submodule "brainflowprobes"]
-	path = brainflowprobes
-	url = https://github.com/bioc/brainflowprobes
 [submodule "branchpointer"]
 	path = branchpointer
 	url = https://github.com/bioc/branchpointer
@@ -5358,9 +5334,6 @@
 [submodule "netDx"]
 	path = netDx
 	url = https://github.com/bioc/netDx
-[submodule "netOmics"]
-	path = netOmics
-	url = https://github.com/bioc/netOmics
 [submodule "netSmooth"]
 	path = netSmooth
 	url = https://github.com/bioc/netSmooth
@@ -5661,9 +5634,6 @@
 [submodule "pogos"]
 	path = pogos
 	url = https://github.com/bioc/pogos
-[submodule "polyester"]
-	path = polyester
-	url = https://github.com/bioc/polyester
 [submodule "powerTCR"]
 	path = powerTCR
 	url = https://github.com/bioc/powerTCR
@@ -6276,9 +6246,6 @@
 [submodule "sincell"]
 	path = sincell
 	url = https://github.com/bioc/sincell
-[submodule "single"]
-	path = single
-	url = https://github.com/bioc/single
 [submodule "singleCellTK"]
 	path = singleCellTK
 	url = https://github.com/bioc/singleCellTK
