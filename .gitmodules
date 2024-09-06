@@ -3389,6 +3389,9 @@
 [submodule "artMS"]
 	path = artMS
 	url = https://github.com/bioc/artMS
+[submodule "assorthead"]
+	path = assorthead
+	url = https://github.com/bioc/assorthead
 [submodule "atSNP"]
 	path = atSNP
 	url = https://github.com/bioc/atSNP
@@ -4067,6 +4070,9 @@
 [submodule "dmrseq"]
 	path = dmrseq
 	url = https://github.com/bioc/dmrseq
+[submodule "dominoSignal"]
+	path = dominoSignal
+	url = https://github.com/bioc/dominoSignal
 [submodule "doppelgangR"]
 	path = doppelgangR
 	url = https://github.com/bioc/doppelgangR
@@ -6520,6 +6526,9 @@
 [submodule "tidyomics"]
 	path = tidyomics
 	url = https://github.com/bioc/tidyomics
+[submodule "tidytof"]
+	path = tidytof
+	url = https://github.com/bioc/tidytof
 [submodule "tigre"]
 	path = tigre
 	url = https://github.com/bioc/tigre
