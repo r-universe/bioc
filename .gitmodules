@@ -5697,9 +5697,6 @@
 [submodule "psichomics"]
 	path = psichomics
 	url = https://github.com/bioc/psichomics
-[submodule "psygenet2r"]
-	path = psygenet2r
-	url = https://github.com/bioc/psygenet2r
 [submodule "ptairMS"]
 	path = ptairMS
 	url = https://github.com/bioc/ptairMS
