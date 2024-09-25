@@ -833,6 +833,9 @@
 [submodule "DMRcate"]
 	path = DMRcate
 	url = https://github.com/bioc/DMRcate
+[submodule "DNABarcodes"]
+	path = DNABarcodes
+	url = https://github.com/bioc/DNABarcodes
 [submodule "DNAcopy"]
 	path = DNAcopy
 	url = https://github.com/bioc/DNAcopy
@@ -3092,6 +3095,9 @@
 [submodule "TitanCNA"]
 	path = TitanCNA
 	url = https://github.com/bioc/TitanCNA
+[submodule "TnT"]
+	path = TnT
+	url = https://github.com/bioc/TnT
 [submodule "ToxicoGx"]
 	path = ToxicoGx
 	url = https://github.com/bioc/ToxicoGx
