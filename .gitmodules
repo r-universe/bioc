@@ -6027,6 +6027,9 @@
 [submodule "scDesign3"]
 	path = scDesign3
 	url = https://github.com/bioc/scDesign3
+[submodule "scDiagnostics"]
+	path = scDiagnostics
+	url = https://github.com/bioc/scDiagnostics
 [submodule "scDotPlot"]
 	path = scDotPlot
 	url = https://github.com/bioc/scDotPlot
@@ -6529,6 +6532,9 @@
 [submodule "tidyomics"]
 	path = tidyomics
 	url = https://github.com/bioc/tidyomics
+[submodule "tidysbml"]
+	path = tidysbml
+	url = https://github.com/bioc/tidysbml
 [submodule "tidytof"]
 	path = tidytof
 	url = https://github.com/bioc/tidytof
