@@ -578,6 +578,9 @@
 [submodule "Category"]
 	path = Category
 	url = https://github.com/bioc/Category
+[submodule "CatsCradle"]
+	path = CatsCradle
+	url = https://github.com/bioc/CatsCradle
 [submodule "CausalR"]
 	path = CausalR
 	url = https://github.com/bioc/CausalR
@@ -833,6 +836,9 @@
 [submodule "DMRcate"]
 	path = DMRcate
 	url = https://github.com/bioc/DMRcate
+[submodule "DNABarcodeCompatibility"]
+	path = DNABarcodeCompatibility
+	url = https://github.com/bioc/DNABarcodeCompatibility
 [submodule "DNABarcodes"]
 	path = DNABarcodes
 	url = https://github.com/bioc/DNABarcodes
@@ -1004,6 +1010,9 @@
 [submodule "EnhancedVolcano"]
 	path = EnhancedVolcano
 	url = https://github.com/bioc/EnhancedVolcano
+[submodule "EnrichDO"]
+	path = EnrichDO
+	url = https://github.com/bioc/EnrichDO
 [submodule "EnrichedHeatmap"]
 	path = EnrichedHeatmap
 	url = https://github.com/bioc/EnrichedHeatmap
@@ -2933,6 +2942,9 @@
 [submodule "Spectra"]
 	path = Spectra
 	url = https://github.com/bioc/Spectra
+[submodule "SpectraQL"]
+	path = SpectraQL
+	url = https://github.com/bioc/SpectraQL
 [submodule "SpectralTAD"]
 	path = SpectralTAD
 	url = https://github.com/bioc/SpectralTAD
@@ -6739,6 +6751,9 @@
 [submodule "xcore"]
 	path = xcore
 	url = https://github.com/bioc/xcore
+[submodule "xenLite"]
+	path = xenLite
+	url = https://github.com/bioc/xenLite
 [submodule "xmapbridge"]
 	path = xmapbridge
 	url = https://github.com/bioc/xmapbridge
