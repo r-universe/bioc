@@ -1,5 +1,11 @@
 [
   {
+    "package": "SVP",
+    "url": "https://github.com/YuLab-SMU/SVP",
+    "via": ["ggsc"],
+    "from": "ggsc"
+  },
+  {
     "package": "Voyager",
     "url": "https://github.com/pachterlab/voyager",
     "via": ["SpatialFeatureExperiment"],

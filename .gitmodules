@@ -2828,6 +2828,10 @@
 [submodule "SVMDO"]
 	path = SVMDO
 	url = https://github.com/bioc/SVMDO
+[submodule "SVP"]
+	path = SVP
+	url = https://github.com/YuLab-SMU/SVP
+	registered = false
 [submodule "SWATH2stats"]
 	path = SWATH2stats
 	url = https://github.com/bioc/SWATH2stats
