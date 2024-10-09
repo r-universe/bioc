@@ -20,6 +20,9 @@
 [submodule "ADAMgui"]
 	path = ADAMgui
 	url = https://github.com/bioc/ADAMgui
+[submodule "ADAPT"]
+	path = ADAPT
+	url = https://github.com/bioc/ADAPT
 [submodule "ADImpute"]
 	path = ADImpute
 	url = https://github.com/bioc/ADImpute
@@ -4868,6 +4871,9 @@
 [submodule "knowYourCG"]
 	path = knowYourCG
 	url = https://github.com/bioc/knowYourCG
+[submodule "koinar"]
+	path = koinar
+	url = https://github.com/bioc/koinar
 [submodule "lapmix"]
 	path = lapmix
 	url = https://github.com/bioc/lapmix
@@ -5431,6 +5437,9 @@
 [submodule "oligoClasses"]
 	path = oligoClasses
 	url = https://github.com/bioc/oligoClasses
+[submodule "omXplore"]
+	path = omXplore
+	url = https://github.com/bioc/omXplore
 [submodule "omada"]
 	path = omada
 	url = https://github.com/bioc/omada
@@ -6154,6 +6163,9 @@
 [submodule "scran"]
 	path = scran
 	url = https://github.com/bioc/scran
+[submodule "scrapper"]
+	path = scrapper
+	url = https://github.com/bioc/scrapper
 [submodule "screenCounter"]
 	path = screenCounter
 	url = https://github.com/bioc/screenCounter
