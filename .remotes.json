@@ -36,6 +36,12 @@
     "from": "timeOmics"
   },
   {
+    "package": "mia",
+    "url": "https://github.com/microbiome/mia",
+    "via": ["miaViz", "miaTime"],
+    "from": "miaViz"
+  },
+  {
     "package": "miaTime",
     "url": "https://github.com/microbiome/miaTime",
     "via": ["miaViz"],
