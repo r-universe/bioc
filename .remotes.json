@@ -30,6 +30,12 @@
     "from": "ALDEx2"
   },
   {
+    "package": "instantiate",
+    "url": "https://github.com/wlandau/instantiate",
+    "via": ["sccomp"],
+    "from": "sccomp"
+  },
+  {
     "package": "lmms",
     "url": "https://github.com/cran/lmms",
     "via": ["timeOmics"],

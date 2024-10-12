@@ -4826,6 +4826,10 @@
 [submodule "infinityFlow"]
 	path = infinityFlow
 	url = https://github.com/bioc/infinityFlow
+[submodule "instantiate"]
+	path = instantiate
+	url = https://github.com/wlandau/instantiate
+	registered = false
 [submodule "intansv"]
 	path = intansv
 	url = https://github.com/bioc/intansv
