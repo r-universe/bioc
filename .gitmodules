@@ -1034,6 +1034,9 @@
 [submodule "EpiTxDb"]
 	path = EpiTxDb
 	url = https://github.com/bioc/EpiTxDb
+[submodule "EpipwR"]
+	path = EpipwR
+	url = https://github.com/bioc/EpipwR
 [submodule "EventPointer"]
 	path = EventPointer
 	url = https://github.com/bioc/EventPointer
@@ -4503,6 +4506,9 @@
 [submodule "genomicInstability"]
 	path = genomicInstability
 	url = https://github.com/bioc/genomicInstability
+[submodule "geomeTriD"]
+	path = geomeTriD
+	url = https://github.com/bioc/geomeTriD
 [submodule "gep2pep"]
 	path = gep2pep
 	url = https://github.com/bioc/gep2pep
@@ -5923,6 +5929,9 @@
 [submodule "rhdf5filters"]
 	path = rhdf5filters
 	url = https://github.com/bioc/rhdf5filters
+[submodule "rhinotypeR"]
+	path = rhinotypeR
+	url = https://github.com/bioc/rhinotypeR
 [submodule "riboSeqR"]
 	path = riboSeqR
 	url = https://github.com/bioc/riboSeqR
