@@ -221,9 +221,6 @@
 [submodule "BREW3R.r"]
 	path = BREW3R.r
 	url = https://github.com/bioc/BREW3R.r
-[submodule "BRGenomics"]
-	path = BRGenomics
-	url = https://github.com/bioc/BRGenomics
 [submodule "BSgenome"]
 	path = BSgenome
 	url = https://github.com/bioc/BSgenome
@@ -5354,9 +5351,6 @@
 [submodule "mzR"]
 	path = mzR
 	url = https://github.com/bioc/mzR
-[submodule "nanotatoR"]
-	path = nanotatoR
-	url = https://github.com/bioc/nanotatoR
 [submodule "ncGTW"]
 	path = ncGTW
 	url = https://github.com/bioc/ncGTW
