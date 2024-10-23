@@ -86,9 +86,6 @@
 [submodule "ASpli"]
 	path = ASpli
 	url = https://github.com/bioc/ASpli
-[submodule "ATACCoGAPS"]
-	path = ATACCoGAPS
-	url = https://github.com/bioc/ATACCoGAPS
 [submodule "ATACseqQC"]
 	path = ATACseqQC
 	url = https://github.com/bioc/ATACseqQC
@@ -953,6 +950,9 @@
 [submodule "Dune"]
 	path = Dune
 	url = https://github.com/bioc/Dune
+[submodule "DuplexDiscovereR"]
+	path = DuplexDiscovereR
+	url = https://github.com/bioc/DuplexDiscovereR
 [submodule "DynDoc"]
 	path = DynDoc
 	url = https://github.com/bioc/DynDoc
@@ -1889,6 +1889,9 @@
 [submodule "MetID"]
 	path = MetID
 	url = https://github.com/bioc/MetID
+[submodule "MetMashR"]
+	path = MetMashR
+	url = https://github.com/bioc/MetMashR
 [submodule "MetNet"]
 	path = MetNet
 	url = https://github.com/bioc/MetNet
@@ -1979,6 +1982,9 @@
 [submodule "MsBackendMassbank"]
 	path = MsBackendMassbank
 	url = https://github.com/bioc/MsBackendMassbank
+[submodule "MsBackendMetaboLights"]
+	path = MsBackendMetaboLights
+	url = https://github.com/bioc/MsBackendMetaboLights
 [submodule "MsBackendMgf"]
 	path = MsBackendMgf
 	url = https://github.com/bioc/MsBackendMgf
@@ -2225,6 +2231,9 @@
 [submodule "PROMISE"]
 	path = PROMISE
 	url = https://github.com/bioc/PROMISE
+[submodule "PRONE"]
+	path = PRONE
+	url = https://github.com/bioc/PRONE
 [submodule "PROPER"]
 	path = PROPER
 	url = https://github.com/bioc/PROPER
@@ -6160,6 +6169,9 @@
 [submodule "scoreInvHap"]
 	path = scoreInvHap
 	url = https://github.com/bioc/scoreInvHap
+[submodule "scoup"]
+	path = scoup
+	url = https://github.com/bioc/scoup
 [submodule "scp"]
 	path = scp
 	url = https://github.com/bioc/scp
@@ -6355,6 +6367,9 @@
 [submodule "spatialHeatmap"]
 	path = spatialHeatmap
 	url = https://github.com/bioc/spatialHeatmap
+[submodule "spatialSimGP"]
+	path = spatialSimGP
+	url = https://github.com/bioc/spatialSimGP
 [submodule "spatzie"]
 	path = spatzie
 	url = https://github.com/bioc/spatzie
