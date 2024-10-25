@@ -9,6 +9,7 @@
     "package": "Voyager",
     "url": "https://github.com/pachterlab/voyager",
     "via": ["SpatialFeatureExperiment"],
+    "branch": "devel",
     "from": "SpatialFeatureExperiment"
   },
   {
