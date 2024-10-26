@@ -818,6 +818,9 @@
 [submodule "DFP"]
 	path = DFP
 	url = https://github.com/bioc/DFP
+[submodule "DFplyr"]
+	path = DFplyr
+	url = https://github.com/bioc/DFplyr
 [submodule "DIAlignR"]
 	path = DIAlignR
 	url = https://github.com/bioc/DIAlignR
@@ -1487,6 +1490,9 @@
 [submodule "HoloFoodR"]
 	path = HoloFoodR
 	url = https://github.com/bioc/HoloFoodR
+[submodule "HuBMAPR"]
+	path = HuBMAPR
+	url = https://github.com/bioc/HuBMAPR
 [submodule "HubPub"]
 	path = HubPub
 	url = https://github.com/bioc/HubPub
@@ -1787,6 +1793,9 @@
 [submodule "MOMA"]
 	path = MOMA
 	url = https://github.com/bioc/MOMA
+[submodule "MOSClip"]
+	path = MOSClip
+	url = https://github.com/bioc/MOSClip
 [submodule "MOSim"]
 	path = MOSim
 	url = https://github.com/bioc/MOSim
@@ -3078,6 +3087,9 @@
 [submodule "TIN"]
 	path = TIN
 	url = https://github.com/bioc/TIN
+[submodule "TMSig"]
+	path = TMSig
+	url = https://github.com/bioc/TMSig
 [submodule "TMixClust"]
 	path = TMixClust
 	url = https://github.com/bioc/TMixClust
