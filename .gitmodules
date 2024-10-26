@@ -698,6 +698,9 @@
 [submodule "CoGAPS"]
 	path = CoGAPS
 	url = https://github.com/bioc/CoGAPS
+[submodule "CoSIA"]
+	path = CoSIA
+	url = https://github.com/bioc/CoSIA
 [submodule "Cogito"]
 	path = Cogito
 	url = https://github.com/bioc/Cogito
@@ -2078,6 +2081,9 @@
 [submodule "NetActivity"]
 	path = NetActivity
 	url = https://github.com/bioc/NetActivity
+[submodule "NetPathMiner"]
+	path = NetPathMiner
+	url = https://github.com/bioc/NetPathMiner
 [submodule "NetSAM"]
 	path = NetSAM
 	url = https://github.com/bioc/NetSAM
@@ -2456,9 +2462,6 @@
 [submodule "RNAdecay"]
 	path = RNAdecay
 	url = https://github.com/bioc/RNAdecay
-[submodule "RNAinteract"]
-	path = RNAinteract
-	url = https://github.com/bioc/RNAinteract
 [submodule "RNAmodR"]
 	path = RNAmodR
 	url = https://github.com/bioc/RNAmodR
