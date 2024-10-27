@@ -2147,6 +2147,9 @@
 [submodule "OmicCircos"]
 	path = OmicCircos
 	url = https://github.com/bioc/OmicCircos
+[submodule "OmicsMLRepoR"]
+	path = OmicsMLRepoR
+	url = https://github.com/bioc/OmicsMLRepoR
 [submodule "Omixer"]
 	path = Omixer
 	url = https://github.com/bioc/Omixer
@@ -2925,6 +2928,9 @@
 [submodule "SomaticSignatures"]
 	path = SomaticSignatures
 	url = https://github.com/bioc/SomaticSignatures
+[submodule "SpaNorm"]
+	path = SpaNorm
+	url = https://github.com/bioc/SpaNorm
 [submodule "SpaceMarkers"]
 	path = SpaceMarkers
 	url = https://github.com/bioc/SpaceMarkers
@@ -4817,6 +4823,9 @@
 [submodule "imcRtools"]
 	path = imcRtools
 	url = https://github.com/bioc/imcRtools
+[submodule "immApex"]
+	path = immApex
+	url = https://github.com/bioc/immApex
 [submodule "immunoClust"]
 	path = immunoClust
 	url = https://github.com/bioc/immunoClust
@@ -5671,6 +5680,9 @@
 [submodule "plyranges"]
 	path = plyranges
 	url = https://github.com/bioc/plyranges
+[submodule "plyxp"]
+	path = plyxp
+	url = https://github.com/bioc/plyxp
 [submodule "pmm"]
 	path = pmm
 	url = https://github.com/bioc/pmm
