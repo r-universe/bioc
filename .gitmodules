@@ -4648,10 +4648,6 @@
 [submodule "graphite"]
 	path = graphite
 	url = https://github.com/bioc/graphite
-[submodule "gridpattern"]
-	path = gridpattern
-	url = https://github.com/trevorld/gridpattern
-	registered = false
 [submodule "groHMM"]
 	path = groHMM
 	url = https://github.com/bioc/groHMM

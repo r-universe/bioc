@@ -25,12 +25,6 @@
     "from": "ALDEx2"
   },
   {
-    "package": "gridpattern",
-    "url": "https://github.com/trevorld/gridpattern",
-    "via": ["ALDEx2", "ggpattern"],
-    "from": "ALDEx2"
-  },
-  {
     "package": "lmms",
     "url": "https://github.com/cran/lmms",
     "via": ["timeOmics"],
