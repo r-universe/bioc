@@ -341,9 +341,6 @@
 [submodule "BiocGenerics"]
 	path = BiocGenerics
 	url = https://github.com/bioc/BiocGenerics
-[submodule "BiocHail"]
-	path = BiocHail
-	url = https://github.com/bioc/BiocHail
 [submodule "BiocHubsShiny"]
 	path = BiocHubsShiny
 	url = https://github.com/bioc/BiocHubsShiny
@@ -413,9 +410,6 @@
 [submodule "CAGEr"]
 	path = CAGEr
 	url = https://github.com/bioc/CAGEr
-[submodule "CAMERA"]
-	path = CAMERA
-	url = https://github.com/bioc/CAMERA
 [submodule "CARNIVAL"]
 	path = CARNIVAL
 	url = https://github.com/bioc/CARNIVAL
@@ -674,9 +668,6 @@
 [submodule "Clomial"]
 	path = Clomial
 	url = https://github.com/bioc/Clomial
-[submodule "CluMSID"]
-	path = CluMSID
-	url = https://github.com/bioc/CluMSID
 [submodule "ClustAll"]
 	path = ClustAll
 	url = https://github.com/bioc/ClustAll
@@ -821,9 +812,6 @@
 [submodule "DFplyr"]
 	path = DFplyr
 	url = https://github.com/bioc/DFplyr
-[submodule "DIAlignR"]
-	path = DIAlignR
-	url = https://github.com/bioc/DIAlignR
 [submodule "DMCFB"]
 	path = DMCFB
 	url = https://github.com/bioc/DMCFB
@@ -1427,9 +1415,6 @@
 [submodule "HTSFilter"]
 	path = HTSFilter
 	url = https://github.com/bioc/HTSFilter
-[submodule "HTSeqGenie"]
-	path = HTSeqGenie
-	url = https://github.com/bioc/HTSeqGenie
 [submodule "Harman"]
 	path = Harman
 	url = https://github.com/bioc/Harman
@@ -1535,9 +1520,6 @@
 [submodule "IONiseR"]
 	path = IONiseR
 	url = https://github.com/bioc/IONiseR
-[submodule "IPO"]
-	path = IPO
-	url = https://github.com/bioc/IPO
 [submodule "IRanges"]
 	path = IRanges
 	url = https://github.com/bioc/IRanges
@@ -1634,9 +1616,6 @@
 [submodule "LEA"]
 	path = LEA
 	url = https://github.com/bioc/LEA
-[submodule "LOBSTAHS"]
-	path = LOBSTAHS
-	url = https://github.com/bioc/LOBSTAHS
 [submodule "LOLA"]
 	path = LOLA
 	url = https://github.com/bioc/LOLA
@@ -1694,9 +1673,6 @@
 [submodule "MAI"]
 	path = MAI
 	url = https://github.com/bioc/MAI
-[submodule "MAIT"]
-	path = MAIT
-	url = https://github.com/bioc/MAIT
 [submodule "MANOR"]
 	path = MANOR
 	url = https://github.com/bioc/MANOR
@@ -1814,9 +1790,6 @@
 [submodule "MSPrep"]
 	path = MSPrep
 	url = https://github.com/bioc/MSPrep
-[submodule "MSnID"]
-	path = MSnID
-	url = https://github.com/bioc/MSnID
 [submodule "MSnbase"]
 	path = MSnbase
 	url = https://github.com/bioc/MSnbase
@@ -2435,9 +2408,6 @@
 [submodule "RESOLVE"]
 	path = RESOLVE
 	url = https://github.com/bioc/RESOLVE
-[submodule "RGMQL"]
-	path = RGMQL
-	url = https://github.com/bioc/RGMQL
 [submodule "RGSEA"]
 	path = RGSEA
 	url = https://github.com/bioc/RGSEA
@@ -2588,9 +2558,6 @@
 [submodule "RcisTarget"]
 	path = RcisTarget
 	url = https://github.com/bioc/RcisTarget
-[submodule "Rcollectl"]
-	path = Rcollectl
-	url = https://github.com/bioc/Rcollectl
 [submodule "Rcpi"]
 	path = Rcpi
 	url = https://github.com/bioc/Rcpi
@@ -3780,9 +3747,6 @@
 [submodule "clipper"]
 	path = clipper
 	url = https://github.com/bioc/clipper
-[submodule "cliqueMS"]
-	path = cliqueMS
-	url = https://github.com/bioc/cliqueMS
 [submodule "clst"]
 	path = clst
 	url = https://github.com/bioc/clst
@@ -3894,9 +3858,6 @@
 [submodule "coseq"]
 	path = coseq
 	url = https://github.com/bioc/coseq
-[submodule "cosmiq"]
-	path = cosmiq
-	url = https://github.com/bioc/cosmiq
 [submodule "cosmosR"]
 	path = cosmosR
 	url = https://github.com/bioc/cosmosR
@@ -4323,9 +4284,6 @@
 [submodule "fishpond"]
 	path = fishpond
 	url = https://github.com/bioc/fishpond
-[submodule "flagme"]
-	path = flagme
-	url = https://github.com/bioc/flagme
 [submodule "flowAI"]
 	path = flowAI
 	url = https://github.com/bioc/flowAI
@@ -4539,9 +4497,6 @@
 [submodule "gep2pep"]
 	path = gep2pep
 	url = https://github.com/bioc/gep2pep
-[submodule "gespeR"]
-	path = gespeR
-	url = https://github.com/bioc/gespeR
 [submodule "getDEE2"]
 	path = getDEE2
 	url = https://github.com/bioc/getDEE2
@@ -5069,9 +5024,6 @@
 [submodule "metaCCA"]
 	path = metaCCA
 	url = https://github.com/bioc/metaCCA
-[submodule "metaMS"]
-	path = metaMS
-	url = https://github.com/bioc/metaMS
 [submodule "metaSeq"]
 	path = metaSeq
 	url = https://github.com/bioc/metaSeq
@@ -5376,9 +5328,6 @@
 [submodule "mzR"]
 	path = mzR
 	url = https://github.com/bioc/mzR
-[submodule "ncGTW"]
-	path = ncGTW
-	url = https://github.com/bioc/ncGTW
 [submodule "ncRNAtools"]
 	path = ncRNAtools
 	url = https://github.com/bioc/ncRNAtools
@@ -5394,9 +5343,6 @@
 [submodule "nempi"]
 	path = nempi
 	url = https://github.com/bioc/nempi
-[submodule "netDx"]
-	path = netDx
-	url = https://github.com/bioc/netDx
 [submodule "netSmooth"]
 	path = netSmooth
 	url = https://github.com/bioc/netSmooth
@@ -5427,9 +5373,6 @@
 [submodule "nnSVG"]
 	path = nnSVG
 	url = https://github.com/bioc/nnSVG
-[submodule "nondetects"]
-	path = nondetects
-	url = https://github.com/bioc/nondetects
 [submodule "normalize450K"]
 	path = normalize450K
 	url = https://github.com/bioc/normalize450K
@@ -5586,9 +5529,6 @@
 [submodule "pathwayPCA"]
 	path = pathwayPCA
 	url = https://github.com/bioc/pathwayPCA
-[submodule "paxtoolsr"]
-	path = paxtoolsr
-	url = https://github.com/bioc/paxtoolsr
 [submodule "pcaExplorer"]
 	path = pcaExplorer
 	url = https://github.com/bioc/pcaExplorer
@@ -5598,9 +5538,6 @@
 [submodule "pdInfoBuilder"]
 	path = pdInfoBuilder
 	url = https://github.com/bioc/pdInfoBuilder
-[submodule "peakPantheR"]
-	path = peakPantheR
-	url = https://github.com/bioc/peakPantheR
 [submodule "peco"]
 	path = peco
 	url = https://github.com/bioc/peco
@@ -5760,9 +5697,6 @@
 [submodule "psichomics"]
 	path = psichomics
 	url = https://github.com/bioc/psichomics
-[submodule "ptairMS"]
-	path = ptairMS
-	url = https://github.com/bioc/ptairMS
 [submodule "puma"]
 	path = puma
 	url = https://github.com/bioc/puma
@@ -6432,9 +6366,6 @@
 [submodule "spqn"]
 	path = spqn
 	url = https://github.com/bioc/spqn
-[submodule "squallms"]
-	path = squallms
-	url = https://github.com/bioc/squallms
 [submodule "srnadiff"]
 	path = srnadiff
 	url = https://github.com/bioc/srnadiff
@@ -6456,9 +6387,6 @@
 [submodule "stJoincount"]
 	path = stJoincount
 	url = https://github.com/bioc/stJoincount
-[submodule "staRank"]
-	path = staRank
-	url = https://github.com/bioc/staRank
 [submodule "stageR"]
 	path = stageR
 	url = https://github.com/bioc/stageR
@@ -6802,9 +6730,6 @@
 [submodule "wppi"]
 	path = wppi
 	url = https://github.com/bioc/wppi
-[submodule "xcms"]
-	path = xcms
-	url = https://github.com/bioc/xcms
 [submodule "xcore"]
 	path = xcore
 	url = https://github.com/bioc/xcore
