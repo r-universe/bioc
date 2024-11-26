@@ -1988,6 +1988,9 @@
 [submodule "MotifDb"]
 	path = MotifDb
 	url = https://github.com/bioc/MotifDb
+[submodule "MotifPeeker"]
+	path = MotifPeeker
+	url = https://github.com/bioc/MotifPeeker
 [submodule "MouseFM"]
 	path = MouseFM
 	url = https://github.com/bioc/MouseFM
@@ -2991,6 +2994,9 @@
 [submodule "SplicingGraphs"]
 	path = SplicingGraphs
 	url = https://github.com/bioc/SplicingGraphs
+[submodule "SplineDV"]
+	path = SplineDV
+	url = https://github.com/bioc/SplineDV
 [submodule "SpotClean"]
 	path = SpotClean
 	url = https://github.com/bioc/SpotClean
@@ -5313,6 +5319,9 @@
 [submodule "msmsTests"]
 	path = msmsTests
 	url = https://github.com/bioc/msmsTests
+[submodule "mspms"]
+	path = mspms
+	url = https://github.com/bioc/mspms
 [submodule "msqrob2"]
 	path = msqrob2
 	url = https://github.com/bioc/msqrob2
@@ -6745,6 +6754,9 @@
 [submodule "viper"]
 	path = viper
 	url = https://github.com/bioc/viper
+[submodule "visiumStitched"]
+	path = visiumStitched
+	url = https://github.com/bioc/visiumStitched
 [submodule "vissE"]
 	path = vissE
 	url = https://github.com/bioc/vissE
