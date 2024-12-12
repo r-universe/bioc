@@ -1109,6 +1109,9 @@
 [submodule "FuseSOM"]
 	path = FuseSOM
 	url = https://github.com/bioc/FuseSOM
+[submodule "G4SNVHunter"]
+	path = G4SNVHunter
+	url = https://github.com/bioc/G4SNVHunter
 [submodule "GA4GHclient"]
 	path = GA4GHclient
 	url = https://github.com/bioc/GA4GHclient
