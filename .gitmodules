@@ -188,9 +188,6 @@
 [submodule "BCRANK"]
 	path = BCRANK
 	url = https://github.com/bioc/BCRANK
-[submodule "BEARscc"]
-	path = BEARscc
-	url = https://github.com/bioc/BEARscc
 [submodule "BEAT"]
 	path = BEAT
 	url = https://github.com/bioc/BEAT
@@ -821,9 +818,6 @@
 [submodule "DFplyr"]
 	path = DFplyr
 	url = https://github.com/bioc/DFplyr
-[submodule "DIAlignR"]
-	path = DIAlignR
-	url = https://github.com/bioc/DIAlignR
 [submodule "DMCFB"]
 	path = DMCFB
 	url = https://github.com/bioc/DMCFB
@@ -1430,9 +1424,6 @@
 [submodule "HTSFilter"]
 	path = HTSFilter
 	url = https://github.com/bioc/HTSFilter
-[submodule "HTSeqGenie"]
-	path = HTSeqGenie
-	url = https://github.com/bioc/HTSeqGenie
 [submodule "Harman"]
 	path = Harman
 	url = https://github.com/bioc/Harman
@@ -1655,6 +1646,9 @@
 [submodule "LedPred"]
 	path = LedPred
 	url = https://github.com/bioc/LedPred
+[submodule "LimROTS"]
+	path = LimROTS
+	url = https://github.com/bioc/LimROTS
 [submodule "LinTInd"]
 	path = LinTInd
 	url = https://github.com/bioc/LinTInd
@@ -1691,9 +1685,6 @@
 [submodule "MAGAR"]
 	path = MAGAR
 	url = https://github.com/bioc/MAGAR
-[submodule "MAGeCKFlute"]
-	path = MAGeCKFlute
-	url = https://github.com/bioc/MAGeCKFlute
 [submodule "MAI"]
 	path = MAI
 	url = https://github.com/bioc/MAI
@@ -2273,9 +2264,6 @@
 [submodule "PWMEnrich"]
 	path = PWMEnrich
 	url = https://github.com/bioc/PWMEnrich
-[submodule "PanViz"]
-	path = PanViz
-	url = https://github.com/bioc/PanViz
 [submodule "PanomiR"]
 	path = PanomiR
 	url = https://github.com/bioc/PanomiR
@@ -2441,9 +2429,6 @@
 [submodule "RESOLVE"]
 	path = RESOLVE
 	url = https://github.com/bioc/RESOLVE
-[submodule "RGMQL"]
-	path = RGMQL
-	url = https://github.com/bioc/RGMQL
 [submodule "RGSEA"]
 	path = RGSEA
 	url = https://github.com/bioc/RGSEA
@@ -2852,9 +2837,6 @@
 [submodule "STRINGdb"]
 	path = STRINGdb
 	url = https://github.com/bioc/STRINGdb
-[submodule "STdeconvolve"]
-	path = STdeconvolve
-	url = https://github.com/bioc/STdeconvolve
 [submodule "SUITOR"]
 	path = SUITOR
 	url = https://github.com/bioc/SUITOR
@@ -3753,9 +3735,6 @@
 [submodule "chromVAR"]
 	path = chromVAR
 	url = https://github.com/bioc/chromVAR
-[submodule "chromstaR"]
-	path = chromstaR
-	url = https://github.com/bioc/chromstaR
 [submodule "cicero"]
 	path = cicero
 	url = https://github.com/bioc/cicero
@@ -3945,9 +3924,6 @@
 [submodule "crlmm"]
 	path = crlmm
 	url = https://github.com/bioc/crlmm
-[submodule "crossmeta"]
-	path = crossmeta
-	url = https://github.com/bioc/crossmeta
 [submodule "csaw"]
 	path = csaw
 	url = https://github.com/bioc/csaw
@@ -5394,9 +5370,6 @@
 [submodule "nempi"]
 	path = nempi
 	url = https://github.com/bioc/nempi
-[submodule "netDx"]
-	path = netDx
-	url = https://github.com/bioc/netDx
 [submodule "netSmooth"]
 	path = netSmooth
 	url = https://github.com/bioc/netSmooth
@@ -5559,9 +5532,6 @@
 [submodule "panp"]
 	path = panp
 	url = https://github.com/bioc/panp
-[submodule "pareg"]
-	path = pareg
-	url = https://github.com/bioc/pareg
 [submodule "parglms"]
 	path = parglms
 	url = https://github.com/bioc/parglms
@@ -5586,9 +5556,6 @@
 [submodule "pathwayPCA"]
 	path = pathwayPCA
 	url = https://github.com/bioc/pathwayPCA
-[submodule "paxtoolsr"]
-	path = paxtoolsr
-	url = https://github.com/bioc/paxtoolsr
 [submodule "pcaExplorer"]
 	path = pcaExplorer
 	url = https://github.com/bioc/pcaExplorer
@@ -6297,9 +6264,6 @@
 [submodule "signeR"]
 	path = signeR
 	url = https://github.com/bioc/signeR
-[submodule "signifinder"]
-	path = signifinder
-	url = https://github.com/bioc/signifinder
 [submodule "sigsquared"]
 	path = sigsquared
 	url = https://github.com/bioc/sigsquared
@@ -6480,9 +6444,6 @@
 [submodule "supersigs"]
 	path = supersigs
 	url = https://github.com/bioc/supersigs
-[submodule "supraHex"]
-	path = supraHex
-	url = https://github.com/bioc/supraHex
 [submodule "surfaltr"]
 	path = surfaltr
 	url = https://github.com/bioc/surfaltr
