@@ -6793,3 +6793,6 @@
 [submodule "zitools"]
 	path = zitools
 	url = https://github.com/bioc/zitools
+[submodule "zlibbioc"]
+	path = zlibbioc
+	url = https://github.com/bioc/zlibbioc
