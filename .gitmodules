@@ -395,6 +395,9 @@
 [submodule "BufferedMatrixMethods"]
 	path = BufferedMatrixMethods
 	url = https://github.com/bioc/BufferedMatrixMethods
+[submodule "BulkSignalR"]
+	path = BulkSignalR
+	url = https://github.com/bioc/BulkSignalR
 [submodule "BumpyMatrix"]
 	path = BumpyMatrix
 	url = https://github.com/bioc/BumpyMatrix
@@ -2318,6 +2321,9 @@
 [submodule "PolySTest"]
 	path = PolySTest
 	url = https://github.com/bioc/PolySTest
+[submodule "Polytect"]
+	path = Polytect
+	url = https://github.com/bioc/Polytect
 [submodule "PrInCE"]
 	path = PrInCE
 	url = https://github.com/bioc/PrInCE
