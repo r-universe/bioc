@@ -2624,6 +2624,9 @@
 [submodule "RedisParam"]
 	path = RedisParam
 	url = https://github.com/bioc/RedisParam
+[submodule "ReducedExperiment"]
+	path = ReducedExperiment
+	url = https://github.com/bioc/ReducedExperiment
 [submodule "RegEnrich"]
 	path = RegEnrich
 	url = https://github.com/bioc/RegEnrich
@@ -3147,6 +3150,9 @@
 [submodule "ToxicoGx"]
 	path = ToxicoGx
 	url = https://github.com/bioc/ToxicoGx
+[submodule "TrIdent"]
+	path = TrIdent
+	url = https://github.com/bioc/TrIdent
 [submodule "TrajectoryGeometry"]
 	path = TrajectoryGeometry
 	url = https://github.com/bioc/TrajectoryGeometry
@@ -4533,6 +4539,9 @@
 [submodule "geva"]
 	path = geva
 	url = https://github.com/bioc/geva
+[submodule "geyser"]
+	path = geyser
+	url = https://github.com/bioc/geyser
 [submodule "gg4way"]
 	path = gg4way
 	url = https://github.com/bioc/gg4way
@@ -5226,6 +5235,9 @@
 [submodule "missRows"]
 	path = missRows
 	url = https://github.com/bioc/missRows
+[submodule "mist"]
+	path = mist
+	url = https://github.com/bioc/mist
 [submodule "mistyR"]
 	path = mistyR
 	url = https://github.com/bioc/mistyR
@@ -6273,6 +6285,9 @@
 [submodule "signeR"]
 	path = signeR
 	url = https://github.com/bioc/signeR
+[submodule "signifinder"]
+	path = signifinder
+	url = https://github.com/bioc/signifinder
 [submodule "sigsquared"]
 	path = sigsquared
 	url = https://github.com/bioc/sigsquared
