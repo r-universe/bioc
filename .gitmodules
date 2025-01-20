@@ -4663,6 +4663,9 @@
 [submodule "gypsum"]
 	path = gypsum
 	url = https://github.com/bioc/gypsum
+[submodule "h5mread"]
+	path = h5mread
+	url = https://github.com/bioc/h5mread
 [submodule "h5vc"]
 	path = h5vc
 	url = https://git.bioconductor.org/packages/h5vc
@@ -4985,6 +4988,9 @@
 [submodule "maSigPro"]
 	path = maSigPro
 	url = https://github.com/bioc/maSigPro
+[submodule "maaslin3"]
+	path = maaslin3
+	url = https://github.com/bioc/maaslin3
 [submodule "made4"]
 	path = made4
 	url = https://github.com/bioc/made4
@@ -6342,6 +6348,9 @@
 [submodule "smoothclust"]
 	path = smoothclust
 	url = https://github.com/bioc/smoothclust
+[submodule "smoppix"]
+	path = smoppix
+	url = https://github.com/bioc/smoppix
 [submodule "snapcount"]
 	path = snapcount
 	url = https://github.com/bioc/snapcount
@@ -6357,6 +6366,9 @@
 [submodule "soGGi"]
 	path = soGGi
 	url = https://github.com/bioc/soGGi
+[submodule "sosta"]
+	path = sosta
+	url = https://github.com/bioc/sosta
 [submodule "spaSim"]
 	path = spaSim
 	url = https://github.com/bioc/spaSim
@@ -6784,6 +6796,9 @@
 [submodule "wppi"]
 	path = wppi
 	url = https://github.com/bioc/wppi
+[submodule "xCell2"]
+	path = xCell2
+	url = https://github.com/bioc/xCell2
 [submodule "xcms"]
 	path = xcms
 	url = https://github.com/bioc/xcms
