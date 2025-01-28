@@ -43,6 +43,12 @@
     "from": "miaViz"
   },
   {
+    "package": "phyloseq",
+    "url": "https://github.com/joey711/phyloseq",
+    "via": ["mia"],
+    "from": "mia"
+  },
+  {
     "package": "tidydr",
     "url": "https://github.com/YuLab-SMU/tidydr",
     "via": ["ChIPseeker", "enrichplot"],
