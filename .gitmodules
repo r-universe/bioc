@@ -422,9 +422,6 @@
 [submodule "CATALYST"]
 	path = CATALYST
 	url = https://github.com/bioc/CATALYST
-[submodule "CBEA"]
-	path = CBEA
-	url = https://github.com/bioc/CBEA
 [submodule "CBNplot"]
 	path = CBNplot
 	url = https://github.com/bioc/CBNplot
@@ -2603,9 +2600,6 @@
 [submodule "ReUseData"]
 	path = ReUseData
 	url = https://github.com/bioc/ReUseData
-[submodule "ReactomeContentService4R"]
-	path = ReactomeContentService4R
-	url = https://github.com/bioc/ReactomeContentService4R
 [submodule "ReactomeGSA"]
 	path = ReactomeGSA
 	url = https://github.com/bioc/ReactomeGSA
