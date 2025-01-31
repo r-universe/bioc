@@ -2955,6 +2955,9 @@
 [submodule "SpatialExperiment"]
 	path = SpatialExperiment
 	url = https://github.com/bioc/SpatialExperiment
+[submodule "SpatialExperimentIO"]
+	path = SpatialExperimentIO
+	url = https://github.com/bioc/SpatialExperimentIO
 [submodule "SpatialFeatureExperiment"]
 	path = SpatialFeatureExperiment
 	url = https://github.com/bioc/SpatialFeatureExperiment
@@ -6108,6 +6111,9 @@
 [submodule "scPipe"]
 	path = scPipe
 	url = https://github.com/bioc/scPipe
+[submodule "scQTLtools"]
+	path = scQTLtools
+	url = https://github.com/bioc/scQTLtools
 [submodule "scRNAseqApp"]
 	path = scRNAseqApp
 	url = https://github.com/bioc/scRNAseqApp
@@ -6378,6 +6384,9 @@
 [submodule "spatialDE"]
 	path = spatialDE
 	url = https://github.com/bioc/spatialDE
+[submodule "spatialFDA"]
+	path = spatialFDA
+	url = https://github.com/bioc/spatialFDA
 [submodule "spatialHeatmap"]
 	path = spatialHeatmap
 	url = https://github.com/bioc/spatialHeatmap
