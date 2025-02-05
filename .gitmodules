@@ -1916,6 +1916,9 @@
 [submodule "MetaboCoreUtils"]
 	path = MetaboCoreUtils
 	url = https://github.com/bioc/MetaboCoreUtils
+[submodule "MetaboDynamics"]
+	path = MetaboDynamics
+	url = https://github.com/bioc/MetaboDynamics
 [submodule "MetaboSignal"]
 	path = MetaboSignal
 	url = https://github.com/bioc/MetaboSignal
@@ -2213,6 +2216,9 @@
 [submodule "PECA"]
 	path = PECA
 	url = https://github.com/bioc/PECA
+[submodule "PICB"]
+	path = PICB
+	url = https://github.com/bioc/PICB
 [submodule "PICS"]
 	path = PICS
 	url = https://github.com/bioc/PICS
@@ -3555,6 +3561,9 @@
 [submodule "biocViews"]
 	path = biocViews
 	url = https://github.com/bioc/biocViews
+[submodule "biocmake"]
+	path = biocmake
+	url = https://github.com/bioc/biocmake
 [submodule "biocroxytest"]
 	path = biocroxytest
 	url = https://github.com/bioc/biocroxytest
@@ -3723,6 +3732,15 @@
 [submodule "cghMCR"]
 	path = cghMCR
 	url = https://github.com/bioc/cghMCR
+[submodule "chevreulPlot"]
+	path = chevreulPlot
+	url = https://github.com/bioc/chevreulPlot
+[submodule "chevreulProcess"]
+	path = chevreulProcess
+	url = https://github.com/bioc/chevreulProcess
+[submodule "chevreulShiny"]
+	path = chevreulShiny
+	url = https://github.com/bioc/chevreulShiny
 [submodule "chihaya"]
 	path = chihaya
 	url = https://github.com/bioc/chihaya
