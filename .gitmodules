@@ -2387,9 +2387,6 @@
 [submodule "QFeatures"]
 	path = QFeatures
 	url = https://github.com/bioc/QFeatures
-[submodule "QRscore"]
-	path = QRscore
-	url = https://github.com/bioc/QRscore
 [submodule "QSutils"]
 	path = QSutils
 	url = https://github.com/bioc/QSutils
@@ -3185,9 +3182,6 @@
 [submodule "TargetSearch"]
 	path = TargetSearch
 	url = https://github.com/bioc/TargetSearch
-[submodule "TaxSEA"]
-	path = TaxSEA
-	url = https://github.com/bioc/TaxSEA
 [submodule "TileDBArray"]
 	path = TileDBArray
 	url = https://github.com/bioc/TileDBArray
@@ -4026,9 +4020,6 @@
 [submodule "crumblr"]
 	path = crumblr
 	url = https://github.com/bioc/crumblr
-[submodule "crupR"]
-	path = crupR
-	url = https://github.com/bioc/crupR
 [submodule "csaw"]
 	path = csaw
 	url = https://github.com/bioc/csaw
@@ -4909,9 +4900,6 @@
 [submodule "illuminaio"]
 	path = illuminaio
 	url = https://github.com/bioc/illuminaio
-[submodule "imageTCGA"]
-	path = imageTCGA
-	url = https://github.com/bioc/imageTCGA
 [submodule "imcRtools"]
 	path = imcRtools
 	url = https://github.com/bioc/imcRtools
@@ -4951,9 +4939,6 @@
 [submodule "ipdDb"]
 	path = ipdDb
 	url = https://github.com/bioc/ipdDb
-[submodule "islify"]
-	path = islify
-	url = https://github.com/bioc/islify
 [submodule "isobar"]
 	path = isobar
 	url = https://github.com/bioc/isobar
@@ -5349,9 +5334,6 @@
 [submodule "mitoClone2"]
 	path = mitoClone2
 	url = https://github.com/bioc/mitoClone2
-[submodule "mitology"]
-	path = mitology
-	url = https://github.com/bioc/mitology
 [submodule "mixOmics"]
 	path = mixOmics
 	url = https://github.com/bioc/mixOmics
