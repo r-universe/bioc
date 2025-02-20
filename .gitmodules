@@ -923,9 +923,6 @@
 [submodule "Dino"]
 	path = Dino
 	url = https://github.com/bioc/Dino
-[submodule "Director"]
-	path = Director
-	url = https://github.com/bioc/Director
 [submodule "DirichletMultinomial"]
 	path = DirichletMultinomial
 	url = https://github.com/bioc/DirichletMultinomial
