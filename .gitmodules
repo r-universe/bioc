@@ -4621,9 +4621,6 @@
 [submodule "ginmappeR"]
 	path = ginmappeR
 	url = https://github.com/bioc/ginmappeR
-[submodule "girafe"]
-	path = girafe
-	url = https://github.com/bioc/girafe
 [submodule "glmGamPoi"]
 	path = glmGamPoi
 	url = https://github.com/bioc/glmGamPoi
