@@ -416,6 +416,9 @@
 [submodule "CAMERA"]
 	path = CAMERA
 	url = https://github.com/bioc/CAMERA
+[submodule "CARDspa"]
+	path = CARDspa
+	url = https://github.com/bioc/CARDspa
 [submodule "CARNIVAL"]
 	path = CARNIVAL
 	url = https://github.com/bioc/CARNIVAL
@@ -983,6 +986,9 @@
 [submodule "ELMER"]
 	path = ELMER
 	url = https://github.com/bioc/ELMER
+[submodule "ELViS"]
+	path = ELViS
+	url = https://github.com/bioc/ELViS
 [submodule "EMDomics"]
 	path = EMDomics
 	url = https://github.com/bioc/EMDomics
@@ -1451,6 +1457,9 @@
 [submodule "HiCExperiment"]
 	path = HiCExperiment
 	url = https://github.com/bioc/HiCExperiment
+[submodule "HiCParser"]
+	path = HiCParser
+	url = https://github.com/bioc/HiCParser
 [submodule "HiCcompare"]
 	path = HiCcompare
 	url = https://github.com/bioc/HiCcompare
@@ -1817,6 +1826,9 @@
 [submodule "MSstatsBig"]
 	path = MSstatsBig
 	url = https://github.com/bioc/MSstatsBig
+[submodule "MSstatsBioNet"]
+	path = MSstatsBioNet
+	url = https://github.com/bioc/MSstatsBioNet
 [submodule "MSstatsConvert"]
 	path = MSstatsConvert
 	url = https://github.com/bioc/MSstatsConvert
@@ -3267,6 +3279,9 @@
 [submodule "XVector"]
 	path = XVector
 	url = https://github.com/bioc/XVector
+[submodule "XeniumIO"]
+	path = XeniumIO
+	url = https://github.com/bioc/XeniumIO
 [submodule "Xeva"]
 	path = Xeva
 	url = https://github.com/bioc/Xeva
@@ -3519,6 +3534,9 @@
 [submodule "beadarray"]
 	path = beadarray
 	url = https://github.com/bioc/beadarray
+[submodule "bedbaser"]
+	path = bedbaser
+	url = https://github.com/bioc/bedbaser
 [submodule "beer"]
 	path = beer
 	url = https://github.com/bioc/beer
@@ -4014,6 +4032,9 @@
 [submodule "dagLogo"]
 	path = dagLogo
 	url = https://github.com/bioc/dagLogo
+[submodule "dandelionR"]
+	path = dandelionR
+	url = https://github.com/bioc/dandelionR
 [submodule "dar"]
 	path = dar
 	url = https://github.com/bioc/dar
