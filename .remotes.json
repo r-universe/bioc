@@ -63,12 +63,6 @@
   {
     "package": "phyloseq",
     "url": "https://github.com/joey711/phyloseq",
-    "via": ["mia"],
-    "from": "mia"
-  },
-  {
-    "package": "phyloseq",
-    "url": "https://github.com/joey711/phyloseq",
     "via": ["miaViz", "miaTime", "mia"],
     "from": "miaViz"
   },
