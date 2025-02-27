@@ -61,12 +61,6 @@
     "from": "netZooR"
   },
   {
-    "package": "phyloseq",
-    "url": "https://github.com/joey711/phyloseq",
-    "via": ["miaViz", "miaTime", "mia"],
-    "from": "miaViz"
-  },
-  {
     "package": "tidydr",
     "url": "https://github.com/YuLab-SMU/tidydr",
     "via": ["ChIPseeker", "enrichplot"],
