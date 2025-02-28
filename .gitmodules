@@ -2408,9 +2408,6 @@
 [submodule "RBioFormats"]
 	path = RBioFormats
 	url = https://github.com/bioc/RBioFormats
-[submodule "RBioinf"]
-	path = RBioinf
-	url = https://github.com/bioc/RBioinf
 [submodule "RCAS"]
 	path = RCAS
 	url = https://github.com/bioc/RCAS
