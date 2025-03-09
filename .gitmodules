@@ -2678,6 +2678,9 @@
 [submodule "RiboProfiling"]
 	path = RiboProfiling
 	url = https://github.com/bioc/RiboProfiling
+[submodule "Rigraphlib"]
+	path = Rigraphlib
+	url = https://github.com/bioc/Rigraphlib
 [submodule "Rmagpie"]
 	path = Rmagpie
 	url = https://github.com/bioc/Rmagpie
