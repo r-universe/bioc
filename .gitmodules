@@ -533,6 +533,9 @@
 [submodule "COTAN"]
 	path = COTAN
 	url = https://github.com/bioc/COTAN
+[submodule "CPSM"]
+	path = CPSM
+	url = https://github.com/bioc/CPSM
 [submodule "CRISPRball"]
 	path = CRISPRball
 	url = https://github.com/bioc/CRISPRball
@@ -2150,6 +2153,9 @@
 [submodule "OSAT"]
 	path = OSAT
 	url = https://github.com/bioc/OSAT
+[submodule "OSTA.data"]
+	path = OSTA.data
+	url = https://github.com/bioc/OSTA.data
 [submodule "OTUbase"]
 	path = OTUbase
 	url = https://github.com/bioc/OTUbase
@@ -3075,6 +3081,9 @@
 [submodule "TEKRABber"]
 	path = TEKRABber
 	url = https://github.com/bioc/TEKRABber
+[submodule "TENET"]
+	path = TENET
+	url = https://github.com/bioc/TENET
 [submodule "TENxIO"]
 	path = TENxIO
 	url = https://github.com/bioc/TENxIO
@@ -4913,6 +4922,9 @@
 [submodule "ivygapSE"]
 	path = ivygapSE
 	url = https://github.com/bioc/ivygapSE
+[submodule "jazzPanda"]
+	path = jazzPanda
+	url = https://github.com/bioc/jazzPanda
 [submodule "karyoploteR"]
 	path = karyoploteR
 	url = https://github.com/bioc/karyoploteR
@@ -5728,6 +5740,9 @@
 [submodule "podkat"]
 	path = podkat
 	url = https://github.com/bioc/podkat
+[submodule "poem"]
+	path = poem
+	url = https://github.com/bioc/poem
 [submodule "pogos"]
 	path = pogos
 	url = https://github.com/bioc/pogos
@@ -6601,6 +6616,9 @@
 [submodule "tenXplore"]
 	path = tenXplore
 	url = https://github.com/bioc/tenXplore
+[submodule "terapadog"]
+	path = terapadog
+	url = https://github.com/bioc/terapadog
 [submodule "ternarynet"]
 	path = ternarynet
 	url = https://github.com/bioc/ternarynet
