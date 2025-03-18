@@ -848,6 +848,9 @@
 [submodule "DNAcopy"]
 	path = DNAcopy
 	url = https://github.com/bioc/DNAcopy
+[submodule "DNAcycP2"]
+	path = DNAcycP2
+	url = https://github.com/bioc/DNAcycP2
 [submodule "DNAfusion"]
 	path = DNAfusion
 	url = https://github.com/bioc/DNAfusion
@@ -1379,9 +1382,6 @@
 [submodule "GraphAlignment"]
 	path = GraphAlignment
 	url = https://github.com/bioc/GraphAlignment
-[submodule "GraphPAC"]
-	path = GraphPAC
-	url = https://github.com/bioc/GraphPAC
 [submodule "GreyListChIP"]
 	path = GreyListChIP
 	url = https://github.com/bioc/GreyListChIP
@@ -2381,9 +2381,6 @@
 [submodule "Qtlizer"]
 	path = Qtlizer
 	url = https://github.com/bioc/Qtlizer
-[submodule "QuartPAC"]
-	path = QuartPAC
-	url = https://github.com/bioc/QuartPAC
 [submodule "QuasR"]
 	path = QuasR
 	url = https://github.com/bioc/QuasR
@@ -2869,8 +2866,7 @@
 	url = https://github.com/bioc/SVMDO
 [submodule "SVP"]
 	path = SVP
-	url = https://github.com/YuLab-SMU/SVP
-	registered = false
+	url = https://github.com/bioc/SVP
 [submodule "SWATH2stats"]
 	path = SWATH2stats
 	url = https://github.com/bioc/SWATH2stats
@@ -2955,9 +2951,6 @@
 [submodule "SpaceMarkers"]
 	path = SpaceMarkers
 	url = https://github.com/bioc/SpaceMarkers
-[submodule "SpacePAC"]
-	path = SpacePAC
-	url = https://github.com/bioc/SpacePAC
 [submodule "Spaniel"]
 	path = Spaniel
 	url = https://github.com/bioc/Spaniel
@@ -3276,6 +3269,9 @@
 [submodule "Wrench"]
 	path = Wrench
 	url = https://github.com/bioc/Wrench
+[submodule "XAItest"]
+	path = XAItest
+	url = https://github.com/bioc/XAItest
 [submodule "XDE"]
 	path = XDE
 	url = https://github.com/bioc/XDE
@@ -3402,6 +3398,9 @@
 [submodule "alabaster.se"]
 	path = alabaster.se
 	url = https://github.com/bioc/alabaster.se
+[submodule "alabaster.sfe"]
+	path = alabaster.sfe
+	url = https://github.com/bioc/alabaster.sfe
 [submodule "alabaster.spatial"]
 	path = alabaster.spatial
 	url = https://github.com/bioc/alabaster.spatial
@@ -3862,9 +3861,6 @@
 [submodule "coGPS"]
 	path = coGPS
 	url = https://github.com/bioc/coGPS
-[submodule "coMET"]
-	path = coMET
-	url = https://github.com/bioc/coMET
 [submodule "coMethDMR"]
 	path = coMethDMR
 	url = https://github.com/bioc/coMethDMR
@@ -4802,9 +4798,6 @@
 [submodule "iNETgrate"]
 	path = iNETgrate
 	url = https://github.com/bioc/iNETgrate
-[submodule "iPAC"]
-	path = iPAC
-	url = https://github.com/bioc/iPAC
 [submodule "iPath"]
 	path = iPath
 	url = https://github.com/bioc/iPath
