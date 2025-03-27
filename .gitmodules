@@ -4969,6 +4969,9 @@
 [submodule "limmaGUI"]
 	path = limmaGUI
 	url = https://github.com/bioc/limmaGUI
+[submodule "limpa"]
+	path = limpa
+	url = https://github.com/bioc/limpa
 [submodule "limpca"]
 	path = limpca
 	url = https://github.com/bioc/limpca
@@ -6006,6 +6009,9 @@
 [submodule "rifiComparative"]
 	path = rifiComparative
 	url = https://github.com/bioc/rifiComparative
+[submodule "rigvf"]
+	path = rigvf
+	url = https://github.com/bioc/rigvf
 [submodule "rmelting"]
 	path = rmelting
 	url = https://github.com/bioc/rmelting
