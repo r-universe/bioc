@@ -4278,9 +4278,6 @@
 [submodule "erccdashboard"]
 	path = erccdashboard
 	url = https://github.com/bioc/erccdashboard
-[submodule "erma"]
-	path = erma
-	url = https://github.com/bioc/erma
 [submodule "esATAC"]
 	path = esATAC
 	url = https://github.com/bioc/esATAC
@@ -4942,9 +4939,6 @@
 [submodule "koinar"]
 	path = koinar
 	url = https://github.com/bioc/koinar
-[submodule "lapmix"]
-	path = lapmix
-	url = https://github.com/bioc/lapmix
 [submodule "ldblock"]
 	path = ldblock
 	url = https://github.com/bioc/ldblock
@@ -5469,9 +5463,6 @@
 [submodule "nnSVG"]
 	path = nnSVG
 	url = https://github.com/bioc/nnSVG
-[submodule "nondetects"]
-	path = nondetects
-	url = https://github.com/bioc/nondetects
 [submodule "normalize450K"]
 	path = normalize450K
 	url = https://github.com/bioc/normalize450K
