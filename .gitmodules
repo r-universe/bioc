@@ -428,6 +428,9 @@
 [submodule "CBNplot"]
 	path = CBNplot
 	url = https://github.com/bioc/CBNplot
+[submodule "CCAFE"]
+	path = CCAFE
+	url = https://github.com/bioc/CCAFE
 [submodule "CCPROMISE"]
 	path = CCPROMISE
 	url = https://github.com/bioc/CCPROMISE
@@ -887,6 +890,9 @@
 [submodule "DeconRNASeq"]
 	path = DeconRNASeq
 	url = https://github.com/bioc/DeconRNASeq
+[submodule "DeconvoBuddies"]
+	path = DeconvoBuddies
+	url = https://github.com/bioc/DeconvoBuddies
 [submodule "DeepPINCS"]
 	path = DeepPINCS
 	url = https://github.com/bioc/DeepPINCS
@@ -1655,6 +1661,9 @@
 [submodule "LedPred"]
 	path = LedPred
 	url = https://github.com/bioc/LedPred
+[submodule "Lheuristic"]
+	path = Lheuristic
+	url = https://github.com/bioc/Lheuristic
 [submodule "LimROTS"]
 	path = LimROTS
 	url = https://github.com/bioc/LimROTS
@@ -2447,6 +2456,9 @@
 [submodule "RESOLVE"]
 	path = RESOLVE
 	url = https://github.com/bioc/RESOLVE
+[submodule "RFLOMICS"]
+	path = RFLOMICS
+	url = https://github.com/bioc/RFLOMICS
 [submodule "RGSEA"]
 	path = RGSEA
 	url = https://github.com/bioc/RGSEA
@@ -2942,6 +2954,9 @@
 [submodule "SingleR"]
 	path = SingleR
 	url = https://github.com/bioc/SingleR
+[submodule "Site2Target"]
+	path = Site2Target
+	url = https://github.com/bioc/Site2Target
 [submodule "SomaticSignatures"]
 	path = SomaticSignatures
 	url = https://github.com/bioc/SomaticSignatures
@@ -3978,6 +3993,9 @@
 [submodule "crlmm"]
 	path = crlmm
 	url = https://github.com/bioc/crlmm
+[submodule "crumblr"]
+	path = crumblr
+	url = https://github.com/bioc/crumblr
 [submodule "csaw"]
 	path = csaw
 	url = https://github.com/bioc/csaw
@@ -5222,6 +5240,9 @@
 [submodule "mia"]
 	path = mia
 	url = https://github.com/bioc/mia
+[submodule "miaDash"]
+	path = miaDash
+	url = https://github.com/bioc/miaDash
 [submodule "miaSim"]
 	path = miaSim
 	url = https://github.com/bioc/miaSim
