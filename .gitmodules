@@ -2567,6 +2567,9 @@
 [submodule "RTopper"]
 	path = RTopper
 	url = https://github.com/bioc/RTopper
+[submodule "RUCova"]
+	path = RUCova
+	url = https://github.com/bioc/RUCova
 [submodule "RUVSeq"]
 	path = RUVSeq
 	url = https://github.com/bioc/RUVSeq
@@ -2606,6 +2609,9 @@
 [submodule "Rbowtie2"]
 	path = Rbowtie2
 	url = https://github.com/bioc/Rbowtie2
+[submodule "RbowtieCuda"]
+	path = RbowtieCuda
+	url = https://github.com/bioc/RbowtieCuda
 [submodule "Rbwa"]
 	path = Rbwa
 	url = https://github.com/bioc/Rbwa
@@ -2789,6 +2795,9 @@
 [submodule "SELEX"]
 	path = SELEX
 	url = https://github.com/bioc/SELEX
+[submodule "SEraster"]
+	path = SEraster
+	url = https://github.com/bioc/SEraster
 [submodule "SEtools"]
 	path = SEtools
 	url = https://github.com/bioc/SEtools
@@ -3845,6 +3854,9 @@
 [submodule "clustComp"]
 	path = clustComp
 	url = https://github.com/bioc/clustComp
+[submodule "clustSIGNAL"]
+	path = clustSIGNAL
+	url = https://github.com/bioc/clustSIGNAL
 [submodule "clusterExperiment"]
 	path = clusterExperiment
 	url = https://github.com/bioc/clusterExperiment
@@ -6336,6 +6348,9 @@
 [submodule "shiny.gosling"]
 	path = shiny.gosling
 	url = https://github.com/bioc/shiny.gosling
+[submodule "shinyDSP"]
+	path = shinyDSP
+	url = https://github.com/bioc/shinyDSP
 [submodule "shinyMethyl"]
 	path = shinyMethyl
 	url = https://github.com/bioc/shinyMethyl
@@ -6438,6 +6453,9 @@
 [submodule "spaSim"]
 	path = spaSim
 	url = https://github.com/bioc/spaSim
+[submodule "spacexr"]
+	path = spacexr
+	url = https://github.com/bioc/spacexr
 [submodule "sparrow"]
 	path = sparrow
 	url = https://github.com/bioc/sparrow
@@ -6826,6 +6844,9 @@
 [submodule "vissE"]
 	path = vissE
 	url = https://github.com/bioc/vissE
+[submodule "vmrseq"]
+	path = vmrseq
+	url = https://github.com/bioc/vmrseq
 [submodule "vsclust"]
 	path = vsclust
 	url = https://github.com/bioc/vsclust
