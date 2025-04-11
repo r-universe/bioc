@@ -257,6 +257,9 @@
 [submodule "BatchQC"]
 	path = BatchQC
 	url = https://github.com/bioc/BatchQC
+[submodule "BatchSVG"]
+	path = BatchSVG
+	url = https://github.com/bioc/BatchSVG
 [submodule "BayesKnockdown"]
 	path = BayesKnockdown
 	url = https://github.com/bioc/BayesKnockdown
@@ -380,6 +383,9 @@
 [submodule "BloodGen3Module"]
 	path = BloodGen3Module
 	url = https://github.com/bioc/BloodGen3Module
+[submodule "BreastSubtypeR"]
+	path = BreastSubtypeR
+	url = https://github.com/bioc/BreastSubtypeR
 [submodule "BridgeDbR"]
 	path = BridgeDbR
 	url = https://github.com/bioc/BridgeDbR
@@ -3533,6 +3539,9 @@
 [submodule "banocc"]
 	path = banocc
 	url = https://github.com/bioc/banocc
+[submodule "barbieQ"]
+	path = barbieQ
+	url = https://github.com/bioc/barbieQ
 [submodule "barcodetrackR"]
 	path = barcodetrackR
 	url = https://github.com/bioc/barcodetrackR
@@ -5637,6 +5646,9 @@
 [submodule "partCNV"]
 	path = partCNV
 	url = https://github.com/bioc/partCNV
+[submodule "pathMED"]
+	path = pathMED
+	url = https://github.com/bioc/pathMED
 [submodule "pathRender"]
 	path = pathRender
 	url = https://github.com/bioc/pathRender
@@ -6171,6 +6183,9 @@
 [submodule "scHOT"]
 	path = scHOT
 	url = https://github.com/bioc/scHOT
+[submodule "scHiCcompare"]
+	path = scHiCcompare
+	url = https://github.com/bioc/scHiCcompare
 [submodule "scMET"]
 	path = scMET
 	url = https://github.com/bioc/scMET
