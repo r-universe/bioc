@@ -143,9 +143,6 @@
 [submodule "Anaquin"]
 	path = Anaquin
 	url = https://github.com/bioc/Anaquin
-[submodule "AneuFinder"]
-	path = AneuFinder
-	url = https://github.com/bioc/AneuFinder
 [submodule "AnnotationDbi"]
 	path = AnnotationDbi
 	url = https://github.com/bioc/AnnotationDbi
@@ -890,9 +887,6 @@
 [submodule "DeMixT"]
 	path = DeMixT
 	url = https://github.com/bioc/DeMixT
-[submodule "DeProViR"]
-	path = DeProViR
-	url = https://github.com/bioc/DeProViR
 [submodule "DeconRNASeq"]
 	path = DeconRNASeq
 	url = https://github.com/bioc/DeconRNASeq
@@ -1289,9 +1283,6 @@
 [submodule "GeneGA"]
 	path = GeneGA
 	url = https://github.com/bioc/GeneGA
-[submodule "GeneGeneInteR"]
-	path = GeneGeneInteR
-	url = https://github.com/bioc/GeneGeneInteR
 [submodule "GeneMeta"]
 	path = GeneMeta
 	url = https://github.com/bioc/GeneMeta
@@ -2126,9 +2117,6 @@
 [submodule "NetSAM"]
 	path = NetSAM
 	url = https://github.com/bioc/NetSAM
-[submodule "NeuCA"]
-	path = NeuCA
-	url = https://github.com/bioc/NeuCA
 [submodule "NewWave"]
 	path = NewWave
 	url = https://github.com/bioc/NewWave
@@ -2252,12 +2240,6 @@
 [submodule "PICB"]
 	path = PICB
 	url = https://github.com/bioc/PICB
-[submodule "PICS"]
-	path = PICS
-	url = https://github.com/bioc/PICS
-[submodule "PING"]
-	path = PING
-	url = https://github.com/bioc/PING
 [submodule "PIPETS"]
 	path = PIPETS
 	url = https://github.com/bioc/PIPETS
@@ -2744,9 +2726,6 @@
 [submodule "Rtpca"]
 	path = Rtpca
 	url = https://github.com/bioc/Rtpca
-[submodule "Rtreemix"]
-	path = Rtreemix
-	url = https://github.com/bioc/Rtreemix
 [submodule "Rvisdiff"]
 	path = Rvisdiff
 	url = https://github.com/bioc/Rvisdiff
@@ -3227,9 +3206,6 @@
 [submodule "TurboNorm"]
 	path = TurboNorm
 	url = https://github.com/bioc/TurboNorm
-[submodule "TypeInfo"]
-	path = TypeInfo
-	url = https://github.com/bioc/TypeInfo
 [submodule "UCSC.utils"]
 	path = UCSC.utils
 	url = https://github.com/bioc/UCSC.utils
@@ -4104,9 +4080,6 @@
 [submodule "dcanr"]
 	path = dcanr
 	url = https://github.com/bioc/dcanr
-[submodule "dce"]
-	path = dce
-	url = https://github.com/bioc/dce
 [submodule "ddCt"]
 	path = ddCt
 	url = https://github.com/bioc/ddCt
@@ -4602,9 +4575,6 @@
 [submodule "geneplotter"]
 	path = geneplotter
 	url = https://github.com/bioc/geneplotter
-[submodule "genoCN"]
-	path = genoCN
-	url = https://github.com/bioc/genoCN
 [submodule "genomation"]
 	path = genomation
 	url = https://github.com/bioc/genomation
@@ -5526,6 +5496,9 @@
 [submodule "nnSVG"]
 	path = nnSVG
 	url = https://github.com/bioc/nnSVG
+[submodule "nondetects"]
+	path = nondetects
+	url = https://github.com/bioc/nondetects
 [submodule "normalize450K"]
 	path = normalize450K
 	url = https://github.com/bioc/normalize450K
@@ -6633,9 +6606,6 @@
 [submodule "synapsis"]
 	path = synapsis
 	url = https://github.com/bioc/synapsis
-[submodule "synapter"]
-	path = synapter
-	url = https://github.com/bioc/synapter
 [submodule "synergyfinder"]
 	path = synergyfinder
 	url = https://github.com/bioc/synergyfinder
@@ -6802,9 +6772,6 @@
 [submodule "tricycle"]
 	path = tricycle
 	url = https://github.com/bioc/tricycle
-[submodule "trigger"]
-	path = trigger
-	url = https://github.com/bioc/trigger
 [submodule "trio"]
 	path = trio
 	url = https://github.com/bioc/trio
@@ -6958,6 +6925,3 @@
 [submodule "zitools"]
 	path = zitools
 	url = https://github.com/bioc/zitools
-[submodule "zlibbioc"]
-	path = zlibbioc
-	url = https://github.com/bioc/zlibbioc
