@@ -728,6 +728,9 @@
 [submodule "CopyNumberPlots"]
 	path = CopyNumberPlots
 	url = https://github.com/bioc/CopyNumberPlots
+[submodule "Coralysis"]
+	path = Coralysis
+	url = https://github.com/bioc/Coralysis
 [submodule "CoreGx"]
 	path = CoreGx
 	url = https://github.com/bioc/CoreGx
@@ -863,6 +866,9 @@
 [submodule "DNAshapeR"]
 	path = DNAshapeR
 	url = https://github.com/bioc/DNAshapeR
+[submodule "DNEA"]
+	path = DNEA
+	url = https://github.com/bioc/DNEA
 [submodule "DOSE"]
 	path = DOSE
 	url = https://github.com/bioc/DOSE
