@@ -19,12 +19,6 @@
     "from": "SpatialFeatureExperiment"
   },
   {
-    "package": "cmdstanr",
-    "url": "https://github.com/stan-dev/cmdstanr",
-    "via": ["netZooR"],
-    "from": "netZooR"
-  },
-  {
     "package": "enrichplot",
     "url": "https://github.com/GuangchuangYu/enrichplot",
     "via": ["ChIPseeker"],
