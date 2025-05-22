@@ -3035,9 +3035,6 @@
 [submodule "Statial"]
 	path = Statial
 	url = https://github.com/bioc/Statial
-[submodule "Streamer"]
-	path = Streamer
-	url = https://github.com/bioc/Streamer
 [submodule "Structstrings"]
 	path = Structstrings
 	url = https://github.com/bioc/Structstrings
