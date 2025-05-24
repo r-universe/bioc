@@ -1442,6 +1442,9 @@
 [submodule "HTqPCR"]
 	path = HTqPCR
 	url = https://github.com/bioc/HTqPCR
+[submodule "HVP"]
+	path = HVP
+	url = https://github.com/bioc/HVP
 [submodule "Harman"]
 	path = Harman
 	url = https://github.com/bioc/Harman
@@ -1682,6 +1685,9 @@
 [submodule "Linnorm"]
 	path = Linnorm
 	url = https://github.com/bioc/Linnorm
+[submodule "LipidTrend"]
+	path = LipidTrend
+	url = https://github.com/bioc/LipidTrend
 [submodule "LiquidAssociation"]
 	path = LiquidAssociation
 	url = https://github.com/bioc/LiquidAssociation
