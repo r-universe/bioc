@@ -2927,6 +2927,9 @@
 [submodule "SeqVarTools"]
 	path = SeqVarTools
 	url = https://github.com/bioc/SeqVarTools
+[submodule "Seqinfo"]
+	path = Seqinfo
+	url = https://github.com/bioc/Seqinfo
 [submodule "SharedObject"]
 	path = SharedObject
 	url = https://github.com/bioc/SharedObject
@@ -4187,6 +4190,9 @@
 [submodule "dks"]
 	path = dks
 	url = https://github.com/bioc/dks
+[submodule "dmGsea"]
+	path = dmGsea
+	url = https://github.com/bioc/dmGsea
 [submodule "dmrseq"]
 	path = dmrseq
 	url = https://github.com/bioc/dmrseq
@@ -4875,6 +4881,9 @@
 [submodule "idr2d"]
 	path = idr2d
 	url = https://github.com/bioc/idr2d
+[submodule "igblastr"]
+	path = igblastr
+	url = https://github.com/bioc/igblastr
 [submodule "igvR"]
 	path = igvR
 	url = https://github.com/bioc/igvR
