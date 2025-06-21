@@ -4926,12 +4926,6 @@
 [submodule "interacCircos"]
 	path = interacCircos
 	url = https://github.com/bioc/interacCircos
-[submodule "interactiveDisplay"]
-	path = interactiveDisplay
-	url = https://github.com/bioc/interactiveDisplay
-[submodule "interactiveDisplayBase"]
-	path = interactiveDisplayBase
-	url = https://github.com/bioc/interactiveDisplayBase
 [submodule "ipdDb"]
 	path = ipdDb
 	url = https://github.com/bioc/ipdDb
