@@ -2642,9 +2642,6 @@
 [submodule "ReactomeGSA"]
 	path = ReactomeGSA
 	url = https://github.com/bioc/ReactomeGSA
-[submodule "ReactomeGraph4R"]
-	path = ReactomeGraph4R
-	url = https://github.com/bioc/ReactomeGraph4R
 [submodule "ReactomePA"]
 	path = ReactomePA
 	url = https://github.com/bioc/ReactomePA
