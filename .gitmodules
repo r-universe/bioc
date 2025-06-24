@@ -3017,6 +3017,9 @@
 [submodule "SpectralTAD"]
 	path = SpectralTAD
 	url = https://github.com/bioc/SpectralTAD
+[submodule "SpectriPy"]
+	path = SpectriPy
+	url = https://github.com/bioc/SpectriPy
 [submodule "SpliceWiz"]
 	path = SpliceWiz
 	url = https://github.com/bioc/SpliceWiz
@@ -6338,9 +6341,6 @@
 [submodule "seqPattern"]
 	path = seqPattern
 	url = https://github.com/bioc/seqPattern
-[submodule "seqTools"]
-	path = seqTools
-	url = https://github.com/bioc/seqTools
 [submodule "seqcombo"]
 	path = seqcombo
 	url = https://github.com/bioc/seqcombo
