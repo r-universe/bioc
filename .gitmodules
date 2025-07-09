@@ -1142,9 +1142,6 @@
 [submodule "GBScleanR"]
 	path = GBScleanR
 	url = https://github.com/bioc/GBScleanR
-[submodule "GCPtools"]
-	path = GCPtools
-	url = https://github.com/bioc/GCPtools
 [submodule "GDCRNATools"]
 	path = GDCRNATools
 	url = https://github.com/bioc/GDCRNATools
@@ -1454,6 +1451,9 @@
 [submodule "HarmonizR"]
 	path = HarmonizR
 	url = https://github.com/bioc/HarmonizR
+[submodule "Harshlight"]
+	path = Harshlight
+	url = https://github.com/bioc/Harshlight
 [submodule "Heatplus"]
 	path = Heatplus
 	url = https://github.com/bioc/Heatplus
@@ -1709,6 +1709,9 @@
 [submodule "MACSr"]
 	path = MACSr
 	url = https://github.com/bioc/MACSr
+[submodule "MADSEQ"]
+	path = MADSEQ
+	url = https://github.com/bioc/MADSEQ
 [submodule "MAGAR"]
 	path = MAGAR
 	url = https://github.com/bioc/MAGAR
@@ -2672,6 +2675,9 @@
 [submodule "ResidualMatrix"]
 	path = ResidualMatrix
 	url = https://github.com/bioc/ResidualMatrix
+[submodule "Rfastp"]
+	path = Rfastp
+	url = https://github.com/bioc/Rfastp
 [submodule "RgnTX"]
 	path = RgnTX
 	url = https://github.com/bioc/RgnTX
@@ -5849,6 +5855,9 @@
 [submodule "qPLEXanalyzer"]
 	path = qPLEXanalyzer
 	url = https://github.com/bioc/qPLEXanalyzer
+[submodule "qckitfastq"]
+	path = qckitfastq
+	url = https://github.com/bioc/qckitfastq
 [submodule "qcmetrics"]
 	path = qcmetrics
 	url = https://github.com/bioc/qcmetrics
