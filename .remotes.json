@@ -53,5 +53,11 @@
     "url": "https://github.com/YuLab-SMU/tidydr",
     "via": ["ChIPseeker", "enrichplot"],
     "from": "ChIPseeker"
+  },
+  {
+    "package": "tidydr",
+    "url": "https://github.com/YuLab-SMU/tidydr",
+    "via": ["enrichplot"],
+    "from": "enrichplot"
   }
 ]
