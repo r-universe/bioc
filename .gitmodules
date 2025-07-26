@@ -608,9 +608,6 @@
 [submodule "CellNOptR"]
 	path = CellNOptR
 	url = https://github.com/bioc/CellNOptR
-[submodule "CellScore"]
-	path = CellScore
-	url = https://github.com/bioc/CellScore
 [submodule "CellTrails"]
 	path = CellTrails
 	url = https://github.com/bioc/CellTrails
@@ -3179,9 +3176,6 @@
 [submodule "TissueEnrich"]
 	path = TissueEnrich
 	url = https://github.com/bioc/TissueEnrich
-[submodule "TitanCNA"]
-	path = TitanCNA
-	url = https://github.com/bioc/TitanCNA
 [submodule "TnT"]
 	path = TnT
 	url = https://github.com/bioc/TnT
@@ -3197,9 +3191,6 @@
 [submodule "TrajectoryUtils"]
 	path = TrajectoryUtils
 	url = https://github.com/bioc/TrajectoryUtils
-[submodule "TransView"]
-	path = TransView
-	url = https://github.com/bioc/TransView
 [submodule "TreeAndLeaf"]
 	path = TreeAndLeaf
 	url = https://github.com/bioc/TreeAndLeaf
@@ -4689,9 +4680,6 @@
 [submodule "gpls"]
 	path = gpls
 	url = https://github.com/bioc/gpls
-[submodule "gpuMagic"]
-	path = gpuMagic
-	url = https://github.com/bioc/gpuMagic
 [submodule "granulator"]
 	path = granulator
 	url = https://github.com/bioc/granulator
@@ -4779,9 +4767,6 @@
 [submodule "hummingbird"]
 	path = hummingbird
 	url = https://github.com/bioc/hummingbird
-[submodule "hypeR"]
-	path = hypeR
-	url = https://github.com/bioc/hypeR
 [submodule "hyperdraw"]
 	path = hyperdraw
 	url = https://github.com/bioc/hyperdraw
@@ -5585,9 +5570,6 @@
 [submodule "oppar"]
 	path = oppar
 	url = https://github.com/bioc/oppar
-[submodule "oppti"]
-	path = oppti
-	url = https://github.com/bioc/oppti
 [submodule "optimalFlow"]
 	path = optimalFlow
 	url = https://github.com/bioc/optimalFlow
@@ -5897,9 +5879,6 @@
 [submodule "rCGH"]
 	path = rCGH
 	url = https://github.com/bioc/rCGH
-[submodule "rGADEM"]
-	path = rGADEM
-	url = https://github.com/bioc/rGADEM
 [submodule "rGREAT"]
 	path = rGREAT
 	url = https://github.com/bioc/rGREAT
