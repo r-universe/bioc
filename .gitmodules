@@ -3533,6 +3533,9 @@
 [submodule "basilisk.utils"]
 	path = basilisk.utils
 	url = https://github.com/bioc/basilisk.utils
+[submodule "batchCorr"]
+	path = batchCorr
+	url = https://github.com/bioc/batchCorr
 [submodule "batchelor"]
 	path = batchelor
 	url = https://github.com/bioc/batchelor
@@ -6203,6 +6206,9 @@
 [submodule "scTreeViz"]
 	path = scTreeViz
 	url = https://github.com/bioc/scTreeViz
+[submodule "scafari"]
+	path = scafari
+	url = https://github.com/bioc/scafari
 [submodule "scanMiR"]
 	path = scanMiR
 	url = https://github.com/bioc/scanMiR
