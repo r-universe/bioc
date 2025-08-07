@@ -2885,9 +2885,6 @@
 [submodule "SamSPECTRAL"]
 	path = SamSPECTRAL
 	url = https://github.com/bioc/SamSPECTRAL
-[submodule "SanityR"]
-	path = SanityR
-	url = https://github.com/bioc/SanityR
 [submodule "Scale4C"]
 	path = Scale4C
 	url = https://github.com/bioc/Scale4C
@@ -2972,9 +2969,6 @@
 [submodule "SpaceMarkers"]
 	path = SpaceMarkers
 	url = https://github.com/bioc/SpaceMarkers
-[submodule "SpaceTrooper"]
-	path = SpaceTrooper
-	url = https://github.com/bioc/SpaceTrooper
 [submodule "Spaniel"]
 	path = Spaniel
 	url = https://github.com/bioc/Spaniel
