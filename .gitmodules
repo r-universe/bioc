@@ -1475,6 +1475,9 @@
 [submodule "HiCParser"]
 	path = HiCParser
 	url = https://github.com/bioc/HiCParser
+[submodule "HiCPotts"]
+	path = HiCPotts
+	url = https://github.com/bioc/HiCPotts
 [submodule "HiCcompare"]
 	path = HiCcompare
 	url = https://github.com/bioc/HiCcompare
@@ -4995,6 +4998,9 @@
 [submodule "lineagespot"]
 	path = lineagespot
 	url = https://github.com/bioc/lineagespot
+[submodule "linkSet"]
+	path = linkSet
+	url = https://github.com/bioc/linkSet
 [submodule "lionessR"]
 	path = lionessR
 	url = https://github.com/bioc/lionessR
