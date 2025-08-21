@@ -5259,8 +5259,7 @@
 	url = https://github.com/bioc/miaSim
 [submodule "miaTime"]
 	path = miaTime
-	url = https://github.com/microbiome/miaTime
-	registered = false
+	url = https://github.com/bioc/miaTime
 [submodule "miaViz"]
 	path = miaViz
 	url = https://github.com/bioc/miaViz
