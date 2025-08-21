@@ -1,11 +1,5 @@
 [
   {
-    "package": "RCy3",
-    "url": "https://github.com/cytoscape/RCy3",
-    "via": ["netZooR"],
-    "from": "netZooR"
-  },
-  {
     "package": "SVP",
     "url": "https://github.com/YuLab-SMU/SVP",
     "via": ["ggsc"],
@@ -47,12 +41,6 @@
     "url": "https://github.com/microbiome/miaTime",
     "via": ["miaViz"],
     "from": "miaViz"
-  },
-  {
-    "package": "pandaR",
-    "url": "https://github.com/jnpaulson/pandaR",
-    "via": ["netZooR"],
-    "from": "netZooR"
   },
   {
     "package": "tidydr",
