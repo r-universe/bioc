@@ -95,6 +95,9 @@
 [submodule "AUCell"]
 	path = AUCell
 	url = https://github.com/bioc/AUCell
+[submodule "AWAggregator"]
+	path = AWAggregator
+	url = https://github.com/bioc/AWAggregator
 [submodule "AWFisher"]
 	path = AWFisher
 	url = https://github.com/bioc/AWFisher
