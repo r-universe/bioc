@@ -797,9 +797,6 @@
 [submodule "DELocal"]
 	path = DELocal
 	url = https://github.com/bioc/DELocal
-[submodule "DEP"]
-	path = DEP
-	url = https://github.com/bioc/DEP
 [submodule "DEScan2"]
 	path = DEScan2
 	url = https://github.com/bioc/DEScan2
