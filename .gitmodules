@@ -896,9 +896,6 @@
 [submodule "DeconvoBuddies"]
 	path = DeconvoBuddies
 	url = https://github.com/bioc/DeconvoBuddies
-[submodule "DeeDeeExperiment"]
-	path = DeeDeeExperiment
-	url = https://github.com/bioc/DeeDeeExperiment
 [submodule "DeepPINCS"]
 	path = DeepPINCS
 	url = https://github.com/bioc/DeepPINCS
