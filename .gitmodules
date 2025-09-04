@@ -6448,6 +6448,9 @@
 [submodule "sosta"]
 	path = sosta
 	url = https://github.com/bioc/sosta
+[submodule "spARI"]
+	path = spARI
+	url = https://github.com/bioc/spARI
 [submodule "spaSim"]
 	path = spaSim
 	url = https://github.com/bioc/spaSim
