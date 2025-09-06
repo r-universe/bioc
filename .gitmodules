@@ -1481,6 +1481,9 @@
 [submodule "HiCPotts"]
 	path = HiCPotts
 	url = https://github.com/bioc/HiCPotts
+[submodule "HiCaptuRe"]
+	path = HiCaptuRe
+	url = https://github.com/bioc/HiCaptuRe
 [submodule "HiCcompare"]
 	path = HiCcompare
 	url = https://github.com/bioc/HiCcompare
