@@ -323,6 +323,9 @@
 [submodule "Biobase"]
 	path = Biobase
 	url = https://github.com/bioc/Biobase
+[submodule "Bioc.gff"]
+	path = Bioc.gff
+	url = https://github.com/bioc/Bioc.gff
 [submodule "BiocBaseUtils"]
 	path = BiocBaseUtils
 	url = https://github.com/bioc/BiocBaseUtils
@@ -668,6 +671,9 @@
 [submodule "ChromSCape"]
 	path = ChromSCape
 	url = https://github.com/bioc/ChromSCape
+[submodule "Chromatograms"]
+	path = Chromatograms
+	url = https://github.com/bioc/Chromatograms
 [submodule "CircSeqAlignTk"]
 	path = CircSeqAlignTk
 	url = https://github.com/bioc/CircSeqAlignTk
@@ -3764,6 +3770,9 @@
 [submodule "cellity"]
 	path = cellity
 	url = https://github.com/bioc/cellity
+[submodule "cellmig"]
+	path = cellmig
+	url = https://github.com/bioc/cellmig
 [submodule "cellmigRation"]
 	path = cellmigRation
 	url = https://github.com/bioc/cellmigRation
@@ -5444,6 +5453,9 @@
 [submodule "musicatk"]
 	path = musicatk
 	url = https://github.com/bioc/musicatk
+[submodule "mutscan"]
+	path = mutscan
+	url = https://github.com/bioc/mutscan
 [submodule "mygene"]
 	path = mygene
 	url = https://github.com/bioc/mygene
@@ -6548,6 +6560,9 @@
 [submodule "stJoincount"]
 	path = stJoincount
 	url = https://github.com/bioc/stJoincount
+[submodule "stPipe"]
+	path = stPipe
+	url = https://github.com/bioc/stPipe
 [submodule "stageR"]
 	path = stageR
 	url = https://github.com/bioc/stageR
