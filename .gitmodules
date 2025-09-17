@@ -560,6 +560,9 @@
 [submodule "CSAR"]
 	path = CSAR
 	url = https://github.com/bioc/CSAR
+[submodule "CSOA"]
+	path = CSOA
+	url = https://github.com/bioc/CSOA
 [submodule "CSSQ"]
 	path = CSSQ
 	url = https://github.com/bioc/CSSQ
@@ -1121,6 +1124,9 @@
 [submodule "FindIT2"]
 	path = FindIT2
 	url = https://github.com/bioc/FindIT2
+[submodule "FinfoMDS"]
+	path = FinfoMDS
+	url = https://github.com/bioc/FinfoMDS
 [submodule "FitHiC"]
 	path = FitHiC
 	url = https://github.com/bioc/FitHiC
@@ -1946,6 +1952,9 @@
 [submodule "MetaCyto"]
 	path = MetaCyto
 	url = https://github.com/bioc/MetaCyto
+[submodule "MetaDICT"]
+	path = MetaDICT
+	url = https://github.com/bioc/MetaDICT
 [submodule "MetaNeighbor"]
 	path = MetaNeighbor
 	url = https://github.com/bioc/MetaNeighbor
