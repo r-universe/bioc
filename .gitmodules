@@ -2870,6 +2870,9 @@
 [submodule "SPIAT"]
 	path = SPIAT
 	url = https://github.com/bioc/SPIAT
+[submodule "SPICEY"]
+	path = SPICEY
+	url = https://github.com/bioc/SPICEY
 [submodule "SPLINTER"]
 	path = SPLINTER
 	url = https://github.com/bioc/SPLINTER
@@ -4714,6 +4717,9 @@
 [submodule "goTools"]
 	path = goTools
 	url = https://github.com/bioc/goTools
+[submodule "goatea"]
+	path = goatea
+	url = https://github.com/bioc/goatea
 [submodule "goseq"]
 	path = goseq
 	url = https://github.com/bioc/goseq
@@ -6380,6 +6386,9 @@
 [submodule "shinyMethyl"]
 	path = shinyMethyl
 	url = https://github.com/bioc/shinyMethyl
+[submodule "shinybiocloader"]
+	path = shinybiocloader
+	url = https://github.com/bioc/shinybiocloader
 [submodule "shinyepico"]
 	path = shinyepico
 	url = https://github.com/bioc/shinyepico
