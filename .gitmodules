@@ -4551,6 +4551,9 @@
 [submodule "gINTomics"]
 	path = gINTomics
 	url = https://github.com/bioc/gINTomics
+[submodule "gVenn"]
+	path = gVenn
+	url = https://github.com/bioc/gVenn
 [submodule "gaga"]
 	path = gaga
 	url = https://github.com/bioc/gaga
@@ -4933,6 +4936,9 @@
 [submodule "immunogenViewer"]
 	path = immunogenViewer
 	url = https://github.com/bioc/immunogenViewer
+[submodule "immunotation"]
+	path = immunotation
+	url = https://github.com/bioc/immunotation
 [submodule "impute"]
 	path = impute
 	url = https://github.com/bioc/impute
