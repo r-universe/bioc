@@ -37,12 +37,6 @@
     "from": "ALDEx2"
   },
   {
-    "package": "immApex",
-    "url": "https://github.com/BorchLab/immApex",
-    "via": ["scRepertoire"],
-    "from": "scRepertoire"
-  },
-  {
     "package": "lmms",
     "url": "https://github.com/cran/lmms",
     "via": ["timeOmics"],
