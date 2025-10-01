@@ -3083,6 +3083,9 @@
 [submodule "Summix"]
 	path = Summix
 	url = https://github.com/bioc/Summix
+[submodule "SuperCellCyto"]
+	path = SuperCellCyto
+	url = https://github.com/bioc/SuperCellCyto
 [submodule "SurfR"]
 	path = SurfR
 	url = https://github.com/bioc/SurfR
@@ -3464,6 +3467,9 @@
 [submodule "amplican"]
 	path = amplican
 	url = https://github.com/bioc/amplican
+[submodule "anglemania"]
+	path = anglemania
+	url = https://github.com/bioc/anglemania
 [submodule "animalcules"]
 	path = animalcules
 	url = https://github.com/bioc/animalcules
@@ -5114,6 +5120,9 @@
 [submodule "mariner"]
 	path = mariner
 	url = https://github.com/bioc/mariner
+[submodule "markeR"]
+	path = markeR
+	url = https://github.com/bioc/markeR
 [submodule "marr"]
 	path = marr
 	url = https://github.com/bioc/marr
