@@ -959,9 +959,6 @@
 [submodule "DiscoRhythm"]
 	path = DiscoRhythm
 	url = https://github.com/bioc/DiscoRhythm
-[submodule "DominoEffect"]
-	path = DominoEffect
-	url = https://github.com/bioc/DominoEffect
 [submodule "Doscheda"]
 	path = Doscheda
 	url = https://github.com/bioc/Doscheda
