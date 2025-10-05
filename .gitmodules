@@ -2279,6 +2279,9 @@
 [submodule "PLSDAbatch"]
 	path = PLSDAbatch
 	url = https://github.com/bioc/PLSDAbatch
+[submodule "PMScanR"]
+	path = PMScanR
+	url = https://github.com/bioc/PMScanR
 [submodule "POMA"]
 	path = POMA
 	url = https://github.com/bioc/POMA
@@ -2804,6 +2807,9 @@
 [submodule "SELEX"]
 	path = SELEX
 	url = https://github.com/bioc/SELEX
+[submodule "SETA"]
+	path = SETA
+	url = https://github.com/bioc/SETA
 [submodule "SEraster"]
 	path = SEraster
 	url = https://github.com/bioc/SEraster
@@ -3689,6 +3695,9 @@
 [submodule "blacksheepr"]
 	path = blacksheepr
 	url = https://github.com/bioc/blacksheepr
+[submodule "blase"]
+	path = blase
+	url = https://github.com/bioc/blase
 [submodule "blima"]
 	path = blima
 	url = https://github.com/bioc/blima
@@ -5063,6 +5072,9 @@
 [submodule "logicFS"]
 	path = logicFS
 	url = https://github.com/bioc/logicFS
+[submodule "looking4clusters"]
+	path = looking4clusters
+	url = https://github.com/bioc/looking4clusters
 [submodule "lpNet"]
 	path = lpNet
 	url = https://github.com/bioc/lpNet
