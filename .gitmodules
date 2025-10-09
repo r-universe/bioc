@@ -278,9 +278,6 @@
 [submodule "BiFET"]
 	path = BiFET
 	url = https://github.com/bioc/BiFET
-[submodule "BiGGR"]
-	path = BiGGR
-	url = https://github.com/bioc/BiGGR
 [submodule "BiRewire"]
 	path = BiRewire
 	url = https://github.com/bioc/BiRewire
@@ -479,9 +476,6 @@
 [submodule "CIMICE"]
 	path = CIMICE
 	url = https://github.com/bioc/CIMICE
-[submodule "CINdex"]
-	path = CINdex
-	url = https://github.com/bioc/CINdex
 [submodule "CMA"]
 	path = CMA
 	url = https://github.com/bioc/CMA
@@ -1694,9 +1688,6 @@
 [submodule "LimROTS"]
 	path = LimROTS
 	url = https://github.com/bioc/LimROTS
-[submodule "LinTInd"]
-	path = LinTInd
-	url = https://github.com/bioc/LinTInd
 [submodule "LinkHD"]
 	path = LinkHD
 	url = https://github.com/bioc/LinkHD
@@ -2348,9 +2339,6 @@
 [submodule "PharmacoGx"]
 	path = PharmacoGx
 	url = https://github.com/bioc/PharmacoGx
-[submodule "PhenStat"]
-	path = PhenStat
-	url = https://github.com/bioc/PhenStat
 [submodule "PhenoGeneRanker"]
 	path = PhenoGeneRanker
 	url = https://github.com/bioc/PhenoGeneRanker
@@ -2687,9 +2675,6 @@
 [submodule "RepViz"]
 	path = RepViz
 	url = https://github.com/bioc/RepViz
-[submodule "Repitools"]
-	path = Repitools
-	url = https://github.com/bioc/Repitools
 [submodule "ReportingTools"]
 	path = ReportingTools
 	url = https://github.com/bioc/ReportingTools
@@ -2768,9 +2753,6 @@
 [submodule "SANTA"]
 	path = SANTA
 	url = https://github.com/bioc/SANTA
-[submodule "SARC"]
-	path = SARC
-	url = https://github.com/bioc/SARC
 [submodule "SBGNview"]
 	path = SBGNview
 	url = https://github.com/bioc/SBGNview
@@ -3332,9 +3314,6 @@
 [submodule "XINA"]
 	path = XINA
 	url = https://github.com/bioc/XINA
-[submodule "XNAString"]
-	path = XNAString
-	url = https://github.com/bioc/XNAString
 [submodule "XVector"]
 	path = XVector
 	url = https://github.com/bioc/XVector
@@ -3776,9 +3755,6 @@
 [submodule "ccfindR"]
 	path = ccfindR
 	url = https://github.com/bioc/ccfindR
-[submodule "ccmap"]
-	path = ccmap
-	url = https://github.com/bioc/ccmap
 [submodule "ccrepe"]
 	path = ccrepe
 	url = https://github.com/bioc/ccrepe
@@ -4801,9 +4777,6 @@
 [submodule "hiAnnotator"]
 	path = hiAnnotator
 	url = https://github.com/bioc/hiAnnotator
-[submodule "hiReadsProcessor"]
-	path = hiReadsProcessor
-	url = https://github.com/bioc/hiReadsProcessor
 [submodule "hicVennDiagram"]
 	path = hicVennDiagram
 	url = https://github.com/bioc/hicVennDiagram
@@ -5087,9 +5060,6 @@
 [submodule "lumi"]
 	path = lumi
 	url = https://github.com/bioc/lumi
-[submodule "lute"]
-	path = lute
-	url = https://github.com/bioc/lute
 [submodule "m6Aboost"]
 	path = m6Aboost
 	url = https://github.com/bioc/m6Aboost
