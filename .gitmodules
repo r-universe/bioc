@@ -5930,9 +5930,6 @@
 [submodule "rGenomeTracks"]
 	path = rGenomeTracks
 	url = https://github.com/bioc/rGenomeTracks
-[submodule "rRDP"]
-	path = rRDP
-	url = https://github.com/bioc/rRDP
 [submodule "rSWeeP"]
 	path = rSWeeP
 	url = https://github.com/bioc/rSWeeP
@@ -6344,9 +6341,6 @@
 [submodule "seq2pathway"]
 	path = seq2pathway
 	url = https://github.com/bioc/seq2pathway
-[submodule "seqArchR"]
-	path = seqArchR
-	url = https://github.com/bioc/seqArchR
 [submodule "seqArchRplus"]
 	path = seqArchRplus
 	url = https://github.com/bioc/seqArchRplus
