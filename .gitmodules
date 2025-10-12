@@ -1589,6 +1589,9 @@
 [submodule "IWTomics"]
 	path = IWTomics
 	url = https://github.com/bioc/IWTomics
+[submodule "Ibex"]
+	path = Ibex
+	url = https://github.com/bioc/Ibex
 [submodule "Icens"]
 	path = Icens
 	url = https://github.com/bioc/Icens
@@ -5537,6 +5540,15 @@
 [submodule "normr"]
 	path = normr
 	url = https://github.com/bioc/normr
+[submodule "notame"]
+	path = notame
+	url = https://github.com/bioc/notame
+[submodule "notameStats"]
+	path = notameStats
+	url = https://github.com/bioc/notameStats
+[submodule "notameViz"]
+	path = notameViz
+	url = https://github.com/bioc/notameViz
 [submodule "npGSEA"]
 	path = npGSEA
 	url = https://github.com/bioc/npGSEA
@@ -5693,6 +5705,9 @@
 [submodule "pdInfoBuilder"]
 	path = pdInfoBuilder
 	url = https://github.com/bioc/pdInfoBuilder
+[submodule "peakCombiner"]
+	path = peakCombiner
+	url = https://github.com/bioc/peakCombiner
 [submodule "peakPantheR"]
 	path = peakPantheR
 	url = https://github.com/bioc/peakPantheR
