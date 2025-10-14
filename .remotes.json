@@ -49,12 +49,6 @@
     "from": "timeOmics"
   },
   {
-    "package": "miaTime",
-    "url": "https://github.com/microbiome/miaTime",
-    "via": ["miaViz"],
-    "from": "miaViz"
-  },
-  {
     "package": "pandaR",
     "url": "https://github.com/jnpaulson/pandaR",
     "via": ["netZooR"],
