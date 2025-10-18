@@ -578,6 +578,9 @@
 [submodule "CaMutQC"]
 	path = CaMutQC
 	url = https://github.com/bioc/CaMutQC
+[submodule "CalibraCurve"]
+	path = CalibraCurve
+	url = https://github.com/bioc/CalibraCurve
 [submodule "Cardinal"]
 	path = Cardinal
 	url = https://github.com/bioc/Cardinal
@@ -872,6 +875,9 @@
 [submodule "DOSE"]
 	path = DOSE
 	url = https://github.com/bioc/DOSE
+[submodule "DOtools"]
+	path = DOtools
+	url = https://github.com/bioc/DOtools
 [submodule "DRIMSeq"]
 	path = DRIMSeq
 	url = https://github.com/bioc/DRIMSeq
@@ -2882,6 +2888,9 @@
 [submodule "SRAdb"]
 	path = SRAdb
 	url = https://github.com/bioc/SRAdb
+[submodule "STADyUM"]
+	path = STADyUM
+	url = https://github.com/bioc/STADyUM
 [submodule "STATegRa"]
 	path = STATegRa
 	url = https://github.com/bioc/STATegRa
@@ -2981,6 +2990,9 @@
 [submodule "Site2Target"]
 	path = Site2Target
 	url = https://github.com/bioc/Site2Target
+[submodule "SmartPhos"]
+	path = SmartPhos
+	url = https://github.com/bioc/SmartPhos
 [submodule "SomaticSignatures"]
 	path = SomaticSignatures
 	url = https://github.com/bioc/SomaticSignatures
@@ -3455,6 +3467,9 @@
 [submodule "amplican"]
 	path = amplican
 	url = https://github.com/bioc/amplican
+[submodule "anansi"]
+	path = anansi
+	url = https://github.com/bioc/anansi
 [submodule "anglemania"]
 	path = anglemania
 	url = https://github.com/bioc/anglemania
@@ -6206,12 +6221,18 @@
 [submodule "scGPS"]
 	path = scGPS
 	url = https://github.com/bioc/scGPS
+[submodule "scGraphVerse"]
+	path = scGraphVerse
+	url = https://github.com/bioc/scGraphVerse
 [submodule "scHOT"]
 	path = scHOT
 	url = https://github.com/bioc/scHOT
 [submodule "scHiCcompare"]
 	path = scHiCcompare
 	url = https://github.com/bioc/scHiCcompare
+[submodule "scLANE"]
+	path = scLANE
+	url = https://github.com/bioc/scLANE
 [submodule "scMET"]
 	path = scMET
 	url = https://github.com/bioc/scMET
