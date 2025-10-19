@@ -3911,10 +3911,6 @@
 [submodule "cmapR"]
 	path = cmapR
 	url = https://github.com/bioc/cmapR
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
 [submodule "cn.farms"]
 	path = cn.farms
 	url = https://github.com/bioc/cn.farms
