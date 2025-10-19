@@ -5519,9 +5519,6 @@
 [submodule "netSmooth"]
 	path = netSmooth
 	url = https://github.com/bioc/netSmooth
-[submodule "netZooR"]
-	path = netZooR
-	url = https://github.com/bioc/netZooR
 [submodule "netboost"]
 	path = netboost
 	url = https://github.com/bioc/netboost
