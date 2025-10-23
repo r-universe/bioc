@@ -29,11 +29,5 @@
     "url": "https://github.com/cran/lmms",
     "via": ["timeOmics"],
     "from": "timeOmics"
-  },
-  {
-    "package": "tidydr",
-    "url": "https://github.com/YuLab-SMU/tidydr",
-    "via": ["enrichplot"],
-    "from": "enrichplot"
   }
 ]
