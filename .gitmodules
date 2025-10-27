@@ -431,6 +431,9 @@
 [submodule "CATALYST"]
 	path = CATALYST
 	url = https://github.com/bioc/CATALYST
+[submodule "CBN2Path"]
+	path = CBN2Path
+	url = https://github.com/bioc/CBN2Path
 [submodule "CBNplot"]
 	path = CBNplot
 	url = https://github.com/bioc/CBNplot
@@ -974,6 +977,9 @@
 [submodule "DrugVsDisease"]
 	path = DrugVsDisease
 	url = https://github.com/bioc/DrugVsDisease
+[submodule "DspikeIn"]
+	path = DspikeIn
+	url = https://github.com/bioc/DspikeIn
 [submodule "Dune"]
 	path = Dune
 	url = https://github.com/bioc/Dune
@@ -1886,6 +1892,9 @@
 [submodule "MSstatsQCgui"]
 	path = MSstatsQCgui
 	url = https://github.com/bioc/MSstatsQCgui
+[submodule "MSstatsResponse"]
+	path = MSstatsResponse
+	url = https://github.com/bioc/MSstatsResponse
 [submodule "MSstatsShiny"]
 	path = MSstatsShiny
 	url = https://github.com/bioc/MSstatsShiny
@@ -3479,6 +3488,9 @@
 [submodule "annaffy"]
 	path = annaffy
 	url = https://github.com/bioc/annaffy
+[submodule "anndataR"]
+	path = anndataR
+	url = https://github.com/bioc/anndataR
 [submodule "annmap"]
 	path = annmap
 	url = https://github.com/bioc/annmap
@@ -3854,6 +3866,9 @@
 [submodule "cicero"]
 	path = cicero
 	url = https://github.com/bioc/cicero
+[submodule "cigarillo"]
+	path = cigarillo
+	url = https://github.com/bioc/cigarillo
 [submodule "circRNAprofiler"]
 	path = circRNAprofiler
 	url = https://github.com/bioc/circRNAprofiler
@@ -4854,6 +4869,9 @@
 [submodule "iGC"]
 	path = iGC
 	url = https://github.com/bioc/iGC
+[submodule "iModMix"]
+	path = iModMix
+	url = https://github.com/bioc/iModMix
 [submodule "iNETgrate"]
 	path = iNETgrate
 	url = https://github.com/bioc/iNETgrate
@@ -4959,6 +4977,9 @@
 [submodule "ipdDb"]
 	path = ipdDb
 	url = https://github.com/bioc/ipdDb
+[submodule "iscream"]
+	path = iscream
+	url = https://github.com/bioc/iscream
 [submodule "islify"]
 	path = islify
 	url = https://github.com/bioc/islify
@@ -5602,6 +5623,9 @@
 [submodule "omicplotR"]
 	path = omicplotR
 	url = https://github.com/bioc/omicplotR
+[submodule "omicsGMF"]
+	path = omicsGMF
+	url = https://github.com/bioc/omicsGMF
 [submodule "omicsPrint"]
 	path = omicsPrint
 	url = https://github.com/bioc/omicsPrint
