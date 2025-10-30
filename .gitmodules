@@ -1952,6 +1952,9 @@
 [submodule "MetID"]
 	path = MetID
 	url = https://github.com/bioc/MetID
+[submodule "MetMashR"]
+	path = MetMashR
+	url = https://github.com/bioc/MetMashR
 [submodule "MetNet"]
 	path = MetNet
 	url = https://github.com/bioc/MetNet
@@ -2366,6 +2369,9 @@
 [submodule "Pigengene"]
 	path = Pigengene
 	url = https://github.com/bioc/Pigengene
+[submodule "Pirat"]
+	path = Pirat
+	url = https://github.com/bioc/Pirat
 [submodule "PoDCall"]
 	path = PoDCall
 	url = https://github.com/bioc/PoDCall
@@ -3614,15 +3620,15 @@
 [submodule "beer"]
 	path = beer
 	url = https://github.com/bioc/beer
+[submodule "benchdamic"]
+	path = benchdamic
+	url = https://github.com/bioc/benchdamic
 [submodule "betaHMM"]
 	path = betaHMM
 	url = https://github.com/bioc/betaHMM
 [submodule "bettr"]
 	path = bettr
 	url = https://github.com/bioc/bettr
-[submodule "bgx"]
-	path = bgx
-	url = https://github.com/bioc/bgx
 [submodule "bigmelon"]
 	path = bigmelon
 	url = https://github.com/bioc/bigmelon
@@ -3662,18 +3668,6 @@
 [submodule "biodbChebi"]
 	path = biodbChebi
 	url = https://github.com/bioc/biodbChebi
-[submodule "biodbHmdb"]
-	path = biodbHmdb
-	url = https://github.com/bioc/biodbHmdb
-[submodule "biodbNcbi"]
-	path = biodbNcbi
-	url = https://github.com/bioc/biodbNcbi
-[submodule "biodbNci"]
-	path = biodbNci
-	url = https://github.com/bioc/biodbNci
-[submodule "biodbUniprot"]
-	path = biodbUniprot
-	url = https://github.com/bioc/biodbUniprot
 [submodule "biomaRt"]
 	path = biomaRt
 	url = https://github.com/bioc/biomaRt
@@ -3863,9 +3857,6 @@
 [submodule "circRNAprofiler"]
 	path = circRNAprofiler
 	url = https://github.com/bioc/circRNAprofiler
-[submodule "cisPath"]
-	path = cisPath
-	url = https://github.com/bioc/cisPath
 [submodule "cleanUpdTSeq"]
 	path = cleanUpdTSeq
 	url = https://github.com/bioc/cleanUpdTSeq
@@ -4115,6 +4106,9 @@
 [submodule "dagLogo"]
 	path = dagLogo
 	url = https://github.com/bioc/dagLogo
+[submodule "dandelionR"]
+	path = dandelionR
+	url = https://github.com/bioc/dandelionR
 [submodule "dar"]
 	path = dar
 	url = https://github.com/bioc/dar
@@ -4728,6 +4722,9 @@
 [submodule "goTools"]
 	path = goTools
 	url = https://github.com/bioc/goTools
+[submodule "goatea"]
+	path = goatea
+	url = https://github.com/bioc/goatea
 [submodule "goseq"]
 	path = goseq
 	url = https://github.com/bioc/goseq
@@ -4788,9 +4785,6 @@
 [submodule "hermes"]
 	path = hermes
 	url = https://github.com/bioc/hermes
-[submodule "hiAnnotator"]
-	path = hiAnnotator
-	url = https://github.com/bioc/hiAnnotator
 [submodule "hicVennDiagram"]
 	path = hicVennDiagram
 	url = https://github.com/bioc/hicVennDiagram
@@ -4860,6 +4854,9 @@
 [submodule "iNETgrate"]
 	path = iNETgrate
 	url = https://github.com/bioc/iNETgrate
+[submodule "iPath"]
+	path = iPath
+	url = https://github.com/bioc/iPath
 [submodule "iSEE"]
 	path = iSEE
 	url = https://github.com/bioc/iSEE
@@ -5311,6 +5308,9 @@
 [submodule "microRNA"]
 	path = microRNA
 	url = https://github.com/bioc/microRNA
+[submodule "microSTASIS"]
+	path = microSTASIS
+	url = https://github.com/bioc/microSTASIS
 [submodule "microbiome"]
 	path = microbiome
 	url = https://github.com/bioc/microbiome
@@ -6373,9 +6373,6 @@
 [submodule "seq2pathway"]
 	path = seq2pathway
 	url = https://github.com/bioc/seq2pathway
-[submodule "seqArchRplus"]
-	path = seqArchRplus
-	url = https://github.com/bioc/seqArchRplus
 [submodule "seqCAT"]
 	path = seqCAT
 	url = https://github.com/bioc/seqCAT
@@ -6811,9 +6808,6 @@
 [submodule "traseR"]
 	path = traseR
 	url = https://github.com/bioc/traseR
-[submodule "traviz"]
-	path = traviz
-	url = https://github.com/bioc/traviz
 [submodule "treeclimbR"]
 	path = treeclimbR
 	url = https://github.com/bioc/treeclimbR
