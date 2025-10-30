@@ -1952,9 +1952,6 @@
 [submodule "MetID"]
 	path = MetID
 	url = https://github.com/bioc/MetID
-[submodule "MetMashR"]
-	path = MetMashR
-	url = https://github.com/bioc/MetMashR
 [submodule "MetNet"]
 	path = MetNet
 	url = https://github.com/bioc/MetNet
@@ -2369,9 +2366,6 @@
 [submodule "Pigengene"]
 	path = Pigengene
 	url = https://github.com/bioc/Pigengene
-[submodule "Pirat"]
-	path = Pirat
-	url = https://github.com/bioc/Pirat
 [submodule "PoDCall"]
 	path = PoDCall
 	url = https://github.com/bioc/PoDCall
@@ -3620,9 +3614,6 @@
 [submodule "beer"]
 	path = beer
 	url = https://github.com/bioc/beer
-[submodule "benchdamic"]
-	path = benchdamic
-	url = https://github.com/bioc/benchdamic
 [submodule "betaHMM"]
 	path = betaHMM
 	url = https://github.com/bioc/betaHMM
@@ -4124,9 +4115,6 @@
 [submodule "dagLogo"]
 	path = dagLogo
 	url = https://github.com/bioc/dagLogo
-[submodule "dandelionR"]
-	path = dandelionR
-	url = https://github.com/bioc/dandelionR
 [submodule "dar"]
 	path = dar
 	url = https://github.com/bioc/dar
@@ -4740,9 +4728,6 @@
 [submodule "goTools"]
 	path = goTools
 	url = https://github.com/bioc/goTools
-[submodule "goatea"]
-	path = goatea
-	url = https://github.com/bioc/goatea
 [submodule "goseq"]
 	path = goseq
 	url = https://github.com/bioc/goseq
@@ -4875,9 +4860,6 @@
 [submodule "iNETgrate"]
 	path = iNETgrate
 	url = https://github.com/bioc/iNETgrate
-[submodule "iPath"]
-	path = iPath
-	url = https://github.com/bioc/iPath
 [submodule "iSEE"]
 	path = iSEE
 	url = https://github.com/bioc/iSEE
@@ -5329,9 +5311,6 @@
 [submodule "microRNA"]
 	path = microRNA
 	url = https://github.com/bioc/microRNA
-[submodule "microSTASIS"]
-	path = microSTASIS
-	url = https://github.com/bioc/microSTASIS
 [submodule "microbiome"]
 	path = microbiome
 	url = https://github.com/bioc/microbiome
