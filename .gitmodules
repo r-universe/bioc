@@ -3056,6 +3056,9 @@
 [submodule "SpectriPy"]
 	path = SpectriPy
 	url = https://github.com/bioc/SpectriPy
+[submodule "SpiecEasi"]
+	path = SpiecEasi
+	url = https://github.com/bioc/SpiecEasi
 [submodule "SpliceWiz"]
 	path = SpliceWiz
 	url = https://github.com/bioc/SpliceWiz
@@ -4226,6 +4229,9 @@
 [submodule "dmrseq"]
 	path = dmrseq
 	url = https://github.com/bioc/dmrseq
+[submodule "dominatR"]
+	path = dominatR
+	url = https://github.com/bioc/dominatR
 [submodule "dominoSignal"]
 	path = dominoSignal
 	url = https://github.com/bioc/dominoSignal
