@@ -6285,7 +6285,7 @@
 	url = https://github.com/bioc/scTreeViz
 [submodule "scafari"]
 	path = scafari
-	url = https://github.com/bioc/scafari
+	url = https://git.bioconductor.org/packages/scafari
 [submodule "scanMiR"]
 	path = scanMiR
 	url = https://github.com/bioc/scanMiR
