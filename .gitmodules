@@ -1673,6 +1673,9 @@
 [submodule "LACE"]
 	path = LACE
 	url = https://github.com/bioc/LACE
+[submodule "LACHESIS"]
+	path = LACHESIS
+	url = https://github.com/bioc/LACHESIS
 [submodule "LBE"]
 	path = LBE
 	url = https://github.com/bioc/LBE
@@ -5013,6 +5016,9 @@
 [submodule "ldblock"]
 	path = ldblock
 	url = https://github.com/bioc/ldblock
+[submodule "leapR"]
+	path = leapR
+	url = https://github.com/bioc/leapR
 [submodule "lefser"]
 	path = lefser
 	url = https://github.com/bioc/lefser
