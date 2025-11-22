@@ -704,9 +704,6 @@
 [submodule "ClusterFoldSimilarity"]
 	path = ClusterFoldSimilarity
 	url = https://github.com/bioc/ClusterFoldSimilarity
-[submodule "ClusterGVis"]
-	path = ClusterGVis
-	url = https://github.com/bioc/ClusterGVis
 [submodule "ClusterJudge"]
 	path = ClusterJudge
 	url = https://github.com/bioc/ClusterJudge
@@ -3548,9 +3545,6 @@
 [submodule "assorthead"]
 	path = assorthead
 	url = https://github.com/bioc/assorthead
-[submodule "asuri"]
-	path = asuri
-	url = https://github.com/bioc/asuri
 [submodule "atSNP"]
 	path = atSNP
 	url = https://github.com/bioc/atSNP
