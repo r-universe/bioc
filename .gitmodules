@@ -4944,6 +4944,9 @@
 [submodule "immApex"]
 	path = immApex
 	url = https://github.com/bioc/immApex
+[submodule "immReferent"]
+	path = immReferent
+	url = https://github.com/bioc/immReferent
 [submodule "immunoClust"]
 	path = immunoClust
 	url = https://github.com/bioc/immunoClust
