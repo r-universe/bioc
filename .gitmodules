@@ -101,6 +101,9 @@
 [submodule "AWFisher"]
 	path = AWFisher
 	url = https://github.com/bioc/AWFisher
+[submodule "Aerith"]
+	path = Aerith
+	url = https://github.com/bioc/Aerith
 [submodule "AffiXcan"]
 	path = AffiXcan
 	url = https://github.com/bioc/AffiXcan
@@ -3086,6 +3089,9 @@
 [submodule "StabMap"]
 	path = StabMap
 	url = https://github.com/bioc/StabMap
+[submodule "StatescopeR"]
+	path = StatescopeR
+	url = https://github.com/bioc/StatescopeR
 [submodule "Statial"]
 	path = Statial
 	url = https://github.com/bioc/Statial
@@ -4827,6 +4833,9 @@
 [submodule "hummingbird"]
 	path = hummingbird
 	url = https://github.com/bioc/hummingbird
+[submodule "hypeR"]
+	path = hypeR
+	url = https://github.com/bioc/hypeR
 [submodule "hyperdraw"]
 	path = hyperdraw
 	url = https://github.com/bioc/hyperdraw
