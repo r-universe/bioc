@@ -4124,6 +4124,9 @@
 [submodule "dagLogo"]
 	path = dagLogo
 	url = https://github.com/bioc/dagLogo
+[submodule "damidBind"]
+	path = damidBind
+	url = https://github.com/bioc/damidBind
 [submodule "dandelionR"]
 	path = dandelionR
 	url = https://github.com/bioc/dandelionR
