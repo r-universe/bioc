@@ -614,9 +614,6 @@
 [submodule "CellMapper"]
 	path = CellMapper
 	url = https://github.com/bioc/CellMapper
-[submodule "CellMentor"]
-	path = CellMentor
-	url = https://github.com/bioc/CellMentor
 [submodule "CellMixS"]
 	path = CellMixS
 	url = https://github.com/bioc/CellMixS
@@ -887,9 +884,6 @@
 [submodule "DOSE"]
 	path = DOSE
 	url = https://github.com/bioc/DOSE
-[submodule "DOTSeq"]
-	path = DOTSeq
-	url = https://github.com/bioc/DOTSeq
 [submodule "DOtools"]
 	path = DOtools
 	url = https://github.com/bioc/DOtools
@@ -2126,9 +2120,6 @@
 [submodule "MungeSumstats"]
 	path = MungeSumstats
 	url = https://github.com/bioc/MungeSumstats
-[submodule "MutSeqR"]
-	path = MutSeqR
-	url = https://github.com/bioc/MutSeqR
 [submodule "MutationalPatterns"]
 	path = MutationalPatterns
 	url = https://github.com/bioc/MutationalPatterns
@@ -4163,9 +4154,6 @@
 [submodule "debrowser"]
 	path = debrowser
 	url = https://github.com/bioc/debrowser
-[submodule "decemedip"]
-	path = decemedip
-	url = https://github.com/bioc/decemedip
 [submodule "decompTumor2Sig"]
 	path = decompTumor2Sig
 	url = https://github.com/bioc/decompTumor2Sig
@@ -4283,9 +4271,6 @@
 [submodule "drugTargetInteractions"]
 	path = drugTargetInteractions
 	url = https://github.com/bioc/drugTargetInteractions
-[submodule "drugfindR"]
-	path = drugfindR
-	url = https://github.com/bioc/drugfindR
 [submodule "dupRadar"]
 	path = dupRadar
 	url = https://github.com/bioc/dupRadar
@@ -4337,9 +4322,6 @@
 [submodule "epiNEM"]
 	path = epiNEM
 	url = https://github.com/bioc/epiNEM
-[submodule "epiSeeker"]
-	path = epiSeeker
-	url = https://github.com/bioc/epiSeeker
 [submodule "epialleleR"]
 	path = epialleleR
 	url = https://github.com/bioc/epialleleR
@@ -5833,9 +5815,6 @@
 [submodule "pipeFrame"]
 	path = pipeFrame
 	url = https://github.com/bioc/pipeFrame
-[submodule "plaid"]
-	path = plaid
-	url = https://github.com/bioc/plaid
 [submodule "planet"]
 	path = planet
 	url = https://github.com/bioc/planet
@@ -5881,9 +5860,6 @@
 [submodule "pogos"]
 	path = pogos
 	url = https://github.com/bioc/pogos
-[submodule "posDemux"]
-	path = posDemux
-	url = https://github.com/bioc/posDemux
 [submodule "powerTCR"]
 	path = powerTCR
 	url = https://github.com/bioc/powerTCR
@@ -6508,9 +6484,6 @@
 [submodule "sincell"]
 	path = sincell
 	url = https://github.com/bioc/sincell
-[submodule "singIST"]
-	path = singIST
-	url = https://github.com/bioc/singIST
 [submodule "singleCellTK"]
 	path = singleCellTK
 	url = https://github.com/bioc/singleCellTK
@@ -6661,9 +6634,6 @@
 [submodule "stPipe"]
 	path = stPipe
 	url = https://github.com/bioc/stPipe
-[submodule "staRgate"]
-	path = staRgate
-	url = https://github.com/bioc/staRgate
 [submodule "stageR"]
 	path = stageR
 	url = https://github.com/bioc/stageR
@@ -6796,9 +6766,6 @@
 [submodule "tidybulk"]
 	path = tidybulk
 	url = https://github.com/bioc/tidybulk
-[submodule "tidyexposomics"]
-	path = tidyexposomics
-	url = https://github.com/bioc/tidyexposomics
 [submodule "tidyomics"]
 	path = tidyomics
 	url = https://github.com/bioc/tidyomics
