@@ -6510,7 +6510,7 @@
 	url = https://github.com/bioc/sincell
 [submodule "singIST"]
 	path = singIST
-	url = https://github.com/bioc/singIST
+	url = https://git.bioconductor.org/packages/singIST
 [submodule "singleCellTK"]
 	path = singleCellTK
 	url = https://github.com/bioc/singleCellTK
