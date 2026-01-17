@@ -4839,9 +4839,6 @@
 [submodule "hipathia"]
 	path = hipathia
 	url = https://github.com/bioc/hipathia
-[submodule "hmdbQuery"]
-	path = hmdbQuery
-	url = https://github.com/bioc/hmdbQuery
 [submodule "hoodscanR"]
 	path = hoodscanR
 	url = https://github.com/bioc/hoodscanR
