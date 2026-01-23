@@ -734,6 +734,9 @@
 [submodule "ComPrAn"]
 	path = ComPrAn
 	url = https://github.com/bioc/ComPrAn
+[submodule "CompensAID"]
+	path = CompensAID
+	url = https://github.com/bioc/CompensAID
 [submodule "ComplexHeatmap"]
 	path = ComplexHeatmap
 	url = https://github.com/bioc/ComplexHeatmap
@@ -1787,6 +1790,9 @@
 [submodule "MCbiclust"]
 	path = MCbiclust
 	url = https://github.com/bioc/MCbiclust
+[submodule "MDSvis"]
+	path = MDSvis
+	url = https://github.com/bioc/MDSvis
 [submodule "MDTS"]
 	path = MDTS
 	url = https://github.com/bioc/MDTS
