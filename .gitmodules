@@ -4715,10 +4715,6 @@
 [submodule "ggmsa"]
 	path = ggmsa
 	url = https://github.com/bioc/ggmsa
-[submodule "ggpattern"]
-	path = ggpattern
-	url = https://github.com/coolbutuseless/ggpattern
-	registered = false
 [submodule "ggsc"]
 	path = ggsc
 	url = https://github.com/bioc/ggsc
@@ -5109,10 +5105,6 @@
 [submodule "lmdme"]
 	path = lmdme
 	url = https://github.com/bioc/lmdme
-[submodule "lmms"]
-	path = lmms
-	url = https://github.com/cran/lmms
-	registered = false
 [submodule "loci2path"]
 	path = loci2path
 	url = https://github.com/bioc/loci2path
