@@ -3524,6 +3524,9 @@
 [submodule "annmap"]
 	path = annmap
 	url = https://github.com/bioc/annmap
+[submodule "annoLinker"]
+	path = annoLinker
+	url = https://github.com/bioc/annoLinker
 [submodule "annotate"]
 	path = annotate
 	url = https://github.com/bioc/annotate
@@ -5917,6 +5920,9 @@
 [submodule "proBAMr"]
 	path = proBAMr
 	url = https://github.com/bioc/proBAMr
+[submodule "proBatch"]
+	path = proBatch
+	url = https://github.com/bioc/proBatch
 [submodule "proDA"]
 	path = proDA
 	url = https://github.com/bioc/proDA
