@@ -1193,9 +1193,6 @@
 [submodule "GENIE3"]
 	path = GENIE3
 	url = https://github.com/bioc/GENIE3
-[submodule "GEOexplorer"]
-	path = GEOexplorer
-	url = https://github.com/bioc/GEOexplorer
 [submodule "GEOfastq"]
 	path = GEOfastq
 	url = https://github.com/bioc/GEOfastq
@@ -2723,9 +2720,6 @@
 [submodule "ResidualMatrix"]
 	path = ResidualMatrix
 	url = https://github.com/bioc/ResidualMatrix
-[submodule "RgnTX"]
-	path = RgnTX
-	url = https://github.com/bioc/RgnTX
 [submodule "Rgraphviz"]
 	path = Rgraphviz
 	url = https://github.com/bioc/Rgraphviz
@@ -6596,9 +6590,6 @@
 [submodule "spatialSimGP"]
 	path = spatialSimGP
 	url = https://github.com/bioc/spatialSimGP
-[submodule "spatzie"]
-	path = spatzie
-	url = https://github.com/bioc/spatzie
 [submodule "specL"]
 	path = specL
 	url = https://github.com/bioc/specL
@@ -6806,9 +6797,6 @@
 [submodule "tidysbml"]
 	path = tidysbml
 	url = https://github.com/bioc/tidysbml
-[submodule "tidytof"]
-	path = tidytof
-	url = https://github.com/bioc/tidytof
 [submodule "tigre"]
 	path = tigre
 	url = https://github.com/bioc/tigre
