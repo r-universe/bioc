@@ -764,9 +764,6 @@
 [submodule "CrispRVariants"]
 	path = CrispRVariants
 	url = https://github.com/bioc/CrispRVariants
-[submodule "CuratedAtlasQueryR"]
-	path = CuratedAtlasQueryR
-	url = https://github.com/bioc/CuratedAtlasQueryR
 [submodule "CyTOFpower"]
 	path = CyTOFpower
 	url = https://github.com/bioc/CyTOFpower
