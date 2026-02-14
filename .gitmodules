@@ -353,6 +353,9 @@
 [submodule "BiocIO"]
 	path = BiocIO
 	url = https://github.com/bioc/BiocIO
+[submodule "BiocMaintainerApp"]
+	path = BiocMaintainerApp
+	url = https://github.com/bioc/BiocMaintainerApp
 [submodule "BiocNeighbors"]
 	path = BiocNeighbors
 	url = https://github.com/bioc/BiocNeighbors
@@ -950,6 +953,9 @@
 [submodule "DelayedTensor"]
 	path = DelayedTensor
 	url = https://github.com/bioc/DelayedTensor
+[submodule "DenoIST"]
+	path = DenoIST
+	url = https://github.com/bioc/DenoIST
 [submodule "DepInfeR"]
 	path = DepInfeR
 	url = https://github.com/bioc/DepInfeR
@@ -2714,6 +2720,9 @@
 [submodule "ResidualMatrix"]
 	path = ResidualMatrix
 	url = https://github.com/bioc/ResidualMatrix
+[submodule "Rfastp"]
+	path = Rfastp
+	url = https://github.com/bioc/Rfastp
 [submodule "Rgraphviz"]
 	path = Rgraphviz
 	url = https://github.com/bioc/Rgraphviz
@@ -3776,6 +3785,9 @@
 [submodule "cardelino"]
 	path = cardelino
 	url = https://github.com/bioc/cardelino
+[submodule "carnation"]
+	path = carnation
+	url = https://github.com/bioc/carnation
 [submodule "casper"]
 	path = casper
 	url = https://github.com/bioc/casper
@@ -4739,6 +4751,9 @@
 [submodule "globaltest"]
 	path = globaltest
 	url = https://github.com/bioc/globaltest
+[submodule "glycoTraitR"]
+	path = glycoTraitR
+	url = https://github.com/bioc/glycoTraitR
 [submodule "gmapR"]
 	path = gmapR
 	url = https://github.com/bioc/gmapR
