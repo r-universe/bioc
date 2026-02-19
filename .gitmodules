@@ -2345,6 +2345,9 @@
 [submodule "PSMatch"]
 	path = PSMatch
 	url = https://github.com/bioc/PSMatch
+[submodule "PTMods"]
+	path = PTMods
+	url = https://github.com/bioc/PTMods
 [submodule "PWMEnrich"]
 	path = PWMEnrich
 	url = https://github.com/bioc/PWMEnrich
@@ -5057,6 +5060,9 @@
 [submodule "koinar"]
 	path = koinar
 	url = https://github.com/bioc/koinar
+[submodule "lcmsPlot"]
+	path = lcmsPlot
+	url = https://github.com/bioc/lcmsPlot
 [submodule "ldblock"]
 	path = ldblock
 	url = https://github.com/bioc/ldblock
