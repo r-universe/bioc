@@ -6413,9 +6413,6 @@
 [submodule "scuttle"]
 	path = scuttle
 	url = https://github.com/bioc/scuttle
-[submodule "scviR"]
-	path = scviR
-	url = https://github.com/bioc/scviR
 [submodule "seahtrue"]
 	path = seahtrue
 	url = https://github.com/bioc/seahtrue
