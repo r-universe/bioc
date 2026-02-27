@@ -2192,6 +2192,9 @@
 [submodule "NuPoP"]
 	path = NuPoP
 	url = https://github.com/bioc/NuPoP
+[submodule "OAtools"]
+	path = OAtools
+	url = https://github.com/bioc/OAtools
 [submodule "OCplus"]
 	path = OCplus
 	url = https://github.com/bioc/OCplus
@@ -6806,6 +6809,9 @@
 [submodule "tidyomics"]
 	path = tidyomics
 	url = https://github.com/bioc/tidyomics
+[submodule "tidyprint"]
+	path = tidyprint
+	url = https://github.com/bioc/tidyprint
 [submodule "tidysbml"]
 	path = tidysbml
 	url = https://github.com/bioc/tidysbml
@@ -6842,6 +6848,9 @@
 [submodule "topdownr"]
 	path = topdownr
 	url = https://github.com/bioc/topdownr
+[submodule "toppgene"]
+	path = toppgene
+	url = https://github.com/bioc/toppgene
 [submodule "tpSVG"]
 	path = tpSVG
 	url = https://github.com/bioc/tpSVG
