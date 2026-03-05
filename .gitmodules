@@ -2846,9 +2846,6 @@
 [submodule "SEtools"]
 	path = SEtools
 	url = https://github.com/bioc/SEtools
-[submodule "SGCP"]
-	path = SGCP
-	url = https://github.com/bioc/SGCP
 [submodule "SGSeq"]
 	path = SGSeq
 	url = https://github.com/bioc/SGSeq
