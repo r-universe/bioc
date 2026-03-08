@@ -263,6 +263,9 @@
 [submodule "BatchSVG"]
 	path = BatchSVG
 	url = https://github.com/bioc/BatchSVG
+[submodule "Battlefield"]
+	path = Battlefield
+	url = https://github.com/bioc/Battlefield
 [submodule "BayesKnockdown"]
 	path = BayesKnockdown
 	url = https://github.com/bioc/BayesKnockdown
@@ -1238,6 +1241,9 @@
 [submodule "GOexpress"]
 	path = GOexpress
 	url = https://github.com/bioc/GOexpress
+[submodule "GOfan"]
+	path = GOfan
+	url = https://github.com/bioc/GOfan
 [submodule "GOfuncR"]
 	path = GOfuncR
 	url = https://github.com/bioc/GOfuncR
@@ -2477,6 +2483,9 @@
 [submodule "RBM"]
 	path = RBM
 	url = https://github.com/bioc/RBM
+[submodule "RBedMethyl"]
+	path = RBedMethyl
+	url = https://github.com/bioc/RBedMethyl
 [submodule "RBioFormats"]
 	path = RBioFormats
 	url = https://github.com/bioc/RBioFormats
