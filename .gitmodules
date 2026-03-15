@@ -53,9 +53,6 @@
 [submodule "ANF"]
 	path = ANF
 	url = https://github.com/bioc/ANF
-[submodule "APAlyzer"]
-	path = APAlyzer
-	url = https://github.com/bioc/APAlyzer
 [submodule "APL"]
 	path = APL
 	url = https://github.com/bioc/APL
@@ -209,9 +206,6 @@
 [submodule "BOBaFIT"]
 	path = BOBaFIT
 	url = https://github.com/bioc/BOBaFIT
-[submodule "BPRMeth"]
-	path = BPRMeth
-	url = https://github.com/bioc/BPRMeth
 [submodule "BRAIN"]
 	path = BRAIN
 	url = https://github.com/bioc/BRAIN
@@ -647,9 +641,6 @@
 [submodule "ChIPComp"]
 	path = ChIPComp
 	url = https://github.com/bioc/ChIPComp
-[submodule "ChIPQC"]
-	path = ChIPQC
-	url = https://github.com/bioc/ChIPQC
 [submodule "ChIPXpress"]
 	path = ChIPXpress
 	url = https://github.com/bioc/ChIPXpress
@@ -1988,9 +1979,6 @@
 [submodule "MetaDICT"]
 	path = MetaDICT
 	url = https://github.com/bioc/MetaDICT
-[submodule "MetaNeighbor"]
-	path = MetaNeighbor
-	url = https://github.com/bioc/MetaNeighbor
 [submodule "MetaPhOR"]
 	path = MetaPhOR
 	url = https://github.com/bioc/MetaPhOR
@@ -2042,9 +2030,6 @@
 [submodule "MicrobiotaProcess"]
 	path = MicrobiotaProcess
 	url = https://github.com/bioc/MicrobiotaProcess
-[submodule "MineICA"]
-	path = MineICA
-	url = https://github.com/bioc/MineICA
 [submodule "MinimumDistance"]
 	path = MinimumDistance
 	url = https://github.com/bioc/MinimumDistance
@@ -2267,9 +2252,6 @@
 [submodule "OrderedList"]
 	path = OrderedList
 	url = https://github.com/bioc/OrderedList
-[submodule "Organism.dplyr"]
-	path = Organism.dplyr
-	url = https://github.com/bioc/Organism.dplyr
 [submodule "OrganismDbi"]
 	path = OrganismDbi
 	url = https://github.com/bioc/OrganismDbi
@@ -2681,9 +2663,6 @@
 [submodule "Rbwa"]
 	path = Rbwa
 	url = https://github.com/bioc/Rbwa
-[submodule "RcisTarget"]
-	path = RcisTarget
-	url = https://github.com/bioc/RcisTarget
 [submodule "Rcollectl"]
 	path = Rcollectl
 	url = https://github.com/bioc/Rcollectl
@@ -2756,9 +2735,6 @@
 [submodule "RiboDiPA"]
 	path = RiboDiPA
 	url = https://github.com/bioc/RiboDiPA
-[submodule "RiboProfiling"]
-	path = RiboProfiling
-	url = https://github.com/bioc/RiboProfiling
 [submodule "Rigraphlib"]
 	path = Rigraphlib
 	url = https://github.com/bioc/Rigraphlib
@@ -2924,9 +2900,6 @@
 [submodule "SPsimSeq"]
 	path = SPsimSeq
 	url = https://github.com/bioc/SPsimSeq
-[submodule "SQLDataFrame"]
-	path = SQLDataFrame
-	url = https://github.com/bioc/SQLDataFrame
 [submodule "SRAdb"]
 	path = SRAdb
 	url = https://github.com/bioc/SRAdb
@@ -3002,9 +2975,6 @@
 [submodule "SigCheck"]
 	path = SigCheck
 	url = https://github.com/bioc/SigCheck
-[submodule "SigFuge"]
-	path = SigFuge
-	url = https://github.com/bioc/SigFuge
 [submodule "SigsPack"]
 	path = SigsPack
 	url = https://github.com/bioc/SigsPack
@@ -3620,9 +3590,6 @@
 [submodule "barbieQ"]
 	path = barbieQ
 	url = https://github.com/bioc/barbieQ
-[submodule "barcodetrackR"]
-	path = barcodetrackR
-	url = https://github.com/bioc/barcodetrackR
 [submodule "basecallQC"]
 	path = basecallQC
 	url = https://github.com/bioc/basecallQC
@@ -4103,9 +4070,6 @@
 [submodule "ctsGE"]
 	path = ctsGE
 	url = https://github.com/bioc/ctsGE
-[submodule "cummeRbund"]
-	path = cummeRbund
-	url = https://github.com/bioc/cummeRbund
 [submodule "customCMPdb"]
 	path = customCMPdb
 	url = https://github.com/bioc/customCMPdb
@@ -4178,9 +4142,6 @@
 [submodule "dearseq"]
 	path = dearseq
 	url = https://github.com/bioc/dearseq
-[submodule "debCAM"]
-	path = debCAM
-	url = https://github.com/bioc/debCAM
 [submodule "debrowser"]
 	path = debrowser
 	url = https://github.com/bioc/debrowser
@@ -4793,9 +4754,6 @@
 [submodule "gpls"]
 	path = gpls
 	url = https://github.com/bioc/gpls
-[submodule "granulator"]
-	path = granulator
-	url = https://github.com/bioc/granulator
 [submodule "graper"]
 	path = graper
 	url = https://github.com/bioc/graper
@@ -4835,9 +4793,6 @@
 [submodule "hapFabia"]
 	path = hapFabia
 	url = https://github.com/bioc/hapFabia
-[submodule "hca"]
-	path = hca
-	url = https://github.com/bioc/hca
 [submodule "hdxmsqc"]
 	path = hdxmsqc
 	url = https://github.com/bioc/hdxmsqc
@@ -5324,9 +5279,6 @@
 [submodule "methylumi"]
 	path = methylumi
 	url = https://github.com/bioc/methylumi
-[submodule "mfa"]
-	path = mfa
-	url = https://github.com/bioc/mfa
 [submodule "mgsa"]
 	path = mgsa
 	url = https://github.com/bioc/mgsa
@@ -5375,9 +5327,6 @@
 [submodule "microRNA"]
 	path = microRNA
 	url = https://github.com/bioc/microRNA
-[submodule "microSTASIS"]
-	path = microSTASIS
-	url = https://github.com/bioc/microSTASIS
 [submodule "microbiome"]
 	path = microbiome
 	url = https://github.com/bioc/microbiome
@@ -6080,9 +6029,6 @@
 [submodule "rebook"]
 	path = rebook
 	url = https://github.com/bioc/rebook
-[submodule "receptLoss"]
-	path = receptLoss
-	url = https://github.com/bioc/receptLoss
 [submodule "reconsi"]
 	path = reconsi
 	url = https://github.com/bioc/reconsi
@@ -6575,9 +6521,6 @@
 [submodule "snpStats"]
 	path = snpStats
 	url = https://github.com/bioc/snpStats
-[submodule "soGGi"]
-	path = soGGi
-	url = https://github.com/bioc/soGGi
 [submodule "sosta"]
 	path = sosta
 	url = https://github.com/bioc/sosta
