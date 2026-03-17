@@ -278,9 +278,6 @@
 [submodule "BiFET"]
 	path = BiFET
 	url = https://github.com/bioc/BiFET
-[submodule "BiRewire"]
-	path = BiRewire
-	url = https://github.com/bioc/BiRewire
 [submodule "BiSeq"]
 	path = BiSeq
 	url = https://github.com/bioc/BiSeq
@@ -911,9 +908,6 @@
 [submodule "DeMixT"]
 	path = DeMixT
 	url = https://github.com/bioc/DeMixT
-[submodule "DeconRNASeq"]
-	path = DeconRNASeq
-	url = https://github.com/bioc/DeconRNASeq
 [submodule "DeconvoBuddies"]
 	path = DeconvoBuddies
 	url = https://github.com/bioc/DeconvoBuddies
@@ -1952,9 +1946,6 @@
 [submodule "MeasurementError.cor"]
 	path = MeasurementError.cor
 	url = https://github.com/bioc/MeasurementError.cor
-[submodule "Melissa"]
-	path = Melissa
-	url = https://github.com/bioc/Melissa
 [submodule "Mergeomics"]
 	path = Mergeomics
 	url = https://github.com/bioc/Mergeomics
@@ -3623,9 +3614,6 @@
 [submodule "beachmat.tiledb"]
 	path = beachmat.tiledb
 	url = https://github.com/bioc/beachmat.tiledb
-[submodule "beadarray"]
-	path = beadarray
-	url = https://github.com/bioc/beadarray
 [submodule "bedbaser"]
 	path = bedbaser
 	url = https://github.com/bioc/bedbaser
@@ -6416,9 +6404,6 @@
 [submodule "sevenbridges"]
 	path = sevenbridges
 	url = https://github.com/bioc/sevenbridges
-[submodule "shiny.gosling"]
-	path = shiny.gosling
-	url = https://github.com/bioc/shiny.gosling
 [submodule "shinyDSP"]
 	path = shinyDSP
 	url = https://github.com/bioc/shinyDSP
