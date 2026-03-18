@@ -326,6 +326,9 @@
 [submodule "BiocBook"]
 	path = BiocBook
 	url = https://github.com/bioc/BiocBook
+[submodule "BiocBuildReporter"]
+	path = BiocBuildReporter
+	url = https://github.com/bioc/BiocBuildReporter
 [submodule "BiocCheck"]
 	path = BiocCheck
 	url = https://github.com/bioc/BiocCheck
@@ -1973,6 +1976,9 @@
 [submodule "MetaPhOR"]
 	path = MetaPhOR
 	url = https://github.com/bioc/MetaPhOR
+[submodule "MetaProViz"]
+	path = MetaProViz
+	url = https://github.com/bioc/MetaProViz
 [submodule "MetaboAnnotation"]
 	path = MetaboAnnotation
 	url = https://github.com/bioc/MetaboAnnotation
@@ -2813,6 +2819,9 @@
 [submodule "SELEX"]
 	path = SELEX
 	url = https://github.com/bioc/SELEX
+[submodule "SEMPLR"]
+	path = SEMPLR
+	url = https://github.com/bioc/SEMPLR
 [submodule "SETA"]
 	path = SETA
 	url = https://github.com/bioc/SETA
@@ -2852,6 +2861,9 @@
 [submodule "SMITE"]
 	path = SMITE
 	url = https://github.com/bioc/SMITE
+[submodule "SMTrackR"]
+	path = SMTrackR
+	url = https://github.com/bioc/SMTrackR
 [submodule "SNAGEE"]
 	path = SNAGEE
 	url = https://github.com/bioc/SNAGEE
@@ -4382,6 +4394,9 @@
 [submodule "fCI"]
 	path = fCI
 	url = https://github.com/bioc/fCI
+[submodule "fRagmentomics"]
+	path = fRagmentomics
+	url = https://github.com/bioc/fRagmentomics
 [submodule "fabia"]
 	path = fabia
 	url = https://github.com/bioc/fabia
@@ -4526,6 +4541,9 @@
 [submodule "fobitools"]
 	path = fobitools
 	url = https://github.com/bioc/fobitools
+[submodule "fourSynergy"]
+	path = fourSynergy
+	url = https://github.com/bioc/fourSynergy
 [submodule "frenchFISH"]
 	path = frenchFISH
 	url = https://github.com/bioc/frenchFISH
