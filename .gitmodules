@@ -1523,6 +1523,9 @@
 [submodule "HiLDA"]
 	path = HiLDA
 	url = https://github.com/bioc/HiLDA
+[submodule "HiSpaR"]
+	path = HiSpaR
+	url = https://github.com/bioc/HiSpaR
 [submodule "HiTC"]
 	path = HiTC
 	url = https://github.com/bioc/HiTC
