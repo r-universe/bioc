@@ -359,6 +359,9 @@
 [submodule "BiocParallel"]
 	path = BiocParallel
 	url = https://github.com/bioc/BiocParallel
+[submodule "BiocPkgDash"]
+	path = BiocPkgDash
+	url = https://github.com/bioc/BiocPkgDash
 [submodule "BiocPkgTools"]
 	path = BiocPkgTools
 	url = https://github.com/bioc/BiocPkgTools
@@ -2969,6 +2972,9 @@
 [submodule "Seqinfo"]
 	path = Seqinfo
 	url = https://github.com/bioc/Seqinfo
+[submodule "Seqtometry"]
+	path = Seqtometry
+	url = https://github.com/bioc/Seqtometry
 [submodule "SharedObject"]
 	path = SharedObject
 	url = https://github.com/bioc/SharedObject
@@ -4547,6 +4553,9 @@
 [submodule "fourSynergy"]
 	path = fourSynergy
 	url = https://github.com/bioc/fourSynergy
+[submodule "fraq"]
+	path = fraq
+	url = https://github.com/bioc/fraq
 [submodule "frenchFISH"]
 	path = frenchFISH
 	url = https://github.com/bioc/frenchFISH
@@ -6425,6 +6434,9 @@
 [submodule "sevenbridges"]
 	path = sevenbridges
 	url = https://github.com/bioc/sevenbridges
+[submodule "sfi"]
+	path = sfi
+	url = https://github.com/bioc/sfi
 [submodule "shinyDSP"]
 	path = shinyDSP
 	url = https://github.com/bioc/shinyDSP
