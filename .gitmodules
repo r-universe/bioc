@@ -1949,6 +1949,9 @@
 [submodule "MatrixRider"]
 	path = MatrixRider
 	url = https://github.com/bioc/MatrixRider
+[submodule "MeLSI"]
+	path = MeLSI
+	url = https://github.com/bioc/MeLSI
 [submodule "MeSHDbi"]
 	path = MeSHDbi
 	url = https://github.com/bioc/MeSHDbi
@@ -2567,6 +2570,9 @@
 [submodule "RNAseqCovarImpute"]
 	path = RNAseqCovarImpute
 	url = https://github.com/bioc/RNAseqCovarImpute
+[submodule "RNAshapeQC"]
+	path = RNAshapeQC
+	url = https://github.com/bioc/RNAshapeQC
 [submodule "ROC"]
 	path = ROC
 	url = https://github.com/bioc/ROC
@@ -3635,6 +3641,9 @@
 [submodule "beachmat.tiledb"]
 	path = beachmat.tiledb
 	url = https://github.com/bioc/beachmat.tiledb
+[submodule "beadarray"]
+	path = beadarray
+	url = https://github.com/bioc/beadarray
 [submodule "bedbaser"]
 	path = bedbaser
 	url = https://github.com/bioc/bedbaser
