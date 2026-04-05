@@ -1103,6 +1103,9 @@
 [submodule "ExploreModelMatrix"]
 	path = ExploreModelMatrix
 	url = https://github.com/bioc/ExploreModelMatrix
+[submodule "ExpoRiskR"]
+	path = ExpoRiskR
+	url = https://github.com/bioc/ExpoRiskR
 [submodule "ExpressionAtlas"]
 	path = ExpressionAtlas
 	url = https://github.com/bioc/ExpressionAtlas
@@ -1355,6 +1358,9 @@
 [submodule "GenomicAlignments"]
 	path = GenomicAlignments
 	url = https://github.com/bioc/GenomicAlignments
+[submodule "GenomicCoordinates"]
+	path = GenomicCoordinates
+	url = https://github.com/bioc/GenomicCoordinates
 [submodule "GenomicDataCommons"]
 	path = GenomicDataCommons
 	url = https://github.com/bioc/GenomicDataCommons
@@ -1991,6 +1997,9 @@
 [submodule "MetaboAnnotation"]
 	path = MetaboAnnotation
 	url = https://github.com/bioc/MetaboAnnotation
+[submodule "MetaboAnnotatoR"]
+	path = MetaboAnnotatoR
+	url = https://github.com/bioc/MetaboAnnotatoR
 [submodule "MetaboCoreUtils"]
 	path = MetaboCoreUtils
 	url = https://github.com/bioc/MetaboCoreUtils
@@ -3026,6 +3035,9 @@
 [submodule "SomaticSignatures"]
 	path = SomaticSignatures
 	url = https://github.com/bioc/SomaticSignatures
+[submodule "SpNeigh"]
+	path = SpNeigh
+	url = https://github.com/bioc/SpNeigh
 [submodule "SpaNorm"]
 	path = SpaNorm
 	url = https://github.com/bioc/SpaNorm
@@ -5027,6 +5039,9 @@
 [submodule "jazzPanda"]
 	path = jazzPanda
 	url = https://github.com/bioc/jazzPanda
+[submodule "jvecfor"]
+	path = jvecfor
+	url = https://github.com/bioc/jvecfor
 [submodule "karyoploteR"]
 	path = karyoploteR
 	url = https://github.com/bioc/karyoploteR
@@ -6236,6 +6251,9 @@
 [submodule "scClassify"]
 	path = scClassify
 	url = https://github.com/bioc/scClassify
+[submodule "scConform"]
+	path = scConform
+	url = https://github.com/bioc/scConform
 [submodule "scDD"]
 	path = scDD
 	url = https://github.com/bioc/scDD
@@ -6293,6 +6311,9 @@
 [submodule "scPCA"]
 	path = scPCA
 	url = https://github.com/bioc/scPCA
+[submodule "scPassport"]
+	path = scPassport
+	url = https://github.com/bioc/scPassport
 [submodule "scPipe"]
 	path = scPipe
 	url = https://github.com/bioc/scPipe
