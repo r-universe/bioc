@@ -53,6 +53,9 @@
 [submodule "ANF"]
 	path = ANF
 	url = https://github.com/bioc/ANF
+[submodule "APAlyzer"]
+	path = APAlyzer
+	url = https://github.com/bioc/APAlyzer
 [submodule "APL"]
 	path = APL
 	url = https://github.com/bioc/APL
