@@ -1262,6 +1262,9 @@
 [submodule "GRmetrics"]
 	path = GRmetrics
 	url = https://github.com/bioc/GRmetrics
+[submodule "GSABenchmark"]
+	path = GSABenchmark
+	url = https://github.com/bioc/GSABenchmark
 [submodule "GSALightning"]
 	path = GSALightning
 	url = https://github.com/bioc/GSALightning
@@ -2525,6 +2528,9 @@
 [submodule "RESOLVE"]
 	path = RESOLVE
 	url = https://github.com/bioc/RESOLVE
+[submodule "RFGeneRank"]
+	path = RFGeneRank
+	url = https://github.com/bioc/RFGeneRank
 [submodule "RFLOMICS"]
 	path = RFLOMICS
 	url = https://github.com/bioc/RFLOMICS
@@ -3059,6 +3065,9 @@
 [submodule "SparseSignatures"]
 	path = SparseSignatures
 	url = https://github.com/bioc/SparseSignatures
+[submodule "SpatialArtifacts"]
+	path = SpatialArtifacts
+	url = https://github.com/bioc/SpatialArtifacts
 [submodule "SpatialCPie"]
 	path = SpatialCPie
 	url = https://github.com/bioc/SpatialCPie
@@ -3095,6 +3104,9 @@
 [submodule "SpiecEasi"]
 	path = SpiecEasi
 	url = https://github.com/bioc/SpiecEasi
+[submodule "SpliceImpactR"]
+	path = SpliceImpactR
+	url = https://github.com/bioc/SpliceImpactR
 [submodule "SpliceWiz"]
 	path = SpliceWiz
 	url = https://github.com/bioc/SpliceWiz
@@ -3392,6 +3404,9 @@
 [submodule "YAPSA"]
 	path = YAPSA
 	url = https://github.com/bioc/YAPSA
+[submodule "ZarrArray"]
+	path = ZarrArray
+	url = https://github.com/bioc/ZarrArray
 [submodule "ZygosityPredictor"]
 	path = ZygosityPredictor
 	url = https://github.com/bioc/ZygosityPredictor
@@ -4832,6 +4847,9 @@
 [submodule "h5vc"]
 	path = h5vc
 	url = https://git.bioconductor.org/packages/h5vc
+[submodule "hammers"]
+	path = hammers
+	url = https://github.com/bioc/hammers
 [submodule "hapFabia"]
 	path = hapFabia
 	url = https://github.com/bioc/hapFabia
@@ -6299,6 +6317,9 @@
 [submodule "scLANE"]
 	path = scLANE
 	url = https://github.com/bioc/scLANE
+[submodule "scLang"]
+	path = scLang
+	url = https://github.com/bioc/scLang
 [submodule "scMET"]
 	path = scMET
 	url = https://github.com/bioc/scMET
