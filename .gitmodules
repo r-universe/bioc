@@ -1718,6 +1718,9 @@
 [submodule "LRBaseDbi"]
 	path = LRBaseDbi
 	url = https://github.com/bioc/LRBaseDbi
+[submodule "LRDE"]
+	path = LRDE
+	url = https://github.com/bioc/LRDE
 [submodule "LRcell"]
 	path = LRcell
 	url = https://github.com/bioc/LRcell
@@ -3686,6 +3689,9 @@
 [submodule "betaHMM"]
 	path = betaHMM
 	url = https://github.com/bioc/betaHMM
+[submodule "betterChromVAR"]
+	path = betterChromVAR
+	url = https://github.com/bioc/betterChromVAR
 [submodule "bettr"]
 	path = bettr
 	url = https://github.com/bioc/bettr
