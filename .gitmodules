@@ -2666,6 +2666,9 @@
 [submodule "RaggedExperiment"]
 	path = RaggedExperiment
 	url = https://github.com/bioc/RaggedExperiment
+[submodule "RankMap"]
+	path = RankMap
+	url = https://github.com/bioc/RankMap
 [submodule "RankProd"]
 	path = RankProd
 	url = https://github.com/bioc/RankProd
@@ -2732,6 +2735,9 @@
 [submodule "RegEnrich"]
 	path = RegEnrich
 	url = https://github.com/bioc/RegEnrich
+[submodule "Rega"]
+	path = Rega
+	url = https://github.com/bioc/Rega
 [submodule "RegionalST"]
 	path = RegionalST
 	url = https://github.com/bioc/RegionalST
@@ -5765,6 +5771,9 @@
 [submodule "panp"]
 	path = panp
 	url = https://github.com/bioc/panp
+[submodule "parati"]
+	path = parati
+	url = https://github.com/bioc/parati
 [submodule "parglms"]
 	path = parglms
 	url = https://github.com/bioc/parglms
@@ -6377,6 +6386,9 @@
 [submodule "scTreeViz"]
 	path = scTreeViz
 	url = https://github.com/bioc/scTreeViz
+[submodule "scTypeEval"]
+	path = scTypeEval
+	url = https://github.com/bioc/scTypeEval
 [submodule "scafari"]
 	path = scafari
 	url = https://git.bioconductor.org/packages/scafari
