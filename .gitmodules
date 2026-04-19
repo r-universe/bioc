@@ -764,6 +764,9 @@
 [submodule "CoverageView"]
 	path = CoverageView
 	url = https://github.com/bioc/CoverageView
+[submodule "CrcBiomeScreen"]
+	path = CrcBiomeScreen
+	url = https://github.com/bioc/CrcBiomeScreen
 [submodule "CrispRVariants"]
 	path = CrispRVariants
 	url = https://github.com/bioc/CrispRVariants
@@ -1556,6 +1559,9 @@
 [submodule "HilbertVisGUI"]
 	path = HilbertVisGUI
 	url = https://github.com/bioc/HilbertVisGUI
+[submodule "HistoImagePlot"]
+	path = HistoImagePlot
+	url = https://github.com/bioc/HistoImagePlot
 [submodule "HoloFoodR"]
 	path = HoloFoodR
 	url = https://github.com/bioc/HoloFoodR
@@ -2411,6 +2417,9 @@
 [submodule "Pirat"]
 	path = Pirat
 	url = https://github.com/bioc/Pirat
+[submodule "PlinkMatrix"]
+	path = PlinkMatrix
+	url = https://github.com/bioc/PlinkMatrix
 [submodule "PoDCall"]
 	path = PoDCall
 	url = https://github.com/bioc/PoDCall
@@ -3350,6 +3359,9 @@
 [submodule "VERSO"]
 	path = VERSO
 	url = https://github.com/bioc/VERSO
+[submodule "VISTA"]
+	path = VISTA
+	url = https://github.com/bioc/VISTA
 [submodule "VaSP"]
 	path = VaSP
 	url = https://github.com/bioc/VaSP
@@ -4475,6 +4487,9 @@
 [submodule "fastLiquidAssociation"]
 	path = fastLiquidAssociation
 	url = https://github.com/bioc/fastLiquidAssociation
+[submodule "fastRanges"]
+	path = fastRanges
+	url = https://github.com/bioc/fastRanges
 [submodule "fastreeR"]
 	path = fastreeR
 	url = https://github.com/bioc/fastreeR
@@ -5009,9 +5024,15 @@
 [submodule "illuminaio"]
 	path = illuminaio
 	url = https://github.com/bioc/illuminaio
+[submodule "imageFeatureTCGA"]
+	path = imageFeatureTCGA
+	url = https://github.com/bioc/imageFeatureTCGA
 [submodule "imageTCGA"]
 	path = imageTCGA
 	url = https://github.com/bioc/imageTCGA
+[submodule "imageTCGAutils"]
+	path = imageTCGAutils
+	url = https://github.com/bioc/imageTCGAutils
 [submodule "imcRtools"]
 	path = imcRtools
 	url = https://github.com/bioc/imcRtools
@@ -5927,6 +5948,9 @@
 [submodule "posDemux"]
 	path = posDemux
 	url = https://github.com/bioc/posDemux
+[submodule "postNet"]
+	path = postNet
+	url = https://github.com/bioc/postNet
 [submodule "powerTCR"]
 	path = powerTCR
 	url = https://github.com/bioc/powerTCR
@@ -6311,6 +6335,9 @@
 [submodule "scDotPlot"]
 	path = scDotPlot
 	url = https://github.com/bioc/scDotPlot
+[submodule "scECODA"]
+	path = scECODA
+	url = https://github.com/bioc/scECODA
 [submodule "scFeatureFilter"]
 	path = scFeatureFilter
 	url = https://github.com/bioc/scFeatureFilter
@@ -6383,6 +6410,9 @@
 [submodule "scTensor"]
 	path = scTensor
 	url = https://github.com/bioc/scTensor
+[submodule "scToppR"]
+	path = scToppR
+	url = https://github.com/bioc/scToppR
 [submodule "scTreeViz"]
 	path = scTreeViz
 	url = https://github.com/bioc/scTreeViz
