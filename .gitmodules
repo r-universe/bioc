@@ -1655,9 +1655,6 @@
 [submodule "IntEREst"]
 	path = IntEREst
 	url = https://github.com/bioc/IntEREst
-[submodule "InterCellar"]
-	path = InterCellar
-	url = https://github.com/bioc/InterCellar
 [submodule "InteractionSet"]
 	path = InteractionSet
 	url = https://github.com/bioc/InteractionSet
