@@ -254,6 +254,9 @@
 [submodule "BasicSTARRseq"]
 	path = BasicSTARRseq
 	url = https://github.com/bioc/BasicSTARRseq
+[submodule "BatChef"]
+	path = BatChef
+	url = https://github.com/bioc/BatChef
 [submodule "BatchQC"]
 	path = BatchQC
 	url = https://github.com/bioc/BatchQC
@@ -323,6 +326,9 @@
 [submodule "Bioc.gff"]
 	path = Bioc.gff
 	url = https://github.com/bioc/Bioc.gff
+[submodule "BiocAzul"]
+	path = BiocAzul
+	url = https://github.com/bioc/BiocAzul
 [submodule "BiocBaseUtils"]
 	path = BiocBaseUtils
 	url = https://github.com/bioc/BiocBaseUtils
@@ -701,6 +707,9 @@
 [submodule "Clomial"]
 	path = Clomial
 	url = https://github.com/bioc/Clomial
+[submodule "ClonalSim"]
+	path = ClonalSim
+	url = https://github.com/bioc/ClonalSim
 [submodule "CluMSID"]
 	path = CluMSID
 	url = https://github.com/bioc/CluMSID
@@ -1439,6 +1448,9 @@
 [submodule "GraphAlignment"]
 	path = GraphAlignment
 	url = https://github.com/bioc/GraphAlignment
+[submodule "GraphExperiment"]
+	path = GraphExperiment
+	url = https://github.com/bioc/GraphExperiment
 [submodule "GreyListChIP"]
 	path = GreyListChIP
 	url = https://github.com/bioc/GreyListChIP
@@ -1643,6 +1655,9 @@
 [submodule "IgGeneUsage"]
 	path = IgGeneUsage
 	url = https://github.com/bioc/IgGeneUsage
+[submodule "ImageArray"]
+	path = ImageArray
+	url = https://github.com/bioc/ImageArray
 [submodule "InPAS"]
 	path = InPAS
 	url = https://github.com/bioc/InPAS
@@ -3623,6 +3638,9 @@
 [submodule "atSNP"]
 	path = atSNP
 	url = https://github.com/bioc/atSNP
+[submodule "atacInferCnv"]
+	path = atacInferCnv
+	url = https://github.com/bioc/atacInferCnv
 [submodule "atena"]
 	path = atena
 	url = https://github.com/bioc/atena
@@ -4388,6 +4406,9 @@
 [submodule "epiNEM"]
 	path = epiNEM
 	url = https://github.com/bioc/epiNEM
+[submodule "epiRomics"]
+	path = epiRomics
+	url = https://github.com/bioc/epiRomics
 [submodule "epiSeeker"]
 	path = epiSeeker
 	url = https://github.com/bioc/epiSeeker
@@ -5036,6 +5057,9 @@
 [submodule "immApex"]
 	path = immApex
 	url = https://github.com/bioc/immApex
+[submodule "immLynx"]
+	path = immLynx
+	url = https://github.com/bioc/immLynx
 [submodule "immReferent"]
 	path = immReferent
 	url = https://github.com/bioc/immReferent
@@ -5171,6 +5195,9 @@
 [submodule "lmdme"]
 	path = lmdme
 	url = https://github.com/bioc/lmdme
+[submodule "lncRna"]
+	path = lncRna
+	url = https://github.com/bioc/lncRna
 [submodule "loci2path"]
 	path = loci2path
 	url = https://github.com/bioc/loci2path
@@ -5306,6 +5333,9 @@
 [submodule "metabolomicsWorkbenchR"]
 	path = metabolomicsWorkbenchR
 	url = https://github.com/bioc/metabolomicsWorkbenchR
+[submodule "metabom8"]
+	path = metabom8
+	url = https://github.com/bioc/metabom8
 [submodule "metabomxtr"]
 	path = metabomxtr
 	url = https://github.com/bioc/metabomxtr
@@ -6056,6 +6086,9 @@
 [submodule "quantsmooth"]
 	path = quantsmooth
 	url = https://github.com/bioc/quantsmooth
+[submodule "queeems"]
+	path = queeems
+	url = https://github.com/bioc/queeems
 [submodule "qusage"]
 	path = qusage
 	url = https://github.com/bioc/qusage
@@ -6536,6 +6569,9 @@
 [submodule "sfi"]
 	path = sfi
 	url = https://github.com/bioc/sfi
+[submodule "shiny.gosling"]
+	path = shiny.gosling
+	url = https://github.com/bioc/shiny.gosling
 [submodule "shinyDSP"]
 	path = shinyDSP
 	url = https://github.com/bioc/shinyDSP
@@ -6695,6 +6731,9 @@
 [submodule "splatter"]
 	path = splatter
 	url = https://github.com/bioc/splatter
+[submodule "splicelogic"]
+	path = splicelogic
+	url = https://github.com/bioc/splicelogic
 [submodule "splineTimeR"]
 	path = splineTimeR
 	url = https://github.com/bioc/splineTimeR
@@ -7058,6 +7097,9 @@
 [submodule "wavClusteR"]
 	path = wavClusteR
 	url = https://github.com/bioc/wavClusteR
+[submodule "wavFeatExt"]
+	path = wavFeatExt
+	url = https://github.com/bioc/wavFeatExt
 [submodule "weaver"]
 	path = weaver
 	url = https://github.com/bioc/weaver
