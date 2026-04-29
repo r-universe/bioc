@@ -53,9 +53,6 @@
 [submodule "ANF"]
 	path = ANF
 	url = https://github.com/bioc/ANF
-[submodule "APAlyzer"]
-	path = APAlyzer
-	url = https://github.com/bioc/APAlyzer
 [submodule "APL"]
 	path = APL
 	url = https://github.com/bioc/APL
@@ -407,9 +404,6 @@
 [submodule "BrowserViz"]
 	path = BrowserViz
 	url = https://github.com/bioc/BrowserViz
-[submodule "BubbleTree"]
-	path = BubbleTree
-	url = https://github.com/bioc/BubbleTree
 [submodule "BufferedMatrix"]
 	path = BufferedMatrix
 	url = https://github.com/bioc/BufferedMatrix
@@ -638,9 +632,6 @@
 [submodule "CellTrails"]
 	path = CellTrails
 	url = https://github.com/bioc/CellTrails
-[submodule "CelliD"]
-	path = CelliD
-	url = https://github.com/bioc/CelliD
 [submodule "Cepo"]
 	path = Cepo
 	url = https://github.com/bioc/Cepo
@@ -1235,9 +1226,6 @@
 [submodule "GMRP"]
 	path = GMRP
 	url = https://github.com/bioc/GMRP
-[submodule "GNET2"]
-	path = GNET2
-	url = https://github.com/bioc/GNET2
 [submodule "GNOSIS"]
 	path = GNOSIS
 	url = https://github.com/bioc/GNOSIS
@@ -1247,6 +1235,9 @@
 [submodule "GOTHiC"]
 	path = GOTHiC
 	url = https://github.com/bioc/GOTHiC
+[submodule "GOaGO"]
+	path = GOaGO
+	url = https://github.com/bioc/GOaGO
 [submodule "GOexpress"]
 	path = GOexpress
 	url = https://github.com/bioc/GOexpress
@@ -1616,9 +1607,6 @@
 [submodule "INTACT"]
 	path = INTACT
 	url = https://github.com/bioc/INTACT
-[submodule "IONiseR"]
-	path = IONiseR
-	url = https://github.com/bioc/IONiseR
 [submodule "IPO"]
 	path = IPO
 	url = https://github.com/bioc/IPO
@@ -1907,9 +1895,6 @@
 [submodule "MSA2dist"]
 	path = MSA2dist
 	url = https://github.com/bioc/MSA2dist
-[submodule "MSPrep"]
-	path = MSPrep
-	url = https://github.com/bioc/MSPrep
 [submodule "MSnID"]
 	path = MSnID
 	url = https://github.com/bioc/MSnID
@@ -2039,9 +2024,6 @@
 [submodule "MethPed"]
 	path = MethPed
 	url = https://github.com/bioc/MethPed
-[submodule "MethReg"]
-	path = MethReg
-	url = https://github.com/bioc/MethReg
 [submodule "MethTargetedNGS"]
 	path = MethTargetedNGS
 	url = https://github.com/bioc/MethTargetedNGS
@@ -2648,9 +2630,6 @@
 [submodule "RTCA"]
 	path = RTCA
 	url = https://github.com/bioc/RTCA
-[submodule "RTCGA"]
-	path = RTCGA
-	url = https://github.com/bioc/RTCGA
 [submodule "RTCGAToolbox"]
 	path = RTCGAToolbox
 	url = https://github.com/bioc/RTCGAToolbox
@@ -3656,15 +3635,9 @@
 [submodule "bacon"]
 	path = bacon
 	url = https://github.com/bioc/bacon
-[submodule "ballgown"]
-	path = ballgown
-	url = https://github.com/bioc/ballgown
 [submodule "bambu"]
 	path = bambu
 	url = https://github.com/bioc/bambu
-[submodule "bamsignals"]
-	path = bamsignals
-	url = https://github.com/bioc/bamsignals
 [submodule "bandle"]
 	path = bandle
 	url = https://github.com/bioc/bandle
@@ -3674,9 +3647,6 @@
 [submodule "barbieQ"]
 	path = barbieQ
 	url = https://github.com/bioc/barbieQ
-[submodule "basecallQC"]
-	path = basecallQC
-	url = https://github.com/bioc/basecallQC
 [submodule "basilisk"]
 	path = basilisk
 	url = https://github.com/bioc/basilisk
@@ -3740,9 +3710,6 @@
 [submodule "bioassayR"]
 	path = bioassayR
 	url = https://github.com/bioc/bioassayR
-[submodule "biobroom"]
-	path = biobroom
-	url = https://github.com/bioc/biobroom
 [submodule "biobtreeR"]
 	path = biobtreeR
 	url = https://github.com/bioc/biobtreeR
@@ -3764,9 +3731,6 @@
 [submodule "biodb"]
 	path = biodb
 	url = https://github.com/bioc/biodb
-[submodule "biodbChebi"]
-	path = biodbChebi
-	url = https://github.com/bioc/biodbChebi
 [submodule "biomaRt"]
 	path = biomaRt
 	url = https://github.com/bioc/biomaRt
@@ -3872,9 +3836,6 @@
 [submodule "ccfindR"]
 	path = ccfindR
 	url = https://github.com/bioc/ccfindR
-[submodule "ccrepe"]
-	path = ccrepe
-	url = https://github.com/bioc/ccrepe
 [submodule "ceRNAnetsim"]
 	path = ceRNAnetsim
 	url = https://github.com/bioc/ceRNAnetsim
@@ -4730,9 +4691,6 @@
 [submodule "geneRxCluster"]
 	path = geneRxCluster
 	url = https://github.com/bioc/geneRxCluster
-[submodule "geneXtendeR"]
-	path = geneXtendeR
-	url = https://github.com/bioc/geneXtendeR
 [submodule "genefilter"]
 	path = genefilter
 	url = https://github.com/bioc/genefilter
@@ -5543,9 +5501,6 @@
 [submodule "motifbreakR"]
 	path = motifbreakR
 	url = https://github.com/bioc/motifbreakR
-[submodule "motifcounter"]
-	path = motifcounter
-	url = https://github.com/bioc/motifcounter
 [submodule "motifmatchr"]
 	path = motifmatchr
 	url = https://github.com/bioc/motifmatchr
@@ -5645,9 +5600,6 @@
 [submodule "ndexr"]
 	path = ndexr
 	url = https://github.com/bioc/ndexr
-[submodule "nearBynding"]
-	path = nearBynding
-	url = https://github.com/bioc/nearBynding
 [submodule "nempi"]
 	path = nempi
 	url = https://github.com/bioc/nempi
@@ -5660,9 +5612,6 @@
 [submodule "nethet"]
 	path = nethet
 	url = https://github.com/bioc/nethet
-[submodule "netprioR"]
-	path = netprioR
-	url = https://github.com/bioc/netprioR
 [submodule "netresponse"]
 	path = netresponse
 	url = https://github.com/bioc/netresponse
@@ -5684,9 +5633,6 @@
 [submodule "normalize450K"]
 	path = normalize450K
 	url = https://github.com/bioc/normalize450K
-[submodule "normr"]
-	path = normr
-	url = https://github.com/bioc/normr
 [submodule "notame"]
 	path = notame
 	url = https://github.com/bioc/notame
@@ -5828,9 +5774,6 @@
 [submodule "parody"]
 	path = parody
 	url = https://github.com/bioc/parody
-[submodule "partCNV"]
-	path = partCNV
-	url = https://github.com/bioc/partCNV
 [submodule "pathMED"]
 	path = pathMED
 	url = https://github.com/bioc/pathMED
@@ -6260,9 +6203,6 @@
 [submodule "roastgsa"]
 	path = roastgsa
 	url = https://github.com/bioc/roastgsa
-[submodule "rols"]
-	path = rols
-	url = https://github.com/bioc/rols
 [submodule "ropls"]
 	path = ropls
 	url = https://github.com/bioc/ropls
@@ -6800,9 +6740,6 @@
 [submodule "subSeq"]
 	path = subSeq
 	url = https://github.com/bioc/subSeq
-[submodule "supersigs"]
-	path = supersigs
-	url = https://github.com/bioc/supersigs
 [submodule "surfaltr"]
 	path = surfaltr
 	url = https://github.com/bioc/surfaltr
@@ -6854,9 +6791,6 @@
 [submodule "systemPipeTools"]
 	path = systemPipeTools
 	url = https://github.com/bioc/systemPipeTools
-[submodule "tLOH"]
-	path = tLOH
-	url = https://github.com/bioc/tLOH
 [submodule "tRNA"]
 	path = tRNA
 	url = https://github.com/bioc/tRNA
