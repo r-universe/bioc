@@ -140,9 +140,6 @@
 [submodule "AnVILPublish"]
 	path = AnVILPublish
 	url = https://github.com/bioc/AnVILPublish
-[submodule "AnVILVRS"]
-	path = AnVILVRS
-	url = https://github.com/bioc/AnVILVRS
 [submodule "AnVILWorkflow"]
 	path = AnVILWorkflow
 	url = https://github.com/bioc/AnVILWorkflow
@@ -242,9 +239,6 @@
 [submodule "BadRegionFinder"]
 	path = BadRegionFinder
 	url = https://github.com/bioc/BadRegionFinder
-[submodule "BamScale"]
-	path = BamScale
-	url = https://github.com/bioc/BamScale
 [submodule "Banksy"]
 	path = Banksy
 	url = https://github.com/bioc/Banksy
@@ -3632,21 +3626,6 @@
 [submodule "attract"]
 	path = attract
 	url = https://github.com/bioc/attract
-[submodule "augere.core"]
-	path = augere.core
-	url = https://github.com/bioc/augere.core
-[submodule "augere.de"]
-	path = augere.de
-	url = https://github.com/bioc/augere.de
-[submodule "augere.gsea"]
-	path = augere.gsea
-	url = https://github.com/bioc/augere.gsea
-[submodule "augere.screen"]
-	path = augere.screen
-	url = https://github.com/bioc/augere.screen
-[submodule "augere.solo"]
-	path = augere.solo
-	url = https://github.com/bioc/augere.solo
 [submodule "autonomics"]
 	path = autonomics
 	url = https://github.com/bioc/autonomics
@@ -5873,9 +5852,6 @@
 [submodule "phosphonormalizer"]
 	path = phosphonormalizer
 	url = https://github.com/bioc/phosphonormalizer
-[submodule "phylobar"]
-	path = phylobar
-	url = https://github.com/bioc/phylobar
 [submodule "phyloseq"]
 	path = phyloseq
 	url = https://github.com/bioc/phyloseq
