@@ -4310,6 +4310,9 @@
 [submodule "dmrseq"]
 	path = dmrseq
 	url = https://github.com/bioc/dmrseq
+[submodule "dnaEPICO"]
+	path = dnaEPICO
+	url = https://github.com/bioc/dnaEPICO
 [submodule "dominatR"]
 	path = dominatR
 	url = https://github.com/bioc/dominatR
