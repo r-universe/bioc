@@ -920,6 +920,9 @@
 [submodule "Damsel"]
 	path = Damsel
 	url = https://github.com/bioc/Damsel
+[submodule "DaparToolshed"]
+	path = DaparToolshed
+	url = https://github.com/bioc/DaparToolshed
 [submodule "DeMAND"]
 	path = DeMAND
 	url = https://github.com/bioc/DeMAND
@@ -5786,6 +5789,9 @@
 [submodule "panelcn.mops"]
 	path = panelcn.mops
 	url = https://github.com/bioc/panelcn.mops
+[submodule "panoramic"]
+	path = panoramic
+	url = https://github.com/bioc/panoramic
 [submodule "panp"]
 	path = panp
 	url = https://github.com/bioc/panp
