@@ -650,6 +650,9 @@
 [submodule "ChIPComp"]
 	path = ChIPComp
 	url = https://github.com/bioc/ChIPComp
+[submodule "ChIPQC"]
+	path = ChIPQC
+	url = https://github.com/bioc/ChIPQC
 [submodule "ChIPXpress"]
 	path = ChIPXpress
 	url = https://github.com/bioc/ChIPXpress
@@ -5807,9 +5810,6 @@
 [submodule "pathMED"]
 	path = pathMED
 	url = https://github.com/bioc/pathMED
-[submodule "pathRender"]
-	path = pathRender
-	url = https://github.com/bioc/pathRender
 [submodule "pathifier"]
 	path = pathifier
 	url = https://github.com/bioc/pathifier
