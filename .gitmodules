@@ -1907,6 +1907,9 @@
 [submodule "MSA2dist"]
 	path = MSA2dist
 	url = https://github.com/bioc/MSA2dist
+[submodule "MSTree"]
+	path = MSTree
+	url = https://github.com/bioc/MSTree
 [submodule "MSnID"]
 	path = MSnID
 	url = https://github.com/bioc/MSnID
