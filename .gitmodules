@@ -2423,6 +2423,9 @@
 [submodule "Pigengene"]
 	path = Pigengene
 	url = https://github.com/bioc/Pigengene
+[submodule "PinPath"]
+	path = PinPath
+	url = https://github.com/bioc/PinPath
 [submodule "Pirat"]
 	path = Pirat
 	url = https://github.com/bioc/Pirat
@@ -3278,6 +3281,9 @@
 [submodule "TSCAN"]
 	path = TSCAN
 	url = https://github.com/bioc/TSCAN
+[submodule "TSENAT"]
+	path = TSENAT
+	url = https://github.com/bioc/TSENAT
 [submodule "TTMap"]
 	path = TTMap
 	url = https://github.com/bioc/TTMap
@@ -3668,6 +3674,9 @@
 [submodule "bambu"]
 	path = bambu
 	url = https://github.com/bioc/bambu
+[submodule "bamsignals"]
+	path = bamsignals
+	url = https://github.com/bioc/bamsignals
 [submodule "bandle"]
 	path = bandle
 	url = https://github.com/bioc/bandle
@@ -5048,6 +5057,9 @@
 [submodule "immApex"]
 	path = immApex
 	url = https://github.com/bioc/immApex
+[submodule "immGLIPH"]
+	path = immGLIPH
+	url = https://github.com/bioc/immGLIPH
 [submodule "immLynx"]
 	path = immLynx
 	url = https://github.com/bioc/immLynx
@@ -5666,6 +5678,9 @@
 [submodule "normalize450K"]
 	path = normalize450K
 	url = https://github.com/bioc/normalize450K
+[submodule "normr"]
+	path = normr
+	url = https://github.com/bioc/normr
 [submodule "notame"]
 	path = notame
 	url = https://github.com/bioc/notame
