@@ -2156,6 +2156,9 @@
 [submodule "MultimodalExperiment"]
 	path = MultimodalExperiment
 	url = https://github.com/bioc/MultimodalExperiment
+[submodule "MultipleAlignment"]
+	path = MultipleAlignment
+	url = https://github.com/bioc/MultipleAlignment
 [submodule "MungeSumstats"]
 	path = MungeSumstats
 	url = https://github.com/bioc/MungeSumstats
