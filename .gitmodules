@@ -3887,6 +3887,9 @@
 [submodule "celda"]
 	path = celda
 	url = https://github.com/bioc/celda
+[submodule "cellNexus"]
+	path = cellNexus
+	url = https://github.com/bioc/cellNexus
 [submodule "cellbaseR"]
 	path = cellbaseR
 	url = https://github.com/bioc/cellbaseR
@@ -4202,6 +4205,9 @@
 [submodule "daMA"]
 	path = daMA
 	url = https://github.com/bioc/daMA
+[submodule "daVis"]
+	path = daVis
+	url = https://github.com/bioc/daVis
 [submodule "dada2"]
 	path = dada2
 	url = https://github.com/bioc/dada2
