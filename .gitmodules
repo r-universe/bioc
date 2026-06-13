@@ -1700,6 +1700,9 @@
 [submodule "KEGGREST"]
 	path = KEGGREST
 	url = https://github.com/bioc/KEGGREST
+[submodule "KEGGemUP"]
+	path = KEGGemUP
+	url = https://github.com/bioc/KEGGemUP
 [submodule "KEGGgraph"]
 	path = KEGGgraph
 	url = https://github.com/bioc/KEGGgraph
