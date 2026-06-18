@@ -5006,6 +5006,9 @@
 [submodule "iSEEhub"]
 	path = iSEEhub
 	url = https://github.com/bioc/iSEEhub
+[submodule "iSEEid"]
+	path = iSEEid
+	url = https://github.com/bioc/iSEEid
 [submodule "iSEEindex"]
 	path = iSEEindex
 	url = https://github.com/bioc/iSEEindex
