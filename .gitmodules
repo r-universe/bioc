@@ -278,6 +278,9 @@
 [submodule "BeadDataPackR"]
 	path = BeadDataPackR
 	url = https://github.com/bioc/BeadDataPackR
+[submodule "BenchHub"]
+	path = BenchHub
+	url = https://github.com/bioc/BenchHub
 [submodule "BgeeCall"]
 	path = BgeeCall
 	url = https://github.com/bioc/BgeeCall
@@ -494,6 +497,9 @@
 [submodule "CIMICE"]
 	path = CIMICE
 	url = https://github.com/bioc/CIMICE
+[submodule "CLAMP"]
+	path = CLAMP
+	url = https://github.com/bioc/CLAMP
 [submodule "CMA"]
 	path = CMA
 	url = https://github.com/bioc/CMA
@@ -2447,6 +2453,9 @@
 [submodule "Polytect"]
 	path = Polytect
 	url = https://github.com/bioc/Polytect
+[submodule "PostChicago"]
+	path = PostChicago
+	url = https://github.com/bioc/PostChicago
 [submodule "PrInCE"]
 	path = PrInCE
 	url = https://github.com/bioc/PrInCE
