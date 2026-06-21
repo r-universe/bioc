@@ -1061,6 +1061,9 @@
 [submodule "EMDomics"]
 	path = EMDomics
 	url = https://github.com/bioc/EMDomics
+[submodule "EMMA"]
+	path = EMMA
+	url = https://github.com/bioc/EMMA
 [submodule "ENmix"]
 	path = ENmix
 	url = https://github.com/bioc/ENmix
