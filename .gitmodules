@@ -4787,6 +4787,9 @@
 [submodule "gep2pep"]
 	path = gep2pep
 	url = https://github.com/bioc/gep2pep
+[submodule "gesel"]
+	path = gesel
+	url = https://github.com/bioc/gesel
 [submodule "getDEE2"]
 	path = getDEE2
 	url = https://github.com/bioc/getDEE2
