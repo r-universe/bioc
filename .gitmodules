@@ -488,6 +488,9 @@
 [submodule "CGHregions"]
 	path = CGHregions
 	url = https://github.com/bioc/CGHregions
+[submodule "CGRphylo2"]
+	path = CGRphylo2
+	url = https://github.com/bioc/CGRphylo2
 [submodule "CHETAH"]
 	path = CHETAH
 	url = https://github.com/bioc/CHETAH
@@ -6356,6 +6359,9 @@
 [submodule "scBFA"]
 	path = scBFA
 	url = https://github.com/bioc/scBFA
+[submodule "scBatchQC"]
+	path = scBatchQC
+	url = https://github.com/bioc/scBatchQC
 [submodule "scBubbletree"]
 	path = scBubbletree
 	url = https://github.com/bioc/scBubbletree
@@ -6392,6 +6398,9 @@
 [submodule "scECODA"]
 	path = scECODA
 	url = https://github.com/bioc/scECODA
+[submodule "scFastDE"]
+	path = scFastDE
+	url = https://github.com/bioc/scFastDE
 [submodule "scFeatureFilter"]
 	path = scFeatureFilter
 	url = https://github.com/bioc/scFeatureFilter
