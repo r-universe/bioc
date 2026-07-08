@@ -4241,6 +4241,9 @@
 [submodule "dar"]
 	path = dar
 	url = https://github.com/bioc/dar
+[submodule "dbSequence"]
+	path = dbSequence
+	url = https://github.com/bioc/dbSequence
 [submodule "dcGSA"]
 	path = dcGSA
 	url = https://github.com/bioc/dcGSA
