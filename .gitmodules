@@ -6374,6 +6374,9 @@
 [submodule "scClassify"]
 	path = scClassify
 	url = https://github.com/bioc/scClassify
+[submodule "scCompoundDE"]
+	path = scCompoundDE
+	url = https://github.com/bioc/scCompoundDE
 [submodule "scConform"]
 	path = scConform
 	url = https://github.com/bioc/scConform
