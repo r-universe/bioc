@@ -2147,6 +2147,9 @@
 [submodule "MsQuality"]
 	path = MsQuality
 	url = https://github.com/bioc/MsQuality
+[submodule "MsStash"]
+	path = MsStash
+	url = https://github.com/bioc/MsStash
 [submodule "MuData"]
 	path = MuData
 	url = https://github.com/bioc/MuData
