@@ -5801,6 +5801,9 @@
 [submodule "ontoProc"]
 	path = ontoProc
 	url = https://github.com/bioc/ontoProc
+[submodule "ontoProc2"]
+	path = ontoProc2
+	url = https://github.com/bioc/ontoProc2
 [submodule "openCyto"]
 	path = openCyto
 	url = https://github.com/bioc/openCyto
