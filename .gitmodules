@@ -1238,6 +1238,9 @@
 [submodule "GEWIST"]
 	path = GEWIST
 	url = https://github.com/bioc/GEWIST
+[submodule "GExPipe"]
+	path = GExPipe
+	url = https://github.com/bioc/GExPipe
 [submodule "GGPA"]
 	path = GGPA
 	url = https://github.com/bioc/GGPA
@@ -3713,6 +3716,9 @@
 [submodule "barbieQ"]
 	path = barbieQ
 	url = https://github.com/bioc/barbieQ
+[submodule "barmixR"]
+	path = barmixR
+	url = https://github.com/bioc/barmixR
 [submodule "basilisk"]
 	path = basilisk
 	url = https://github.com/bioc/basilisk
@@ -7130,6 +7136,9 @@
 [submodule "vulcan"]
 	path = vulcan
 	url = https://github.com/bioc/vulcan
+[submodule "wSIR"]
+	path = wSIR
+	url = https://github.com/bioc/wSIR
 [submodule "waddR"]
 	path = waddR
 	url = https://github.com/bioc/waddR
