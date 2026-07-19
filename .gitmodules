@@ -818,6 +818,9 @@
 [submodule "DART"]
 	path = DART
 	url = https://github.com/bioc/DART
+[submodule "DAssemble"]
+	path = DAssemble
+	url = https://github.com/bioc/DAssemble
 [submodule "DCATS"]
 	path = DCATS
 	url = https://github.com/bioc/DCATS
