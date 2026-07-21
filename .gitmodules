@@ -2120,6 +2120,9 @@
 [submodule "MouseFM"]
 	path = MouseFM
 	url = https://github.com/bioc/MouseFM
+[submodule "MsBackendMassIVE"]
+	path = MsBackendMassIVE
+	url = https://github.com/bioc/MsBackendMassIVE
 [submodule "MsBackendMassbank"]
 	path = MsBackendMassbank
 	url = https://github.com/bioc/MsBackendMassbank
