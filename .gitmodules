@@ -2546,6 +2546,9 @@
 [submodule "RBM"]
 	path = RBM
 	url = https://github.com/bioc/RBM
+[submodule "RBPSpecificity"]
+	path = RBPSpecificity
+	url = https://github.com/bioc/RBPSpecificity
 [submodule "RBedMethyl"]
 	path = RBedMethyl
 	url = https://github.com/bioc/RBedMethyl
@@ -2864,6 +2867,9 @@
 [submodule "S4Arrays"]
 	path = S4Arrays
 	url = https://github.com/bioc/S4Arrays
+[submodule "S4Cartographer"]
+	path = S4Cartographer
+	url = https://github.com/bioc/S4Cartographer
 [submodule "S4Vectors"]
 	path = S4Vectors
 	url = https://github.com/bioc/S4Vectors
@@ -3353,6 +3359,9 @@
 [submodule "TrIdent"]
 	path = TrIdent
 	url = https://github.com/bioc/TrIdent
+[submodule "TraianProt"]
+	path = TraianProt
+	url = https://github.com/bioc/TraianProt
 [submodule "TrajectoryGeometry"]
 	path = TrajectoryGeometry
 	url = https://github.com/bioc/TrajectoryGeometry
