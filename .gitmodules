@@ -3344,9 +3344,6 @@
 [submodule "TaxSEA"]
 	path = TaxSEA
 	url = https://github.com/bioc/TaxSEA
-[submodule "TiDEomics"]
-	path = TiDEomics
-	url = https://github.com/bioc/TiDEomics
 [submodule "TileDBArray"]
 	path = TileDBArray
 	url = https://github.com/bioc/TileDBArray
