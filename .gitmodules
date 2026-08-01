@@ -1286,6 +1286,9 @@
 [submodule "GPA"]
 	path = GPA
 	url = https://github.com/bioc/GPA
+[submodule "GPlinksR"]
+	path = GPlinksR
+	url = https://github.com/bioc/GPlinksR
 [submodule "GRENITS"]
 	path = GRENITS
 	url = https://github.com/bioc/GRENITS
