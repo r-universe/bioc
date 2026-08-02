@@ -2039,6 +2039,9 @@
 [submodule "MetaDICT"]
 	path = MetaDICT
 	url = https://github.com/bioc/MetaDICT
+[submodule "MetaPathNet"]
+	path = MetaPathNet
+	url = https://github.com/bioc/MetaPathNet
 [submodule "MetaPhOR"]
 	path = MetaPhOR
 	url = https://github.com/bioc/MetaPhOR
@@ -2132,6 +2135,9 @@
 [submodule "MsBackendMetaboLights"]
 	path = MsBackendMetaboLights
 	url = https://github.com/bioc/MsBackendMetaboLights
+[submodule "MsBackendMetabolomicsWorkbench"]
+	path = MsBackendMetabolomicsWorkbench
+	url = https://github.com/bioc/MsBackendMetabolomicsWorkbench
 [submodule "MsBackendMgf"]
 	path = MsBackendMgf
 	url = https://github.com/bioc/MsBackendMgf
@@ -5666,6 +5672,9 @@
 [submodule "multicrispr"]
 	path = multicrispr
 	url = https://github.com/bioc/multicrispr
+[submodule "multipointR"]
+	path = multipointR
+	url = https://github.com/bioc/multipointR
 [submodule "multiscan"]
 	path = multiscan
 	url = https://github.com/bioc/multiscan
