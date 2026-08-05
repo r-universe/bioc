@@ -2846,6 +2846,9 @@
 [submodule "Rmmquant"]
 	path = Rmmquant
 	url = https://github.com/bioc/Rmmquant
+[submodule "RmzTabM"]
+	path = RmzTabM
+	url = https://github.com/bioc/RmzTabM
 [submodule "RnBeads"]
 	path = RnBeads
 	url = https://github.com/bioc/RnBeads
@@ -3098,6 +3101,9 @@
 [submodule "SimFFPE"]
 	path = SimFFPE
 	url = https://github.com/bioc/SimFFPE
+[submodule "SimiCviz"]
+	path = SimiCviz
+	url = https://github.com/bioc/SimiCviz
 [submodule "SingleCellAlleleExperiment"]
 	path = SingleCellAlleleExperiment
 	url = https://github.com/bioc/SingleCellAlleleExperiment
