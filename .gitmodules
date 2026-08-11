@@ -1022,6 +1022,12 @@
 [submodule "DspikeIn"]
 	path = DspikeIn
 	url = https://github.com/bioc/DspikeIn
+[submodule "DuckDBDataFrame"]
+	path = DuckDBDataFrame
+	url = https://github.com/bioc/DuckDBDataFrame
+[submodule "DuckDBGRanges"]
+	path = DuckDBGRanges
+	url = https://github.com/bioc/DuckDBGRanges
 [submodule "Dune"]
 	path = Dune
 	url = https://github.com/bioc/Dune
@@ -1070,6 +1076,9 @@
 [submodule "EMMA"]
 	path = EMMA
 	url = https://github.com/bioc/EMMA
+[submodule "EMTscore"]
+	path = EMTscore
+	url = https://github.com/bioc/EMTscore
 [submodule "ENmix"]
 	path = ENmix
 	url = https://github.com/bioc/ENmix
@@ -1316,6 +1325,9 @@
 [submodule "GSEABenchmarkeR"]
 	path = GSEABenchmarkeR
 	url = https://github.com/bioc/GSEABenchmarkeR
+[submodule "GSEAlens"]
+	path = GSEAlens
+	url = https://github.com/bioc/GSEAlens
 [submodule "GSEAlm"]
 	path = GSEAlm
 	url = https://github.com/bioc/GSEAlm
@@ -4616,6 +4628,9 @@
 [submodule "findIPs"]
 	path = findIPs
 	url = https://github.com/bioc/findIPs
+[submodule "fishash"]
+	path = fishash
+	url = https://github.com/bioc/fishash
 [submodule "fishpond"]
 	path = fishpond
 	url = https://github.com/bioc/fishpond
