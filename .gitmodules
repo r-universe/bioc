@@ -1022,9 +1022,6 @@
 [submodule "DspikeIn"]
 	path = DspikeIn
 	url = https://github.com/bioc/DspikeIn
-[submodule "DuckDBArray"]
-	path = DuckDBArray
-	url = https://github.com/bioc/DuckDBArray
 [submodule "DuckDBDataFrame"]
 	path = DuckDBDataFrame
 	url = https://github.com/bioc/DuckDBDataFrame
