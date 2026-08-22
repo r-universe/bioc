@@ -1031,6 +1031,9 @@
 [submodule "DuckDBGRanges"]
 	path = DuckDBGRanges
 	url = https://github.com/bioc/DuckDBGRanges
+[submodule "DuckDBSpatial"]
+	path = DuckDBSpatial
+	url = https://github.com/bioc/DuckDBSpatial
 [submodule "Dune"]
 	path = Dune
 	url = https://github.com/bioc/Dune
@@ -4568,6 +4571,9 @@
 [submodule "evaluomeR"]
 	path = evaluomeR
 	url = https://github.com/bioc/evaluomeR
+[submodule "exploreSE"]
+	path = exploreSE
+	url = https://github.com/bioc/exploreSE
 [submodule "extraChIPs"]
 	path = extraChIPs
 	url = https://github.com/bioc/extraChIPs
