@@ -6185,6 +6185,9 @@
 [submodule "qsvaR"]
 	path = qsvaR
 	url = https://github.com/bioc/qsvaR
+[submodule "quantMSImageR"]
+	path = quantMSImageR
+	url = https://github.com/bioc/quantMSImageR
 [submodule "quantiseqr"]
 	path = quantiseqr
 	url = https://github.com/bioc/quantiseqr
