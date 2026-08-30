@@ -788,6 +788,9 @@
 [submodule "CrispRVariants"]
 	path = CrispRVariants
 	url = https://github.com/bioc/CrispRVariants
+[submodule "CySA"]
+	path = CySA
+	url = https://github.com/bioc/CySA
 [submodule "CyTOFpower"]
 	path = CyTOFpower
 	url = https://github.com/bioc/CyTOFpower
@@ -6824,6 +6827,9 @@
 [submodule "spatialSimGP"]
 	path = spatialSimGP
 	url = https://github.com/bioc/spatialSimGP
+[submodule "spatialdataR"]
+	path = spatialdataR
+	url = https://github.com/bioc/spatialdataR
 [submodule "specL"]
 	path = specL
 	url = https://github.com/bioc/specL
