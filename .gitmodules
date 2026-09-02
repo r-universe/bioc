@@ -1184,6 +1184,9 @@
 [submodule "FamAgg"]
 	path = FamAgg
 	url = https://github.com/bioc/FamAgg
+[submodule "Fancy"]
+	path = Fancy
+	url = https://github.com/bioc/Fancy
 [submodule "FastqCleaner"]
 	path = FastqCleaner
 	url = https://github.com/bioc/FastqCleaner
@@ -3260,6 +3263,9 @@
 [submodule "SurfR"]
 	path = SurfR
 	url = https://github.com/bioc/SurfR
+[submodule "SwarnSeq"]
+	path = SwarnSeq
+	url = https://github.com/bioc/SwarnSeq
 [submodule "SwathXtend"]
 	path = SwathXtend
 	url = https://git.bioconductor.org/packages/SwathXtend
@@ -4973,6 +4979,9 @@
 [submodule "groHMM"]
 	path = groHMM
 	url = https://github.com/bioc/groHMM
+[submodule "growkar"]
+	path = growkar
+	url = https://github.com/bioc/growkar
 [submodule "gscreend"]
 	path = gscreend
 	url = https://github.com/bioc/gscreend
@@ -5978,6 +5987,9 @@
 [submodule "pepStat"]
 	path = pepStat
 	url = https://github.com/bioc/pepStat
+[submodule "pepVet"]
+	path = pepVet
+	url = https://github.com/bioc/pepVet
 [submodule "pepXMLTab"]
 	path = pepXMLTab
 	url = https://github.com/bioc/pepXMLTab
