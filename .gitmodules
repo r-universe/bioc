@@ -2201,6 +2201,9 @@
 [submodule "MultiAssayExperiment"]
 	path = MultiAssayExperiment
 	url = https://github.com/bioc/MultiAssayExperiment
+[submodule "MultiAssaySpatialExperiment"]
+	path = MultiAssaySpatialExperiment
+	url = https://github.com/bioc/MultiAssaySpatialExperiment
 [submodule "MultiBaC"]
 	path = MultiBaC
 	url = https://github.com/bioc/MultiBaC
