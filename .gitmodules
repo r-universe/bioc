@@ -1715,6 +1715,9 @@
 [submodule "IntEREst"]
 	path = IntEREst
 	url = https://github.com/bioc/IntEREst
+[submodule "InterCellar"]
+	path = InterCellar
+	url = https://github.com/bioc/InterCellar
 [submodule "InteractionSet"]
 	path = InteractionSet
 	url = https://github.com/bioc/InteractionSet
@@ -5774,6 +5777,9 @@
 [submodule "netSmooth"]
 	path = netSmooth
 	url = https://github.com/bioc/netSmooth
+[submodule "netZooR"]
+	path = netZooR
+	url = https://github.com/bioc/netZooR
 [submodule "netboost"]
 	path = netboost
 	url = https://github.com/bioc/netboost
@@ -5954,6 +5960,9 @@
 [submodule "pathMED"]
 	path = pathMED
 	url = https://github.com/bioc/pathMED
+[submodule "pathRender"]
+	path = pathRender
+	url = https://github.com/bioc/pathRender
 [submodule "pathifier"]
 	path = pathifier
 	url = https://github.com/bioc/pathifier
@@ -7052,6 +7061,9 @@
 [submodule "tidysbml"]
 	path = tidysbml
 	url = https://github.com/bioc/tidysbml
+[submodule "tidytof"]
+	path = tidytof
+	url = https://github.com/bioc/tidytof
 [submodule "tigre"]
 	path = tigre
 	url = https://github.com/bioc/tigre
