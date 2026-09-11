@@ -347,6 +347,9 @@
 [submodule "BiocCheck"]
 	path = BiocCheck
 	url = https://github.com/bioc/BiocCheck
+[submodule "BiocDuckDB"]
+	path = BiocDuckDB
+	url = https://github.com/bioc/BiocDuckDB
 [submodule "BiocFHIR"]
 	path = BiocFHIR
 	url = https://github.com/bioc/BiocFHIR
@@ -554,6 +557,9 @@
 [submodule "COMPASS"]
 	path = COMPASS
 	url = https://github.com/bioc/COMPASS
+[submodule "CONCERTDR"]
+	path = CONCERTDR
+	url = https://github.com/bioc/CONCERTDR
 [submodule "CONFESS"]
 	path = CONFESS
 	url = https://github.com/bioc/CONFESS
@@ -2525,6 +2531,9 @@
 [submodule "ProtGenerics"]
 	path = ProtGenerics
 	url = https://github.com/bioc/ProtGenerics
+[submodule "ProteinBatcher"]
+	path = ProteinBatcher
+	url = https://github.com/bioc/ProteinBatcher
 [submodule "ProteoDisco"]
 	path = ProteoDisco
 	url = https://github.com/bioc/ProteoDisco
@@ -3209,6 +3218,9 @@
 [submodule "SpectraQL"]
 	path = SpectraQL
 	url = https://github.com/bioc/SpectraQL
+[submodule "SpectraStash"]
+	path = SpectraStash
+	url = https://github.com/bioc/SpectraStash
 [submodule "SpectralTAD"]
 	path = SpectralTAD
 	url = https://github.com/bioc/SpectralTAD
@@ -5804,6 +5816,9 @@
 [submodule "nondetects"]
 	path = nondetects
 	url = https://github.com/bioc/nondetects
+[submodule "normScore"]
+	path = normScore
+	url = https://github.com/bioc/normScore
 [submodule "normalize450K"]
 	path = normalize450K
 	url = https://github.com/bioc/normalize450K
@@ -6107,6 +6122,9 @@
 [submodule "pogos"]
 	path = pogos
 	url = https://github.com/bioc/pogos
+[submodule "polyICSFlow"]
+	path = polyICSFlow
+	url = https://github.com/bioc/polyICSFlow
 [submodule "posDemux"]
 	path = posDemux
 	url = https://github.com/bioc/posDemux
@@ -6476,6 +6494,9 @@
 [submodule "scCB2"]
 	path = scCB2
 	url = https://github.com/bioc/scCB2
+[submodule "scCertify"]
+	path = scCertify
+	url = https://github.com/bioc/scCertify
 [submodule "scClassify"]
 	path = scClassify
 	url = https://github.com/bioc/scClassify
@@ -6749,6 +6770,9 @@
 [submodule "sigsquared"]
 	path = sigsquared
 	url = https://github.com/bioc/sigsquared
+[submodule "sigvar"]
+	path = sigvar
+	url = https://github.com/bioc/sigvar
 [submodule "simPIC"]
 	path = simPIC
 	url = https://github.com/bioc/simPIC
