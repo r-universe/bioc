@@ -776,6 +776,9 @@
 [submodule "CopyNumberPlots"]
 	path = CopyNumberPlots
 	url = https://github.com/bioc/CopyNumberPlots
+[submodule "CorNetto"]
+	path = CorNetto
+	url = https://github.com/bioc/CorNetto
 [submodule "Coralysis"]
 	path = Coralysis
 	url = https://github.com/bioc/Coralysis
@@ -2552,6 +2555,9 @@
 [submodule "QFeatures"]
 	path = QFeatures
 	url = https://github.com/bioc/QFeatures
+[submodule "QFeaturesGUI"]
+	path = QFeaturesGUI
+	url = https://github.com/bioc/QFeaturesGUI
 [submodule "QRscore"]
 	path = QRscore
 	url = https://github.com/bioc/QRscore
@@ -4832,6 +4838,9 @@
 [submodule "gcrma"]
 	path = gcrma
 	url = https://github.com/bioc/gcrma
+[submodule "gdscloud"]
+	path = gdscloud
+	url = https://github.com/bioc/gdscloud
 [submodule "gdsfmt"]
 	path = gdsfmt
 	url = https://github.com/bioc/gdsfmt
