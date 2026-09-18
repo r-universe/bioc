@@ -4862,6 +4862,9 @@
 [submodule "geneClassifiers"]
 	path = geneClassifiers
 	url = https://github.com/bioc/geneClassifiers
+[submodule "geneClusterPattern"]
+	path = geneClusterPattern
+	url = https://github.com/bioc/geneClusterPattern
 [submodule "geneRecommender"]
 	path = geneRecommender
 	url = https://github.com/bioc/geneRecommender
