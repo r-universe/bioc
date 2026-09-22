@@ -2600,6 +2600,9 @@
 [submodule "RBM"]
 	path = RBM
 	url = https://github.com/bioc/RBM
+[submodule "RBPEqBind"]
+	path = RBPEqBind
+	url = https://github.com/bioc/RBPEqBind
 [submodule "RBPSpecificity"]
 	path = RBPSpecificity
 	url = https://github.com/bioc/RBPSpecificity
@@ -3392,6 +3395,9 @@
 [submodule "TSENAT"]
 	path = TSENAT
 	url = https://github.com/bioc/TSENAT
+[submodule "TSSr"]
+	path = TSSr
+	url = https://github.com/bioc/TSSr
 [submodule "TTMap"]
 	path = TTMap
 	url = https://github.com/bioc/TTMap
