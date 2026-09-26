@@ -1784,9 +1784,6 @@
 [submodule "LEA"]
 	path = LEA
 	url = https://github.com/bioc/LEA
-[submodule "LIPIDIFy"]
-	path = LIPIDIFy
-	url = https://github.com/bioc/LIPIDIFy
 [submodule "LOBSTAHS"]
 	path = LOBSTAHS
 	url = https://github.com/bioc/LOBSTAHS
