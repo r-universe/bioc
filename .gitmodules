@@ -5753,6 +5753,9 @@
 [submodule "multicrispr"]
 	path = multicrispr
 	url = https://github.com/bioc/multicrispr
+[submodule "multipletR"]
+	path = multipletR
+	url = https://github.com/bioc/multipletR
 [submodule "multipointR"]
 	path = multipointR
 	url = https://github.com/bioc/multipointR
