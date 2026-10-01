@@ -6715,7 +6715,7 @@
 	url = https://github.com/bioc/scTypeEval
 [submodule "scafari"]
 	path = scafari
-	url = https://git.bioconductor.org/packages/scafari
+	url = https://github.com/bioc/scafari
 [submodule "scanMiR"]
 	path = scanMiR
 	url = https://github.com/bioc/scanMiR
@@ -6901,7 +6901,7 @@
 	url = https://github.com/bioc/sincell
 [submodule "singIST"]
 	path = singIST
-	url = https://git.bioconductor.org/packages/singIST
+	url = https://github.com/bioc/singIST
 [submodule "singleCellTK"]
 	path = singleCellTK
 	url = https://github.com/bioc/singleCellTK
