@@ -5066,6 +5066,9 @@
 [submodule "graphite"]
 	path = graphite
 	url = https://github.com/bioc/graphite
+[submodule "grayleafspotr"]
+	path = grayleafspotr
+	url = https://github.com/bioc/grayleafspotr
 [submodule "groHMM"]
 	path = groHMM
 	url = https://github.com/bioc/groHMM
