@@ -1032,6 +1032,9 @@
 [submodule "DELocal"]
 	path = DELocal
 	url = https://github.com/bioc/DELocal
+[submodule "DEP"]
+	path = DEP
+	url = https://github.com/bioc/DEP
 [submodule "DEScan2"]
 	path = DEScan2
 	url = https://github.com/bioc/DEScan2
@@ -5417,6 +5420,9 @@
 [submodule "ctc"]
 	path = ctc
 	url = https://github.com/bioc/ctc
+[submodule "ctdR"]
+	path = ctdR
+	url = https://github.com/bioc/ctdR
 [submodule "ctsGE"]
 	path = ctsGE
 	url = https://github.com/bioc/ctsGE
@@ -7871,6 +7877,9 @@
 	path = pumadata
 	url = https://github.com/bioc/pumadata
 	type = data
+[submodule "punKEGGer"]
+	path = punKEGGer
+	url = https://github.com/bioc/punKEGGer
 [submodule "pvac"]
 	path = pvac
 	url = https://github.com/bioc/pvac
@@ -8636,6 +8645,9 @@
 [submodule "spacexr"]
 	path = spacexr
 	url = https://github.com/bioc/spacexr
+[submodule "spammR"]
+	path = spammR
+	url = https://github.com/bioc/spammR
 [submodule "sparrow"]
 	path = sparrow
 	url = https://github.com/bioc/sparrow
