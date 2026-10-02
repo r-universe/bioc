@@ -2423,6 +2423,10 @@
 [submodule "PCAtools"]
 	path = PCAtools
 	url = https://github.com/bioc/PCAtools
+[submodule "PCHiCdata"]
+	path = PCHiCdata
+	url = https://github.com/bioc/PCHiCdata
+	type = data
 [submodule "PDATK"]
 	path = PDATK
 	url = https://github.com/bioc/PDATK
