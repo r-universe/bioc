@@ -3653,6 +3653,10 @@
 [submodule "affycoretools"]
 	path = affycoretools
 	url = https://github.com/bioc/affycoretools
+[submodule "affydata"]
+	path = affydata
+	url = https://github.com/bioc/affydata
+	type = data
 [submodule "affyio"]
 	path = affyio
 	url = https://github.com/bioc/affyio
@@ -6500,6 +6504,9 @@
 [submodule "rnaEditr"]
 	path = rnaEditr
 	url = https://github.com/bioc/rnaEditr
+[submodule "rnaSentry"]
+	path = rnaSentry
+	url = https://github.com/bioc/rnaSentry
 [submodule "rnaseqDTU"]
 	path = rnaseqDTU
 	url = https://github.com/bioc/rnaseqDTU
