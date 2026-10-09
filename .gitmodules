@@ -967,6 +967,9 @@
 [submodule "CrispRVariants"]
 	path = CrispRVariants
 	url = https://github.com/bioc/CrispRVariants
+[submodule "CyFj11"]
+	path = CyFj11
+	url = https://github.com/bioc/CyFj11
 [submodule "CySA"]
 	path = CySA
 	url = https://github.com/bioc/CySA
