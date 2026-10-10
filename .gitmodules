@@ -416,6 +416,10 @@
 [submodule "BiocBook"]
 	path = BiocBook
 	url = https://github.com/bioc/BiocBook
+[submodule "BiocBookDemo"]
+	path = BiocBookDemo
+	url = https://github.com/bioc/BiocBookDemo
+	type = data
 [submodule "BiocBuildReporter"]
 	path = BiocBuildReporter
 	url = https://github.com/bioc/BiocBuildReporter
@@ -2931,12 +2935,20 @@
 [submodule "OGRE"]
 	path = OGRE
 	url = https://github.com/bioc/OGRE
+[submodule "OHCA"]
+	path = OHCA
+	url = https://github.com/bioc/OHCA
+	type = data
 [submodule "OLIN"]
 	path = OLIN
 	url = https://github.com/bioc/OLIN
 [submodule "OLINgui"]
 	path = OLINgui
 	url = https://github.com/bioc/OLINgui
+[submodule "OMA"]
+	path = OMA
+	url = https://github.com/bioc/OMA
+	type = data
 [submodule "OMICsPCA"]
 	path = OMICsPCA
 	url = https://github.com/bioc/OMICsPCA
@@ -2956,6 +2968,34 @@
 [submodule "OSAT"]
 	path = OSAT
 	url = https://github.com/bioc/OSAT
+[submodule "OSCA"]
+	path = OSCA
+	url = https://github.com/bioc/OSCA
+	type = data
+[submodule "OSCA.advanced"]
+	path = OSCA.advanced
+	url = https://github.com/bioc/OSCA.advanced
+	type = data
+[submodule "OSCA.basic"]
+	path = OSCA.basic
+	url = https://github.com/bioc/OSCA.basic
+	type = data
+[submodule "OSCA.intro"]
+	path = OSCA.intro
+	url = https://github.com/bioc/OSCA.intro
+	type = data
+[submodule "OSCA.multisample"]
+	path = OSCA.multisample
+	url = https://github.com/bioc/OSCA.multisample
+	type = data
+[submodule "OSCA.workflows"]
+	path = OSCA.workflows
+	url = https://github.com/bioc/OSCA.workflows
+	type = data
+[submodule "OSTA"]
+	path = OSTA
+	url = https://github.com/bioc/OSTA
+	type = data
 [submodule "OSTA.data"]
 	path = OSTA.data
 	url = https://github.com/bioc/OSTA.data
@@ -4012,6 +4052,10 @@
 [submodule "SingleR"]
 	path = SingleR
 	url = https://github.com/bioc/SingleR
+[submodule "SingleRBook"]
+	path = SingleRBook
+	url = https://github.com/bioc/SingleRBook
+	type = data
 [submodule "SingscoreAMLMutations"]
 	path = SingscoreAMLMutations
 	url = https://github.com/bioc/SingscoreAMLMutations
@@ -5414,6 +5458,10 @@
 [submodule "csaw"]
 	path = csaw
 	url = https://github.com/bioc/csaw
+[submodule "csawBook"]
+	path = csawBook
+	url = https://github.com/bioc/csawBook
+	type = data
 [submodule "csawUsersGuide"]
 	path = csawUsersGuide
 	url = https://github.com/bioc/csawUsersGuide
@@ -8417,6 +8465,10 @@
 [submodule "scran"]
 	path = scran
 	url = https://github.com/bioc/scran
+[submodule "scrapbook"]
+	path = scrapbook
+	url = https://github.com/bioc/scrapbook
+	type = data
 [submodule "scrapper"]
 	path = scrapper
 	url = https://github.com/bioc/scrapper
