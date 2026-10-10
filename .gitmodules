@@ -8876,6 +8876,9 @@
 [submodule "terraTCGAdata"]
 	path = terraTCGAdata
 	url = https://github.com/bioc/terraTCGAdata
+[submodule "thyroidBRS"]
+	path = thyroidBRS
+	url = https://github.com/bioc/thyroidBRS
 [submodule "tidyCoverage"]
 	path = tidyCoverage
 	url = https://github.com/bioc/tidyCoverage
