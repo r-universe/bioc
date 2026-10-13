@@ -4107,6 +4107,9 @@
 [submodule "SpatialCPie"]
 	path = SpatialCPie
 	url = https://github.com/bioc/SpatialCPie
+[submodule "SpatialData.data"]
+	path = SpatialData.data
+	url = https://github.com/bioc/SpatialData.data
 [submodule "SpatialDatasets"]
 	path = SpatialDatasets
 	url = https://github.com/bioc/SpatialDatasets
