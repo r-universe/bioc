@@ -325,6 +325,9 @@
 [submodule "BatchSVG"]
 	path = BatchSVG
 	url = https://github.com/bioc/BatchSVG
+[submodule "BatchVaria"]
+	path = BatchVaria
+	url = https://github.com/bioc/BatchVaria
 [submodule "Battlefield"]
 	path = Battlefield
 	url = https://github.com/bioc/Battlefield
@@ -1214,6 +1217,9 @@
 [submodule "DepecheR"]
 	path = DepecheR
 	url = https://github.com/bioc/DepecheR
+[submodule "DiPPER"]
+	path = DiPPER
+	url = https://github.com/bioc/DiPPER
 [submodule "DiffBind"]
 	path = DiffBind
 	url = https://github.com/bioc/DiffBind
@@ -2192,6 +2198,9 @@
 [submodule "IntramiRExploreR"]
 	path = IntramiRExploreR
 	url = https://github.com/bioc/IntramiRExploreR
+[submodule "IntrinsicScan"]
+	path = IntrinsicScan
+	url = https://github.com/bioc/IntrinsicScan
 [submodule "IsoBayes"]
 	path = IsoBayes
 	url = https://github.com/bioc/IsoBayes
@@ -4204,6 +4213,9 @@
 [submodule "SummarizedExperiment"]
 	path = SummarizedExperiment
 	url = https://github.com/bioc/SummarizedExperiment
+[submodule "SummarizedHeatmap"]
+	path = SummarizedHeatmap
+	url = https://github.com/bioc/SummarizedHeatmap
 [submodule "Summix"]
 	path = Summix
 	url = https://github.com/bioc/Summix
