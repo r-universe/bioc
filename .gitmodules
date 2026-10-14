@@ -2780,6 +2780,9 @@
 [submodule "MsBackendMsp"]
 	path = MsBackendMsp
 	url = https://github.com/bioc/MsBackendMsp
+[submodule "MsBackendParquet"]
+	path = MsBackendParquet
+	url = https://github.com/bioc/MsBackendParquet
 [submodule "MsBackendRawFileReader"]
 	path = MsBackendRawFileReader
 	url = https://github.com/bioc/MsBackendRawFileReader
@@ -6765,6 +6768,9 @@
 [submodule "jvecfor"]
 	path = jvecfor
 	url = https://github.com/bioc/jvecfor
+[submodule "karioCaS"]
+	path = karioCaS
+	url = https://github.com/bioc/karioCaS
 [submodule "karyoploteR"]
 	path = karyoploteR
 	url = https://github.com/bioc/karyoploteR
