@@ -3067,6 +3067,9 @@
 [submodule "PAA"]
 	path = PAA
 	url = https://github.com/bioc/PAA
+[submodule "PACE"]
+	path = PACE
+	url = https://github.com/bioc/PACE
 [submodule "PADOG"]
 	path = PADOG
 	url = https://github.com/bioc/PADOG
