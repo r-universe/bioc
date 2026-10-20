@@ -618,6 +618,9 @@
 [submodule "CMA"]
 	path = CMA
 	url = https://github.com/bioc/CMA
+[submodule "CMEnt"]
+	path = CMEnt
+	url = https://github.com/bioc/CMEnt
 [submodule "CNAnorm"]
 	path = CNAnorm
 	url = https://github.com/bioc/CNAnorm
@@ -8202,6 +8205,9 @@
 [submodule "roastgsa"]
 	path = roastgsa
 	url = https://github.com/bioc/roastgsa
+[submodule "rols"]
+	path = rols
+	url = https://github.com/bioc/rols
 [submodule "ropls"]
 	path = ropls
 	url = https://github.com/bioc/ropls
