@@ -3340,6 +3340,9 @@
 [submodule "RAIDS"]
 	path = RAIDS
 	url = https://github.com/bioc/RAIDS
+[submodule "RAMEN"]
+	path = RAMEN
+	url = https://github.com/bioc/RAMEN
 [submodule "RAREsim"]
 	path = RAREsim
 	url = https://github.com/bioc/RAREsim
@@ -3953,6 +3956,9 @@
 [submodule "STRINGdb"]
 	path = STRINGdb
 	url = https://github.com/bioc/STRINGdb
+[submodule "STRprofilerR"]
+	path = STRprofilerR
+	url = https://github.com/bioc/STRprofilerR
 [submodule "STexampleData"]
 	path = STexampleData
 	url = https://github.com/bioc/STexampleData
@@ -7682,6 +7688,9 @@
 	path = pasillaBamSubset
 	url = https://github.com/bioc/pasillaBamSubset
 	type = data
+[submodule "path2path"]
+	path = path2path
+	url = https://github.com/bioc/path2path
 [submodule "pathMED"]
 	path = pathMED
 	url = https://github.com/bioc/pathMED
@@ -7912,6 +7921,9 @@
 [submodule "projectR"]
 	path = projectR
 	url = https://github.com/bioc/projectR
+[submodule "prolfqua"]
+	path = prolfqua
+	url = https://github.com/bioc/prolfqua
 [submodule "prostateCancerCamcap"]
 	path = prostateCancerCamcap
 	url = https://github.com/bioc/prostateCancerCamcap
