@@ -4134,6 +4134,9 @@
 [submodule "SpatialData.data"]
 	path = SpatialData.data
 	url = https://github.com/bioc/SpatialData.data
+[submodule "SpatialData.plot"]
+	path = SpatialData.plot
+	url = https://github.com/bioc/SpatialData.plot
 [submodule "SpatialDatasets"]
 	path = SpatialDatasets
 	url = https://github.com/bioc/SpatialDatasets
@@ -8132,6 +8135,9 @@
 [submodule "regioneReloaded"]
 	path = regioneReloaded
 	url = https://github.com/bioc/regioneReloaded
+[submodule "reglScatterplotR"]
+	path = reglScatterplotR
+	url = https://github.com/bioc/reglScatterplotR
 [submodule "regsplice"]
 	path = regsplice
 	url = https://github.com/bioc/regsplice
