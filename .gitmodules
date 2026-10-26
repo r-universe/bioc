@@ -8397,6 +8397,9 @@
 	path = scMultiome
 	url = https://github.com/bioc/scMultiome
 	type = data
+[submodule "scOverlay"]
+	path = scOverlay
+	url = https://github.com/bioc/scOverlay
 [submodule "scPCA"]
 	path = scPCA
 	url = https://github.com/bioc/scPCA
