@@ -8878,6 +8878,9 @@
 [submodule "stepNorm"]
 	path = stepNorm
 	url = https://github.com/bioc/stepNorm
+[submodule "strainspy"]
+	path = strainspy
+	url = https://github.com/bioc/strainspy
 [submodule "strandCheckR"]
 	path = strandCheckR
 	url = https://github.com/bioc/strandCheckR
