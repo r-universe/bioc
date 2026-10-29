@@ -4592,6 +4592,9 @@
 	path = WeberDivechaLCdata
 	url = https://github.com/bioc/WeberDivechaLCdata
 	type = data
+[submodule "WithinHostExperiment"]
+	path = WithinHostExperiment
+	url = https://github.com/bioc/WithinHostExperiment
 [submodule "Wrench"]
 	path = Wrench
 	url = https://github.com/bioc/Wrench
