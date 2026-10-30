@@ -4756,6 +4756,9 @@
 [submodule "alabaster.string"]
 	path = alabaster.string
 	url = https://github.com/bioc/alabaster.string
+[submodule "alabaster.treese"]
+	path = alabaster.treese
+	url = https://github.com/bioc/alabaster.treese
 [submodule "alabaster.vcf"]
 	path = alabaster.vcf
 	url = https://github.com/bioc/alabaster.vcf
