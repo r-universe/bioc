@@ -1677,6 +1677,10 @@
 	path = GSE13015
 	url = https://github.com/bioc/GSE13015
 	type = data
+[submodule "GSE142512"]
+	path = GSE142512
+	url = https://github.com/bioc/GSE142512
+	type = data
 [submodule "GSE159526"]
 	path = GSE159526
 	url = https://github.com/bioc/GSE159526
@@ -2586,6 +2590,9 @@
 [submodule "Macarron"]
 	path = Macarron
 	url = https://github.com/bioc/Macarron
+[submodule "MagellanNTK"]
+	path = MagellanNTK
+	url = https://github.com/bioc/MagellanNTK
 [submodule "MantelCorr"]
 	path = MantelCorr
 	url = https://github.com/bioc/MantelCorr
