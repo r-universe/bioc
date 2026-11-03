@@ -5870,6 +5870,9 @@
 [submodule "enrichViewNet"]
 	path = enrichViewNet
 	url = https://github.com/bioc/enrichViewNet
+[submodule "enrichmet"]
+	path = enrichmet
+	url = https://github.com/bioc/enrichmet
 [submodule "enrichplot"]
 	path = enrichplot
 	url = https://github.com/bioc/enrichplot
@@ -7457,9 +7460,6 @@
 [submodule "mygene"]
 	path = mygene
 	url = https://github.com/bioc/mygene
-[submodule "myoRDNA"]
-	path = myoRDNA
-	url = https://github.com/bioc/myoRDNA
 [submodule "myvariant"]
 	path = myvariant
 	url = https://github.com/bioc/myvariant
@@ -8591,6 +8591,9 @@
 [submodule "seqPattern"]
 	path = seqPattern
 	url = https://github.com/bioc/seqPattern
+[submodule "seqRdna"]
+	path = seqRdna
+	url = https://github.com/bioc/seqRdna
 [submodule "seqc"]
 	path = seqc
 	url = https://github.com/bioc/seqc
