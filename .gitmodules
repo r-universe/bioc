@@ -7457,6 +7457,9 @@
 [submodule "mygene"]
 	path = mygene
 	url = https://github.com/bioc/mygene
+[submodule "myoRDNA"]
+	path = myoRDNA
+	url = https://github.com/bioc/myoRDNA
 [submodule "myvariant"]
 	path = myvariant
 	url = https://github.com/bioc/myvariant
