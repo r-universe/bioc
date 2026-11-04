@@ -6833,6 +6833,9 @@
 [submodule "koinar"]
 	path = koinar
 	url = https://github.com/bioc/koinar
+[submodule "lantern"]
+	path = lantern
+	url = https://github.com/bioc/lantern
 [submodule "lcmsPlot"]
 	path = lcmsPlot
 	url = https://github.com/bioc/lcmsPlot
