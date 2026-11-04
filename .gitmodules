@@ -8428,6 +8428,9 @@
 [submodule "scPipe"]
 	path = scPipe
 	url = https://github.com/bioc/scPipe
+[submodule "scProkaR"]
+	path = scProkaR
+	url = https://github.com/bioc/scProkaR
 [submodule "scQTLtools"]
 	path = scQTLtools
 	url = https://github.com/bioc/scQTLtools
@@ -8982,6 +8985,9 @@
 [submodule "tRanslatome"]
 	path = tRanslatome
 	url = https://github.com/bioc/tRanslatome
+[submodule "tTEscanR"]
+	path = tTEscanR
+	url = https://github.com/bioc/tTEscanR
 [submodule "tadar"]
 	path = tadar
 	url = https://github.com/bioc/tadar
