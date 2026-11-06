@@ -3289,6 +3289,10 @@
 [submodule "ProteoMM"]
 	path = ProteoMM
 	url = https://github.com/bioc/ProteoMM
+[submodule "PscanRBackgrounds"]
+	path = PscanRBackgrounds
+	url = https://github.com/bioc/PscanRBackgrounds
+	type = data
 [submodule "PtH2O2lipids"]
 	path = PtH2O2lipids
 	url = https://github.com/bioc/PtH2O2lipids
