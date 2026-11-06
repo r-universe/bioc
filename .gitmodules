@@ -2522,6 +2522,9 @@
 [submodule "MPRAnalyze"]
 	path = MPRAnalyze
 	url = https://github.com/bioc/MPRAnalyze
+[submodule "MRManalyzeR"]
+	path = MRManalyzeR
+	url = https://github.com/bioc/MRManalyzeR
 [submodule "MSA2dist"]
 	path = MSA2dist
 	url = https://github.com/bioc/MSA2dist
