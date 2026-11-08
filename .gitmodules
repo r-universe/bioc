@@ -3727,6 +3727,9 @@
 [submodule "Rhtslib"]
 	path = Rhtslib
 	url = https://github.com/bioc/Rhtslib
+[submodule "RhyME"]
+	path = RhyME
+	url = https://github.com/bioc/RhyME
 [submodule "RiboCrypt"]
 	path = RiboCrypt
 	url = https://github.com/bioc/RiboCrypt
@@ -4901,6 +4904,9 @@
 [submodule "awst"]
 	path = awst
 	url = https://github.com/bioc/awst
+[submodule "bHIVE"]
+	path = bHIVE
+	url = https://github.com/bioc/bHIVE
 [submodule "bacon"]
 	path = bacon
 	url = https://github.com/bioc/bacon
@@ -5505,6 +5511,9 @@
 [submodule "crlmm"]
 	path = crlmm
 	url = https://github.com/bioc/crlmm
+[submodule "crossarrayEWAS"]
+	path = crossarrayEWAS
+	url = https://github.com/bioc/crossarrayEWAS
 [submodule "crumblr"]
 	path = crumblr
 	url = https://github.com/bioc/crumblr
