@@ -3289,6 +3289,9 @@
 [submodule "ProteoMM"]
 	path = ProteoMM
 	url = https://github.com/bioc/ProteoMM
+[submodule "PscanR"]
+	path = PscanR
+	url = https://github.com/bioc/PscanR
 [submodule "PscanRBackgrounds"]
 	path = PscanRBackgrounds
 	url = https://github.com/bioc/PscanRBackgrounds
