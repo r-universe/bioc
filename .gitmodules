@@ -3517,6 +3517,9 @@
 [submodule "RPA"]
 	path = RPA
 	url = https://github.com/bioc/RPA
+[submodule "RPBC"]
+	path = RPBC
+	url = https://github.com/bioc/RPBC
 [submodule "RProtoBufLib"]
 	path = RProtoBufLib
 	url = https://github.com/bioc/RProtoBufLib
@@ -5189,6 +5192,9 @@
 [submodule "categoryCompare"]
 	path = categoryCompare
 	url = https://github.com/bioc/categoryCompare
+[submodule "causalASCEND"]
+	path = causalASCEND
+	url = https://github.com/bioc/causalASCEND
 [submodule "cbaf"]
 	path = cbaf
 	url = https://github.com/bioc/cbaf
