@@ -1319,6 +1319,9 @@
 [submodule "EBcoexpress"]
 	path = EBcoexpress
 	url = https://github.com/bioc/EBcoexpress
+[submodule "ECLIPSE"]
+	path = ECLIPSE
+	url = https://github.com/bioc/ECLIPSE
 [submodule "EDASeq"]
 	path = EDASeq
 	url = https://github.com/bioc/EDASeq
@@ -1961,6 +1964,9 @@
 	path = HSMMSingleCell
 	url = https://github.com/bioc/HSMMSingleCell
 	type = data
+[submodule "HTAN"]
+	path = HTAN
+	url = https://github.com/bioc/HTAN
 [submodule "HTSFilter"]
 	path = HTSFilter
 	url = https://github.com/bioc/HTSFilter
@@ -7183,6 +7189,9 @@
 [submodule "methylumi"]
 	path = methylumi
 	url = https://github.com/bioc/methylumi
+[submodule "mgcca"]
+	path = mgcca
+	url = https://github.com/bioc/mgcca
 [submodule "mgsa"]
 	path = mgsa
 	url = https://github.com/bioc/mgsa
