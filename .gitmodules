@@ -2875,6 +2875,9 @@
 [submodule "MutationalPatterns"]
 	path = MutationalPatterns
 	url = https://github.com/bioc/MutationalPatterns
+[submodule "NADIA"]
+	path = NADIA
+	url = https://github.com/bioc/NADIA
 [submodule "NADfinder"]
 	path = NADfinder
 	url = https://github.com/bioc/NADfinder
@@ -4849,6 +4852,9 @@
 [submodule "apComplex"]
 	path = apComplex
 	url = https://github.com/bioc/apComplex
+[submodule "apbCatalogR"]
+	path = apbCatalogR
+	url = https://github.com/bioc/apbCatalogR
 [submodule "apeglm"]
 	path = apeglm
 	url = https://github.com/bioc/apeglm
