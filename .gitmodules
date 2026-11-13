@@ -746,6 +746,9 @@
 [submodule "CalibraCurve"]
 	path = CalibraCurve
 	url = https://github.com/bioc/CalibraCurve
+[submodule "CanvasXpressBio"]
+	path = CanvasXpressBio
+	url = https://github.com/bioc/CanvasXpressBio
 [submodule "Cardinal"]
 	path = Cardinal
 	url = https://github.com/bioc/Cardinal
@@ -2202,6 +2205,9 @@
 [submodule "IntEREst"]
 	path = IntEREst
 	url = https://github.com/bioc/IntEREst
+[submodule "IntegratedLearner"]
+	path = IntegratedLearner
+	url = https://github.com/bioc/IntegratedLearner
 [submodule "InterCellar"]
 	path = InterCellar
 	url = https://github.com/bioc/InterCellar
