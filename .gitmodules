@@ -5251,6 +5251,9 @@
 [submodule "cellbaseR"]
 	path = cellbaseR
 	url = https://github.com/bioc/cellbaseR
+[submodule "cellchatr"]
+	path = cellchatr
+	url = https://github.com/bioc/cellchatr
 [submodule "celldex"]
 	path = celldex
 	url = https://github.com/bioc/celldex
