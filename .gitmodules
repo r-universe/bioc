@@ -2729,6 +2729,9 @@
 [submodule "Mfuzz"]
 	path = Mfuzz
 	url = https://github.com/bioc/Mfuzz
+[submodule "MiCARA"]
+	path = MiCARA
+	url = https://github.com/bioc/MiCARA
 [submodule "MiChip"]
 	path = MiChip
 	url = https://github.com/bioc/MiChip
@@ -8367,6 +8370,9 @@
 [submodule "savingBiocObjects"]
 	path = savingBiocObjects
 	url = https://github.com/bioc/savingBiocObjects
+[submodule "sbivar"]
+	path = sbivar
+	url = https://github.com/bioc/sbivar
 [submodule "scATAC.Explorer"]
 	path = scATAC.Explorer
 	url = https://github.com/bioc/scATAC.Explorer
