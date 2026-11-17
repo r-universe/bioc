@@ -2232,6 +2232,9 @@
 [submodule "IsoCorrectoRGUI"]
 	path = IsoCorrectoRGUI
 	url = https://github.com/bioc/IsoCorrectoRGUI
+[submodule "IsoNetAnalyzeR"]
+	path = IsoNetAnalyzeR
+	url = https://github.com/bioc/IsoNetAnalyzeR
 [submodule "IsoformSwitchAnalyzeR"]
 	path = IsoformSwitchAnalyzeR
 	url = https://github.com/bioc/IsoformSwitchAnalyzeR
