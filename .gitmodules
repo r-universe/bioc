@@ -9348,6 +9348,9 @@
 [submodule "wiggleplotr"]
 	path = wiggleplotr
 	url = https://github.com/bioc/wiggleplotr
+[submodule "woven"]
+	path = woven
+	url = https://github.com/bioc/woven
 [submodule "wpm"]
 	path = wpm
 	url = https://github.com/bioc/wpm
