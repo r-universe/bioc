@@ -6748,6 +6748,9 @@
 [submodule "icetea"]
 	path = icetea
 	url = https://github.com/bioc/icetea
+[submodule "iconic"]
+	path = iconic
+	url = https://github.com/bioc/iconic
 [submodule "ideal"]
 	path = ideal
 	url = https://github.com/bioc/ideal
