@@ -2767,6 +2767,9 @@
 [submodule "MsExperiment"]
 	path = MsExperiment
 	url = https://github.com/bioc/MsExperiment
+[submodule "MsExperimentStash"]
+	path = MsExperimentStash
+	url = https://github.com/bioc/MsExperimentStash
 [submodule "MsFeatures"]
 	path = MsFeatures
 	url = https://github.com/bioc/MsFeatures
@@ -6957,6 +6960,9 @@
 [submodule "memes"]
 	path = memes
 	url = https://github.com/bioc/memes
+[submodule "mesa"]
+	path = mesa
+	url = https://github.com/bioc/mesa
 [submodule "meshes"]
 	path = meshes
 	url = https://github.com/bioc/meshes
