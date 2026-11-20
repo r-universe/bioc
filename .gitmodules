@@ -5346,6 +5346,9 @@
 [submodule "consensusOV"]
 	path = consensusOV
 	url = https://github.com/bioc/consensusOV
+[submodule "consensusRegions"]
+	path = consensusRegions
+	url = https://github.com/bioc/consensusRegions
 [submodule "consensusSeekeR"]
 	path = consensusSeekeR
 	url = https://github.com/bioc/consensusSeekeR
@@ -7054,6 +7057,9 @@
 [submodule "methylSig"]
 	path = methylSig
 	url = https://github.com/bioc/methylSig
+[submodule "methylTFR"]
+	path = methylTFR
+	url = https://github.com/bioc/methylTFR
 [submodule "methylationArrayAnalysis"]
 	path = methylationArrayAnalysis
 	url = https://github.com/bioc/methylationArrayAnalysis
