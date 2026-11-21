@@ -6676,6 +6676,9 @@
 [submodule "impute"]
 	path = impute
 	url = https://github.com/bioc/impute
+[submodule "inferRecom"]
+	path = inferRecom
+	url = https://github.com/bioc/inferRecom
 [submodule "infercnv"]
 	path = infercnv
 	url = https://github.com/bioc/infercnv
@@ -8489,6 +8492,9 @@
 [submodule "selectKSigs"]
 	path = selectKSigs
 	url = https://github.com/bioc/selectKSigs
+[submodule "selexprepR"]
+	path = selexprepR
+	url = https://github.com/bioc/selexprepR
 [submodule "semisup"]
 	path = semisup
 	url = https://github.com/bioc/semisup
