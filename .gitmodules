@@ -5220,6 +5220,9 @@
 [submodule "circRNAprofiler"]
 	path = circRNAprofiler
 	url = https://github.com/bioc/circRNAprofiler
+[submodule "circaTime"]
+	path = circaTime
+	url = https://github.com/bioc/circaTime
 [submodule "cleanUpdTSeq"]
 	path = cleanUpdTSeq
 	url = https://github.com/bioc/cleanUpdTSeq
