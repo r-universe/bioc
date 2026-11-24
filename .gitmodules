@@ -194,6 +194,9 @@
 [submodule "AnnotationForge"]
 	path = AnnotationForge
 	url = https://github.com/bioc/AnnotationForge
+[submodule "AnnotationGx"]
+	path = AnnotationGx
+	url = https://github.com/bioc/AnnotationGx
 [submodule "AnnotationHub"]
 	path = AnnotationHub
 	url = https://github.com/bioc/AnnotationHub
@@ -484,6 +487,9 @@
 [submodule "BreastSubtypeR"]
 	path = BreastSubtypeR
 	url = https://github.com/bioc/BreastSubtypeR
+[submodule "BreedingExperiment"]
+	path = BreedingExperiment
+	url = https://github.com/bioc/BreedingExperiment
 [submodule "BridgeDbR"]
 	path = BridgeDbR
 	url = https://github.com/bioc/BridgeDbR
@@ -787,6 +793,13 @@
 [submodule "CexoR"]
 	path = CexoR
 	url = https://github.com/bioc/CexoR
+[submodule "ChAMP"]
+	path = ChAMP
+	url = https://github.com/bioc/ChAMP
+[submodule "ChAMPdata"]
+	path = ChAMPdata
+	url = https://git.bioconductor.org/packages/ChAMPdata
+	type = data
 [submodule "ChIPComp"]
 	path = ChIPComp
 	url = https://github.com/bioc/ChIPComp
@@ -2475,6 +2488,9 @@
 [submodule "MPRAnalyze"]
 	path = MPRAnalyze
 	url = https://github.com/bioc/MPRAnalyze
+[submodule "MRCCC"]
+	path = MRCCC
+	url = https://github.com/bioc/MRCCC
 [submodule "MRManalyzeR"]
 	path = MRManalyzeR
 	url = https://github.com/bioc/MRManalyzeR
@@ -3011,6 +3027,9 @@
 [submodule "Omixer"]
 	path = Omixer
 	url = https://github.com/bioc/Omixer
+[submodule "OmniCorr"]
+	path = OmniCorr
+	url = https://github.com/bioc/OmniCorr
 [submodule "OmnipathR"]
 	path = OmnipathR
 	url = https://github.com/bioc/OmnipathR
@@ -3560,6 +3579,9 @@
 [submodule "Rbwa"]
 	path = Rbwa
 	url = https://github.com/bioc/Rbwa
+[submodule "RcisTarget"]
+	path = RcisTarget
+	url = https://github.com/bioc/RcisTarget
 [submodule "Rcollectl"]
 	path = Rcollectl
 	url = https://github.com/bioc/Rcollectl
@@ -4813,6 +4835,9 @@
 [submodule "bacon"]
 	path = bacon
 	url = https://github.com/bioc/bacon
+[submodule "ballgown"]
+	path = ballgown
+	url = https://github.com/bioc/ballgown
 [submodule "bambu"]
 	path = bambu
 	url = https://github.com/bioc/bambu
@@ -6142,6 +6167,9 @@
 [submodule "gDRimport"]
 	path = gDRimport
 	url = https://github.com/bioc/gDRimport
+[submodule "gDRplots"]
+	path = gDRplots
+	url = https://github.com/bioc/gDRplots
 [submodule "gDRstyle"]
 	path = gDRstyle
 	url = https://github.com/bioc/gDRstyle
@@ -7570,6 +7598,9 @@
 	path = optimalFlowData
 	url = https://github.com/bioc/optimalFlowData
 	type = data
+[submodule "orthoRibbon"]
+	path = orthoRibbon
+	url = https://github.com/bioc/orthoRibbon
 [submodule "orthogene"]
 	path = orthogene
 	url = https://github.com/bioc/orthogene
