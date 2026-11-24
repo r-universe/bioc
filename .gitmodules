@@ -5926,6 +5926,9 @@
 [submodule "exploreSE"]
 	path = exploreSE
 	url = https://github.com/bioc/exploreSE
+[submodule "exposomeSC"]
+	path = exposomeSC
+	url = https://github.com/bioc/exposomeSC
 [submodule "extraChIPs"]
 	path = extraChIPs
 	url = https://github.com/bioc/extraChIPs
@@ -6344,6 +6347,9 @@
 [submodule "ggtreeSpace"]
 	path = ggtreeSpace
 	url = https://github.com/bioc/ggtreeSpace
+[submodule "ggwas"]
+	path = ggwas
+	url = https://github.com/bioc/ggwas
 [submodule "ginmappeR"]
 	path = ginmappeR
 	url = https://github.com/bioc/ginmappeR
