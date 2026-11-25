@@ -8410,6 +8410,9 @@
 [submodule "scShapes"]
 	path = scShapes
 	url = https://github.com/bioc/scShapes
+[submodule "scSimEval"]
+	path = scSimEval
+	url = https://github.com/bioc/scSimEval
 [submodule "scTGIF"]
 	path = scTGIF
 	url = https://github.com/bioc/scTGIF
