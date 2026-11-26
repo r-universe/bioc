@@ -295,6 +295,9 @@
 [submodule "BamScale"]
 	path = BamScale
 	url = https://github.com/bioc/BamScale
+[submodule "BamScaleR"]
+	path = BamScaleR
+	url = https://github.com/bioc/BamScaleR
 [submodule "Banksy"]
 	path = Banksy
 	url = https://github.com/bioc/Banksy
