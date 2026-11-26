@@ -8780,6 +8780,9 @@
 [submodule "speckle"]
 	path = speckle
 	url = https://github.com/bioc/speckle
+[submodule "spiSEE"]
+	path = spiSEE
+	url = https://github.com/bioc/spiSEE
 [submodule "spicyR"]
 	path = spicyR
 	url = https://github.com/bioc/spicyR
